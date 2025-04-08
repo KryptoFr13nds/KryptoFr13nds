@@ -1,6 +1,6 @@
 {
-    "Version": "1",
-    "ReleaseNotes": "👋 ATUALIZAÇÃO DISPONÍVEL UP1! INTERNET ILIMITADA APARTIR DE R$15,00🚀GERE SEU TESTE telegram @BRUTFORCEBOT| Dono @Kryptorvps 🚀CLIQUE EM ATUALIZAR 🚀",
+    "Version": "2",
+    "ReleaseNotes": "👋 ATUALIZAÇÃO DISPONÍVEL UP1! INTERNET ILIMITADA APARTIR DE R$25,00🚀GERE SEU TESTE telegram | Dono @Kryptorvps 🚀CLIQUE EM ATUALIZAR 🚀",
     "UrlUpdate": "https://raw.githubusercontent.com/KryptoFr13nds/KryptoFr13nds/refs/heads/main/C4G",
     "Sms": "",
     "EmailFeedback": "https://downdetector.com.br/",
@@ -16,7 +16,7 @@
     "Servers": [
 	
          {
-            "Name": "⚜️SERVERS CLOUDFLARE 🇧🇷 BRUTEFORCE⚜️",
+            "Name": "⚜️SERV CLOUDFLARE 🇧🇷 BRUTEFORCE⚜️",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "",
