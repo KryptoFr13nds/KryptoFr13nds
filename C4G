@@ -1,6 +1,6 @@
 {
-    "Version": "5",
-    "ReleaseNotes": "👋 ATUALIZAÇÃO DISPONÍVEL UP4! INTERNET ILIMITADA APARTIR DE R$15,00🚀GERE SEU TESTE telegram | Dono @Kryptorvps 🚀CLIQUE EM ATUALIZAR 🚀",
+    "Version": "6",
+    "ReleaseNotes": "👋 ATUALIZAÇÃO DISPONÍVEL UP6! INTERNET ILIMITADA APARTIR DE R$15,00🚀GERE SEU TESTE telegram | Dono @Kryptorvps 🚀CLIQUE EM ATUALIZAR 🚀",
     "UrlUpdate": "https://raw.githubusercontent.com/KryptoFr13nds/KryptoFr13nds/refs/heads/main/C4G",
     "Sms": "",
     "EmailFeedback": "https://wa.me/message/QXZG754OZZ24A1",
@@ -27,7 +27,7 @@
             "PASS": ""
         },
 	    {
-            "Name": "#",
+            "Name": "",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "",
@@ -60,7 +60,7 @@
             "PASS": ""
         },
 	    {
-            "Name": "#",
+            "Name": "",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "",
@@ -93,7 +93,7 @@
             "PASS": ""
          },
 	     {
-            "Name": "#",
+            "Name": "",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "",
@@ -126,7 +126,7 @@
             "PASS": ""
         },
     	{
-            "Name": "#",
+            "Name": "",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "",
@@ -325,7 +325,7 @@
         },
         {
             "Name": "--------------------FIM--------------------",
-            "FLAG": "tim",
+            "FLAG": "",
             "Payload": "",
             "SNI": "",
             "TlsIP": "",
@@ -464,7 +464,7 @@
         },
         {
             "Name": "--------------------FIM--------------------",
-            "FLAG": "tim",
+            "FLAG": "",
             "Payload": "",
             "SNI": "",
             "TlsIP": "",
@@ -609,7 +609,7 @@
         },
         {
             "Name": "--------------------FIM--------------------",
-            "FLAG": "tim",
+            "FLAG": "",
             "Payload": "",
             "SNI": "",
             "TlsIP": "",
@@ -690,7 +690,7 @@
         },
         {
             "Name": "--------------------FIM--------------------",
-            "FLAG": "tim",
+            "FLAG": "",
             "Payload": "",
             "SNI": "",
             "TlsIP": "",
@@ -761,7 +761,7 @@
         },	
         {
             "Name": "--------------------FIM--------------------",
-            "FLAG": "tim",
+            "FLAG": "",
             "Payload": "",
             "SNI": "",
             "TlsIP": "",
@@ -897,7 +897,7 @@
         },
         {
             "Name": "--------------------FIM--------------------",
-            "FLAG": "tim",
+            "FLAG": "",
             "Payload": "",
             "SNI": "",
             "TlsIP": "",
@@ -1244,7 +1244,7 @@
         },
         {
             "Name": "--------------------FIM--------------------",
-            "FLAG": "tim",
+            "FLAG": "",
             "Payload": "",
             "SNI": "",
             "TlsIP": "",
@@ -1429,7 +1429,7 @@
         },
         {
             "Name": "--------------------FIM--------------------",
-            "FLAG": "tim",
+            "FLAG": "",
             "Payload": "",
             "SNI": "",
             "TlsIP": "",
@@ -1596,7 +1596,7 @@
         },
         {
             "Name": "--------------------FIM--------------------",
-            "FLAG": "tim",
+            "FLAG": "",
             "Payload": "",
             "SNI": "",
             "TlsIP": "",
