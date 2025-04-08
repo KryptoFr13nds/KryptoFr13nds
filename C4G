@@ -1,9 +1,9 @@
 {
-    "Version": "7",
-    "ReleaseNotes": "👋 ATUALIZAÇÃO DISPONÍVEL UP7! INTERNET ILIMITADA APARTIR DE R$15,00🚀GERE SEU TESTE telegram | Dono @Kryptorvps 🚀CLIQUE EM ATUALIZAR 🚀",
+    "Version": "8",
+    "ReleaseNotes": "👋 ATUALIZAÇÃO DISPONÍVEL UP8! INTERNET ILIMITADA APARTIR DE R$15,00🚀GERE SEU TESTE telegram | Dono @Kryptorvps 🚀CLIQUE EM ATUALIZAR 🚀",
     "UrlUpdate": "https://raw.githubusercontent.com/KryptoFr13nds/KryptoFr13nds/refs/heads/main/C4G",
     "Sms": "",
-    "EmailFeedback": "https://wa.me/message/QXZG754OZZ24A1",
+    "EmailFeedback": "https://t.me/kryptorvpsgroup/",
     "UrlContato": "https://chat.whatsapp.com/EHRwAZqSuqfHYR4BNNHhXu",
     "UrlTermos": "https://telegra.ph/MONTAGENS-DE-SERVIDORES-DE-INTERNET-via-VPN-ULIMITED-PARA-REVENDER-e-PARA-USO-PESSOAL---UPDATE-2023-03-02",
     "CheckUser": "true",
@@ -27,7 +27,7 @@
             "PASS": ""
         },
 	    {
-            "Name": "",
+            "Name": "#",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "",
@@ -60,7 +60,7 @@
             "PASS": ""
         },
 	    {
-            "Name": "",
+            "Name": "#",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "",
@@ -93,7 +93,7 @@
             "PASS": ""
          },
 	     {
-            "Name": "",
+            "Name": "#",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "",
@@ -126,7 +126,7 @@
             "PASS": ""
         },
     	{
-            "Name": "",
+            "Name": "#",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "",
@@ -166,7 +166,7 @@
 		
 						
 	    	    {
-            "Name": "👇USE SEM INTERNET NAS OPERADORAS 🟣ROXA 🔵AZUL 🔴VERMELHA CONFORME O PLANO E REGIÃO RECOMENDO A 🟣ROXA COM PLANO PRIME OU PRE",
+            "Name": "👇USE SEM INTERNET NAS OPERADORAS CARGA🟣ROXA 🔵CARGAAZUL CARGA🔴VERMELHA CONFORME O PLANO E REGIÃO RECOMENDO A CARGA🟣ROXA COM PLANO PRIME OU PRE",
             "FLAG": "vivo",
             "Payload": "",
             "SNI": "",
@@ -232,7 +232,7 @@
         },
         { 
 		 
-            "Name": "[🟣][SECURITY]-1  🔄10X✈",
+            "Name": "[CARGA🟣][SECURITY]🔄10X✈-1  🔄10X✈",
             "FLAG": "vivo",
             "Payload": "GET / HTTP/1.1[crlf]Host:[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "[app_host]",
@@ -242,7 +242,7 @@
             "Info": "Proxy"
         },
 		{                        
-            "Name": "[🟣][SECURITY]-2  🔄10X✈",
+            "Name": "[CARGA🟣][SECURITY]🔄10X✈-2  🔄10X✈",
             "FLAG": "vivo",
             "Payload": "GET / HTTP/1.1[crlf]Host:[crlf]Upgrade:websocket[crlf]Connection:[crlf][crlf]",
             "SNI": "",
@@ -252,7 +252,7 @@
             "Info": "Proxy"
         },
         {                        
-            "Name": "[🟣][SECURITY]-3  🔄10X✈",
+            "Name": "[CARGA🟣][SECURITY]🔄10X✈-3  🔄10X✈",
             "FLAG": "vivo",
             "Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: portalrecarga.vivo.com.br[crlf]Upgrade: Upgrade[crlf]Connection:[crlf][crlf]",
             "SNI": "[app_host]",
@@ -262,7 +262,7 @@
             "Info": "Proxy"
         },
      	{                        
-            "Name": "[🟣][SECURITY]-4  🔄10X✈",
+            "Name": "[CARGA🟣][SECURITY]🔄10X✈-4  🔄10X✈",
             "FLAG": "vivo",
             "Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
             "SNI": "[app_host]",
@@ -272,7 +272,7 @@
             "Info": "Proxy"
         },			
         {                        
-            "Name": "[🟣][SECURITY]-5  🔄10X✈",
+            "Name": "[CARGA🟣][SECURITY]🔄10X✈-5  🔄10X✈",
             "FLAG": "vivo",
             "Payload": "[delay_split][netData][crlf][split]GET http://portalrecarga.vivo.com.br/recarga/home/?/  HTTP/1.1[crlf][crlf]Host: portalrecarga.vivo.com.br/recarga/home/?[crlf]X-Online-Host: portalrecarga.vivo.com.br/recarga/home/?[crlf]Connection: Keep-Alive[crlf][crlf]",
             "SNI": "[app_host]",
@@ -282,7 +282,7 @@
             "Info": "Proxy"
         },	
     	 {                        
-            "Name": "[🟣][SECURITY]-6  🔄10X✈",
+            "Name": "[CARGA🟣][SECURITY]🔄10X✈-6  🔄10X✈",
             "FLAG": "vivo",
             "Payload": "[split_delay]ACL http://portalrecarga.vivo.com.br/recarga/home/?/ HTTP/1.1[crlf]portalrecarga.vivo.com.br/recarga/home/?[lf]Host: portalrecarga.vivo.com.br/recarga/home/?[lf][lf]CONNECT portalrecarga.vivo.com.br/recarga/home/? [host_port][lf]GET portalrecarga.vivo.com.br/recarga/home/? [lf]",
             "SNI": "[app_host]",
@@ -292,7 +292,7 @@
             "Info": "Proxy"
         },	
         {                        
-            "Name": "[🟣][SECURITY]-7  🔄10X✈",
+            "Name": "[CARGA🟣][SECURITY]🔄10X✈-7  🔄10X✈",
             "FLAG": "vivo",
             "Payload": "[delay_split]ACL [host_port] [protocol][crlf][cr][crlf]X-Online-Host: portalrecarga.vivo.com.br/recarga/home/?[crlf]Connection: [crlf]User-Agent: [ua][crlf]Content-Lenght: 99999999999[crlf][crlf]",
             "SNI": "[app_host]",
@@ -325,7 +325,7 @@
         },
         {
             "Name": "--------------------FIM--------------------",
-            "FLAG": "",
+            "FLAG": "tim",
             "Payload": "",
             "SNI": "",
             "TlsIP": "",
@@ -379,7 +379,7 @@
         },		 
 	    { 
 		 
-            "Name": "[🟣][SQUID]-1 🔄10X✈",
+            "Name": "[CARGA🟣][SQUID]-1 🔄10X✈",
             "FLAG": "vivo",
             "Payload": "[delay_split]ACL 127.0.0.1:22 HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
             "SNI": "[app_host]",
@@ -390,7 +390,7 @@
           },
 		  { 
 		 
-            "Name": "[🟣][SQUID]-2 🔄10X✈",
+            "Name": "[CARGA🟣][SQUID]-2 🔄10X✈",
             "FLAG": "vivo",
             "Payload": "[delay_split]GET 127.0.0.1:8080  HTTP/1.1[lf]Host:[app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
             "SNI": "[app_host]",
@@ -401,7 +401,7 @@
           },
 		  { 
 		 
-            "Name": "[🟣][SQUID]-3 🔄10X✈",
+            "Name": "[CARGA🟣][SQUID]-3 🔄10X✈",
             "FLAG": "vivo",
             "Payload": "[delay_split]GET 127.0.0.1:80 HTTP/1.1[lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[crlf][crlf]",
             "SNI": "[app_host]",
@@ -412,7 +412,7 @@
           },	  
 	    	{ 
 		 
-            "Name": "[🟣][SQUID]-4 🔄10X✈",
+            "Name": "[CARGA🟣][SQUID]-4 🔄10X✈",
             "FLAG": "vivo",
             "Payload": "[delay_split]CONNECT 127.0.0.1:1194 HTTP/1.1[crlf]Host: portalrecarga.vivo.com.br[crlf]Upgrade: Upgrade[crlf]Connection: [crlf][crlf]",
             "SNI": "[app_host]",
@@ -422,7 +422,7 @@
             "Info": "Proxy"
         },
 		{                        
-            "Name": "[🟣][SQUID]-5 🔄10X✈",
+            "Name": "[CARGA🟣][SQUID]-5 🔄10X✈",
             "FLAG": "vivo",
             "Payload": "[delay_split]CONNECT 127.0.0.1:22 [split][lf] HTTP/1.0 [lf]Host: [lf][crlf][",
             "SNI": "",
@@ -432,7 +432,7 @@
             "Info": "Proxy"
         },
         {                        
-            "Name": "[🟣][SQUID]-6 🔄10X✈",
+            "Name": "[CARGA🟣][SQUID]-6 🔄10X✈",
             "FLAG": "vivo",
             "Payload": "CONNECT 127.0.0.1:2222 [delay_split][crlf] HTTP/1.0[crlf]Host:www.vivo.com.br[crlf]",
             "SNI": "[app_host]",
@@ -442,7 +442,7 @@
             "Info": "Proxy"
         },
      	{                        
-            "Name": "[🟣][SQUID]-7 🔄10X✈",
+            "Name": "[CARGA🟣][SQUID]-7 🔄10X✈",
             "FLAG": "vivo",
             "Payload": "[delay_split]CONNECT 127.0.0.1:8799 http://1.1.1.1rotate=buzzfeed.com;mobile.adobe.com;1.0.0.5 HTTP/1.1[crlf]Host: http://1.1.1.1rotate=buzzfeed.com;myspace.com;mobile.google.com;1.0.0.5[crlf]",
             "SNI": "[app_host]",
@@ -464,7 +464,7 @@
         },
         {
             "Name": "--------------------FIM--------------------",
-            "FLAG": "",
+            "FLAG": "tim",
             "Payload": "",
             "SNI": "",
             "TlsIP": "",
@@ -506,7 +506,7 @@
             "Info": "Proxy"
         },	
 	    {                        
-            "Name": "[🟣][WS]-GSLB EASY 80🔄10X✈",
+            "Name": "[CARGA🟣][WS]-GSLB EASY 80🔄10X✈",
             "FLAG": "vivo",
             "Payload": "[delay_split][split]GET / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade: websocket[crlf][crlf]",
             "SNI": "",
@@ -516,7 +516,7 @@
             "Info": "Proxy"
         },
 	    {                        
-            "Name": "[🟣][WS]-1 EASY 80🔄10X✈",
+            "Name": "[CARGA🟣][WS]-1 EASY 80🔄10X✈",
             "FLAG": "vivo",
             "Payload": "[delay_split][split]GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Upgrade[crlf]Connection:[crlf][crlf]",
             "SNI": "",
@@ -526,7 +526,7 @@
             "Info": "Proxy"
         },
 	    {                        
-            "Name": "[🟣][WS]-2 EASY 80🔄10X✈",
+            "Name": "[CARGA🟣][WS]-2 EASY 80🔄10X✈",
             "FLAG": "vivo",
             "Payload": "[delay_split][split]GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Upgrade[crlf]Connection:[crlf][crlf]",
             "SNI": "",
@@ -536,7 +536,7 @@
             "Info": "Proxy"
         },
 	    {                        
-            "Name": "[🟣][WS]-3 EASY 80🔄10X✈",
+            "Name": "[CARGA🟣][WS]-3 EASY 80🔄10X✈",
             "FLAG": "vivo",
             "Payload": "[delay_split][split]GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
             "SNI": "",
@@ -546,7 +546,7 @@
             "Info": "Proxy"
         },		
 	    {                        
-            "Name": "[🟣][WS]-4 EASY 80🔄10X✈",
+            "Name": "[CARGA🟣][WS]-4 EASY 80🔄10X✈",
             "FLAG": "vivo",
             "Payload": "[delay_split][split]GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
             "SNI": "",
@@ -567,7 +567,7 @@
             "Info": "Proxy"
         },		
 	    {                        
-            "Name": "[🟣][WS]-SPOTIFY EASY🔄10X✈",
+            "Name": "[CARGA🟣][WS]-SPOTIFY EASY🔄10X✈",
             "FLAG": "vivo",
             "Payload": "PATCH / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Upgrade[crlf]Connection:[crlf][crlf]",
             "SNI": "",
@@ -577,7 +577,7 @@
             "Info": "Proxy"
         },	
 		{                        
-            "Name": "[🟣][WS]-NETLFIX EASY🔄10X✈",
+            "Name": "[CARGA🟣][WS]-NETLFIX EASY🔄10X✈",
             "FLAG": "vivo",
             "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
             "SNI": "",
@@ -587,7 +587,7 @@
             "Info": "Proxy"
         },		
 	    {                        
-            "Name": "[🟣][WS]-NETLFIX2 EASY🔄10X✈",
+            "Name": "[CARGA🟣][WS]-NETLFIX2 EASY🔄10X✈",
             "FLAG": "vivo",
             "Payload": "PATCH / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
             "SNI": "",
@@ -609,7 +609,7 @@
         },
         {
             "Name": "--------------------FIM--------------------",
-            "FLAG": "",
+            "FLAG": "tim",
             "Payload": "",
             "SNI": "",
             "TlsIP": "",
@@ -624,11 +624,12 @@
             "Payload": "",
             "SNI": "",
             "TlsIP": "",
+            "ProxyIP": "",
             "ProxyPort": "",
             "Info": "Proxy"
         },
 		 {                        
-            "Name": "[🟣][WS]-GSLB EASY 8080🔄10X✈",
+            "Name": "[CARGA🟣][WS]-GSLB EASY 8080🔄10X✈",
             "FLAG": "vivo",
             "Payload": "[delay_split][split]GET / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade: websocket[crlf][crlf]",
             "SNI": "",
@@ -638,7 +639,7 @@
             "Info": "Proxy"
         },
 	    {                        
-            "Name": "[🟣][WS]-1 EASY 8080🔄10X✈",
+            "Name": "[CARGA🟣][WS]-1 EASY 8080🔄10X✈",
             "FLAG": "vivo",
             "Payload": "[delay_split][split]GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Upgrade[crlf]Connection:[crlf][crlf]",
             "SNI": "",
@@ -648,7 +649,7 @@
             "Info": "Proxy"
         },
 	    {                        
-            "Name": "[🟣][WS]-2 EASY 8080🔄10X✈",
+            "Name": "[CARGA🟣][WS]-2 EASY 8080🔄10X✈",
             "FLAG": "vivo",
             "Payload": "[delay_split][split]GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Upgrade[crlf]Connection:[crlf][crlf]",
             "SNI": "",
@@ -658,7 +659,7 @@
             "Info": "Proxy"
         },
 	    {                        
-            "Name": "[🟣][WS]-3 EASY 8080🔄10X✈",
+            "Name": "[CARGA🟣][WS]-3 EASY 8080🔄10X✈",
             "FLAG": "vivo",
             "Payload": "[delay_split][split]GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
             "SNI": "",
@@ -668,7 +669,7 @@
             "Info": "Proxy"
         },		
 	    {                        
-            "Name": "[🟣][WS]-4 EASY 8080🔄10X✈",
+            "Name": "[CARGA🟣][WS]-4 EASY 8080🔄10X✈",
             "FLAG": "vivo",
             "Payload": "[delay_split][split]GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
             "SNI": "",
@@ -690,7 +691,7 @@
         },
         {
             "Name": "--------------------FIM--------------------",
-            "FLAG": "",
+            "FLAG": "tim",
             "Payload": "",
             "SNI": "",
             "TlsIP": "",
@@ -710,7 +711,7 @@
             "Info": "Proxy"
         },
  	    {                        
-            "Name": "[🟣][WS]-GSLB EASY 8880🔄10X✈",
+            "Name": "[CARGA🟣][WS]-GSLB EASY 8880🔄10X✈",
             "FLAG": "vivo",
             "Payload": "[delay_split][split]GET / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade: websocket[crlf][crlf]",
             "SNI": "",
@@ -720,7 +721,7 @@
             "Info": "Proxy"
         },
 	    {                        
-            "Name": "[🟣][WS]-1 EASY 8880🔄10X✈",
+            "Name": "[CARGA🟣][WS]-1 EASY 8880🔄10X✈",
             "FLAG": "vivo",
             "Payload": "[delay_split][split]GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Upgrade[crlf]Connection:[crlf][crlf]",
             "SNI": "",
@@ -730,7 +731,7 @@
             "Info": "Proxy"
         },
 	    {                        
-            "Name": "[🟣][WS]-2 EASY 8880🔄10X✈",
+            "Name": "[CARGA🟣][WS]-2 EASY 8880🔄10X✈",
             "FLAG": "vivo",
             "Payload": "[delay_split][split]GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Upgrade[crlf]Connection:[crlf][crlf]",
             "SNI": "",
@@ -740,7 +741,7 @@
             "Info": "Proxy"
         },
 	    {                        
-            "Name": "[🟣][WS]-3 EASY 8880🔄10X✈",
+            "Name": "[CARGA🟣][WS]-3 EASY 8880🔄10X✈",
             "FLAG": "vivo",
             "Payload": "[delay_split][split]GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
             "SNI": "",
@@ -750,7 +751,7 @@
             "Info": "Proxy"
         },		
 	    {                        
-            "Name": "[🟣][WS]-4 EASY 8880🔄10X✈",
+            "Name": "[CARGA🟣][WS]-4 EASY 8880🔄10X✈",
             "FLAG": "vivo",
             "Payload": "[delay_split][split]GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
             "SNI": "",
@@ -761,7 +762,7 @@
         },	
         {
             "Name": "--------------------FIM--------------------",
-            "FLAG": "",
+            "FLAG": "tim",
             "Payload": "",
             "SNI": "",
             "TlsIP": "",
@@ -825,7 +826,7 @@
             "Info": "Proxy"
         },
 		    {
-            "Name": "[🟣][TLS]-GSLB EASY 443🔄10X✈",
+            "Name": "[CARGA🟣][TLS]-GSLB EASY 443🔄10X✈",
             "FLAG": "vivo",
             "Payload": "PROPPATCH / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
             "SNI": "[app_host]",
@@ -835,7 +836,7 @@
             "Info": "Tlsws"
         },
 	    {
-            "Name": "[🟣][TLS]-1 EASY 443🔄10X✈",
+            "Name": "[CARGA🟣][TLS]-1 EASY 443🔄10X✈",
             "FLAG": "vivo",
             "Payload": "PROPPATCH / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
             "SNI": "[app_host]",
@@ -845,7 +846,7 @@
             "Info": "Tlsws"
         },
 	    {
-            "Name": "[🟣][TLS]-2 EASY 443🔄10X✈",
+            "Name": "[CARGA🟣][TLS]-2 EASY 443🔄10X✈",
             "FLAG": "vivo",
             "Payload": "PROPPATCH / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
             "SNI": "[app_host]",
@@ -855,7 +856,7 @@
             "Info": "Tlsws"
         },
 		{
-            "Name": "[🟣][TLS]-3 EASY 443🔄10X✈",
+            "Name": "[CARGA🟣][TLS]-3 EASY 443🔄10X✈",
             "FLAG": "vivo",
             "Payload": "PROPPATCH / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
             "SNI": "[app_host]",
@@ -865,7 +866,7 @@
             "Info": "Tlsws"
         },	
 		{
-            "Name": "[🟣][TLS]-4 EASY 443🔄10X✈",
+            "Name": "[CARGA🟣][TLS]-4 EASY 443🔄10X✈",
             "FLAG": "vivo",
             "Payload": "PROPPATCH / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
             "SNI": "[app_host]",
@@ -875,7 +876,7 @@
             "Info": "Tlsws"
         },
 	    {
-            "Name": "[🟣][TLS]-5 EASY 443🔄10X✈",
+            "Name": "[CARGA🟣][TLS]-5 EASY 443🔄10X✈",
             "FLAG": "vivo",
             "Payload": "PROPPATCH / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
             "SNI": "[app_host]",
@@ -897,7 +898,7 @@
         },
         {
             "Name": "--------------------FIM--------------------",
-            "FLAG": "",
+            "FLAG": "tim",
             "Payload": "",
             "SNI": "",
             "TlsIP": "",
@@ -917,7 +918,7 @@
             "Info": "Proxy"
         },
 		    {
-            "Name": "[🟣][TLS]-GSLB EASY 8443🔄10X✈",
+            "Name": "[CARGA🟣][TLS]-GSLB EASY 8443🔄10X✈",
             "FLAG": "vivo",
             "Payload": "PROPPATCH / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
             "SNI": "[app_host]",
@@ -927,7 +928,7 @@
             "Info": "Tlsws"
         },
 	    {
-            "Name": "[🟣][TLS]-1 EASY 8443🔄10X✈",
+            "Name": "[CARGA🟣][TLS]-1 EASY 8443🔄10X✈",
             "FLAG": "vivo",
             "Payload": "PROPPATCH / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
             "SNI": "[app_host]",
@@ -937,7 +938,7 @@
             "Info": "Tlsws"
         },
 	    {
-            "Name": "[🟣][TLS]-2 EASY 8443🔄10X✈",
+            "Name": "[CARGA🟣][TLS]-2 EASY 8443🔄10X✈",
             "FLAG": "vivo",
             "Payload": "PROPPATCH / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
             "SNI": "[app_host]",
@@ -947,7 +948,7 @@
             "Info": "Tlsws"
         },
 		{
-            "Name": "[🟣][TLS]-3 EASY 8443🔄10X✈",
+            "Name": "[CARGA🟣][TLS]-3 EASY 8443🔄10X✈",
             "FLAG": "vivo",
             "Payload": "PROPPATCH / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
             "SNI": "[app_host]",
@@ -957,7 +958,7 @@
             "Info": "Tlsws"
         },	
 		{
-            "Name": "[🟣][TLS]-4 EASY 8443🔄10X✈",
+            "Name": "[CARGA🟣][TLS]-4 EASY 8443🔄10X✈",
             "FLAG": "vivo",
             "Payload": "PROPPATCH / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
             "SNI": "[app_host]",
@@ -977,17 +978,6 @@
             "ProxyPort": "",
             "Info": "Proxy"
         },
-{
-            "Name": "--------------------FIM--------------------",
-            "FLAG": "",
-            "Payload": "",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "",
-            "ProxyPort": "",
-            "Info": "Proxy"
-        },
-
 		{ 
 		 
             "Name": "",
@@ -1033,7 +1023,7 @@
             "Info": "Proxy"
         },
         {
-            "Name": "[🔵][WS] VALIDO]",
+            "Name": "[🔵CARGA][WS] VALIDO]🔄10X✈",
             "FLAG": "tim",
             "Payload": "GET /cdn-cgi/trace/ HTTP/1.1[crlf]Host: ayabooks.com.br[crlf][crlf][split]- / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]@modderajudacanal[crlf][crlf]",
             "SNI": "",
@@ -1043,7 +1033,7 @@
             "Info": "Proxy"
         },
         {
-            "Name": "[🔵][WS]-2 VALIDO]",
+            "Name": "[🔵CARGA][WS]-2 VALIDO]🔄10X✈",
             "FLAG": "tim",
             "Payload": "ACL / HTTP/1.3[crlf]Host: ayabooks.com.br[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL- // HTTP/1.3[crlf]Host: [app_host][crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf",
             "SNI": "",
@@ -1053,7 +1043,7 @@
             "Info": "Proxy"
         },
         {
-            "Name": "[🔵][WS]-3 VALIDO]",
+            "Name": "[🔵CARGA][WS]-3 VALIDO]🔄10X✈",
             "FLAG": "tim",
             "Payload": "[split]ACL / HTTP/1.1[crlf]Host: vivo.com.br[crlf][split]ACL / HTTP/1.1[crlf]Host: topspeed.c6bank.app[crlf][crlf][split][crlf][crlf]ACL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]@OPENKF3[crlf][crlf]",
             "SNI": "",
@@ -1063,7 +1053,7 @@
             "Info": "Proxy"
         },
 	    {
-            "Name": "[🔵][WS]-4 VALIDO]",
+            "Name": "[🔵CARGA][WS]-4 VALIDO]🔄10X✈",
             "FLAG": "tim",
             "Payload": "[split]ACL / HTTP/1.1[crlf]Host: vivo.com.br[crlf][split]ACL / HTTP/1.1[crlf]Host: topspeed.c6bank.app[crlf][crlf][split][crlf][crlf]ACL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]@OPENKF3[crlf][crlf]",
             "SNI": "",
@@ -1073,7 +1063,7 @@
             "Info": "Proxy"
         },
         {
-            "Name": "[🔵][WS]-5 VALIDO]",
+            "Name": "[🔵CARGA][WS]-5 VALIDO]🔄10X✈",
             "FLAG": "tim",
             "Payload": "[split]ACL / HTTP/1.1[crlf]Host: vivo.com.br[crlf][split]ACL / HTTP/1.1[crlf]Host: topspeed.c6bank.app[crlf][crlf][split][crlf][crlf]ACL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]@OPENKF3[crlf][crlf]",
             "SNI": "",
@@ -1083,7 +1073,7 @@
             "Info": "Proxy"
         },        
         {
-            "Name": "[🔵][WS]-6 VALIDO]",
+            "Name": "[🔵CARGA][WS]-6 VALIDO]🔄10X✈",
             "FLAG": "tim",
             "Payload": "[split]ACL / HTTP/1.1[crlf]Host: vivo.com.br[crlf][split]ACL / HTTP/1.1[crlf]Host: topspeed.c6bank.app[crlf][crlf][split][crlf][crlf]ACL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]@OPENKF3[crlf][crlf]",
             "SNI": "",
@@ -1093,7 +1083,7 @@
             "Info": "Proxy"
         },
         {
-            "Name": "[🔵][WS]-7 VALIDO]",
+            "Name": "[🔵CARGA][WS]-7 VALIDO]🔄10X✈",
             "FLAG": "tim",
             "Payload": "[split]ACL / HTTP/1.1[crlf]Host: vivo.com.br[crlf][split]ACL / HTTP/1.1[crlf]Host: topspeed.c6bank.app[crlf][crlf][split][crlf][crlf]ACL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]@OPENKF3[crlf][crlf]",
             "SNI": "",
@@ -1103,7 +1093,7 @@
             "Info": "Proxy"
         }, 
 		{
-            "Name": "[🔵][WS]-8 VALIDO]",
+            "Name": "[🔵CARGA][WS]-8 VALIDO]🔄10X✈",
             "FLAG": "tim",
             "Payload": "[split]ACL / HTTP/1.1[crlf]Host: vivo.com.br[crlf][split]ACL / HTTP/1.1[crlf]Host: topspeed.c6bank.app[crlf][crlf][split][crlf][crlf]ACL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]@OPENKF3[crlf][crlf]",
             "SNI": "",
@@ -1113,7 +1103,7 @@
             "Info": "Proxy"
         },        
         {
-            "Name": "[🔵][WS]-9 VALIDO]",
+            "Name": "[🔵CARGA][WS]-9 VALIDO]🔄10X✈",
             "FLAG": "tim",
             "Payload": "[split]ACL / HTTP/1.1[crlf]Host: vivo.com.br[crlf][split]ACL / HTTP/1.1[crlf]Host: topspeed.c6bank.app[crlf][crlf][split][crlf][crlf]ACL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]@OPENKF3[crlf][crlf]",
             "SNI": "",
@@ -1123,7 +1113,7 @@
             "Info": "Proxy"
         },
         {
-            "Name": "[🔵][WS]-10 VALIDO]",
+            "Name": "[🔵CARGA][WS]-10 VALIDO]🔄10X✈",
             "FLAG": "tim",
             "Payload": "[split]ACL / HTTP/1.1[crlf]Host: vivo.com.br[crlf][split]ACL / HTTP/1.1[crlf]Host: topspeed.c6bank.app[crlf][crlf][split][crlf][crlf]ACL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]@OPENKF3[crlf][crlf]",
             "SNI": "",
@@ -1133,7 +1123,7 @@
             "Info": "Proxy"
         }, 
 		 {
-            "Name": "[🔵][WS]-11 TIM VALIDO]",
+            "Name": "[🔵CARGA][WS]-11 VALIDO]🔄10X✈",
             "FLAG": "tim",
             "Payload": "[split]ACL / HTTP/1.1[crlf]Host: vivo.com.br[crlf][split]ACL / HTTP/1.1[crlf]Host: topspeed.c6bank.app[crlf][crlf][split][crlf][crlf]ACL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]@OPENKF3[crlf][crlf]",
             "SNI": "",
@@ -1143,7 +1133,7 @@
             "Info": "Proxy"
         },
         {
-            "Name": "[🔵][WS]-12  VALIDO]",
+            "Name": "[🔵CARGA][WS]-12  VALIDO]🔄10X✈",
             "FLAG": "tim",
             "Payload": "[split]ACL / HTTP/1.1[crlf]Host: vivo.com.br[crlf][split]ACL / HTTP/1.1[crlf]Host: topspeed.c6bank.app[crlf][crlf][split][crlf][crlf]ACL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]@OPENKF3[crlf][crlf]",
             "SNI": "",
@@ -1153,7 +1143,7 @@
             "Info": "Proxy"
         }, 
 		{
-            "Name": "[🔵][WS]-13 VALIDO]",
+            "Name": "[🔵CARGA][WS]-13 VALIDO]🔄10X✈",
             "FLAG": "tim",
             "Payload": "[split]ACL / HTTP/1.1[crlf]Host: vivo.com.br[crlf][split]ACL / HTTP/1.1[crlf]Host: topspeed.c6bank.app[crlf][crlf][split][crlf][crlf]ACL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]@OPENKF3[crlf][crlf]",
             "SNI": "",
@@ -1163,7 +1153,7 @@
             "Info": "Proxy"
         },
         {
-            "Name": "[🔵][WS]-14 VALIDO]",
+            "Name": "[🔵CARGA][WS]-14 VALIDO]🔄10X✈",
             "FLAG": "tim",
             "Payload": "[split]ACL / HTTP/1.1[crlf]Host: vivo.com.br[crlf][split]ACL / HTTP/1.1[crlf]Host: topspeed.c6bank.app[crlf][crlf][split][crlf][crlf]ACL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]@OPENKF3[crlf][crlf]",
             "SNI": "",
@@ -1173,7 +1163,7 @@
             "Info": "Proxy"
         }, 
 		{
-            "Name": "[🔵][WS]-15  VALIDO]",
+            "Name": "[🔵CARGA][WS]-15  VALIDO]🔄10X✈",
             "FLAG": "tim",
             "Payload": "GET / HTTP/1.1\nHost: auth-uat-us.surveymonkey.com\r\nExpect: 100-continue\r\n\r\n[split]\r\n\r\nUNLOCK /?/ HTTP/1.1\r\nHost:[app_host]\r\nExpect: 100-continue\r\nUpgrade: websocket\r\n\User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)\r\n\r\n",
             "SNI": "",
@@ -1183,7 +1173,7 @@
             "Info": "Proxy"
         }, 
 		 {
-            "Name": "[🔵][WS]-16 VALIDO]",
+            "Name": "[🔵CARGA][WS]-16 VALIDO]🔄10X✈",
             "FLAG": "tim",
             "Payload": "GET / HTTP/1.1\nHost: mobile.c6bank.app\r\nExpect: 100-continue\r\n\r\n[split]\r\n\r\nUNLOCK /?/ HTTP/1.1\r\nHost:[app_host]\r\nExpect: 100-continue\r\nUpgrade: websocket\r\n\User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)\r\n\r\n",
             "SNI": "",
@@ -1193,7 +1183,7 @@
             "Info": "Proxy"
         },
 	    {
-            "Name": "[🔵][WS]-17 VALIDO]",
+            "Name": "[🔵CARGA][WS]-17 VALIDO]🔄10X✈",
             "FLAG": "tim",
             "Payload": "GET / HTTP/1.1\nHost: support.deezer.com\r\nExpect: 100-continue\r\n\r\n[split]\r\n\r\nUNLOCK /?/ HTTP/1.1\r\nHost:[app_host]\r\nExpect: 100-continue\r\nUpgrade: websocket\r\n\User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)\r\n\r\n",
             "SNI": "",
@@ -1203,7 +1193,7 @@
             "Info": "Proxy"
         },		
 		 {
-            "Name": "[🔵][WS]-17 VALIDO]",
+            "Name": "[🔵CARGA][WS]-17 VALIDO]🔄10X✈",
             "FLAG": "tim",
             "Payload": "GET / HTTP/1.1\nHost: cdn.c6bank.com.br\r\nExpect: 100-continue\r\n\r\n[split]\r\n\r\nUNLOCK /?/ HTTP/1.1\r\nHost:[app_host]\r\nExpect: 100-continue\r\nUpgrade: websocket\r\n\User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)\r\n\r\n",
             "SNI": "",
@@ -1213,7 +1203,7 @@
             "Info": "Proxy"
         },	
 		 {
-            "Name": "[🔵][WS]-18 TIM VALIDO]",
+            "Name": "[🔵CARGA][WS]-18 TIM VALIDO]🔄10X✈",
             "FLAG": "tim",
             "Payload": "GET / HTTP/1.1\nHost: emartim.com.br\r\nExpect: 100-continue\r\n\r\n[split]\r\n\r\nUNLOCK /?/ HTTP/1.1\r\nHost:[app_host]\r\nExpect: 100-continue\r\nUpgrade: websocket\r\n\User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)\r\n\r\n",
             "SNI": "",
@@ -1223,7 +1213,7 @@
             "Info": "Proxy"
         },
 	    {
-            "Name": "[🔵][WS]-19 VALIDO]",
+            "Name": "[🔵CARGA][WS]-19 VALIDO]🔄10X✈",
             "FLAG": "tim",
             "Payload": "GET / HTTP/1.1\nHost: cdn.c6bank.com.br\r\nExpect: 100-continue\r\n\r\n[split]\r\n\r\nUNLOCK /?/ HTTP/1.1\r\nHost:[app_host]\r\nExpect: 100-continue\r\nUpgrade: websocket\r\n\User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)\r\n\r\n",
             "SNI": "",
@@ -1233,7 +1223,7 @@
             "Info": "Proxy"
         },
 		{
-            "Name": "[🔵][WS]-20 VALIDO]",
+            "Name": "[🔵CARGA][WS]-20 VALIDO]🔄10X✈",
             "FLAG": "tim",
             "Payload": "GET / HTTP/1.1\nHost: bam.nr-data.net\r\nExpect: 100-continue\r\n\r\n[split]\r\n\r\nUNLOCK /?/ HTTP/1.1\r\nHost:[app_host]\r\nExpect: 100-continue\r\nUpgrade: websocket\r\n\User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)\r\n\r\n",
             "SNI": "",
@@ -1255,7 +1245,7 @@
         },
         {
             "Name": "--------------------FIM--------------------",
-            "FLAG": "",
+            "FLAG": "tim",
             "Payload": "",
             "SNI": "",
             "TlsIP": "",
@@ -1308,7 +1298,7 @@
             "Info": "Proxy"
         },
 	    {
-            "Name": "[🔵][EXPIRADO]-GSLB[SECURITY]",
+            "Name": "[🔵CARGA][EXPIRADO]-GSLB[SECURITY]🔄10X✈",
             "FLAG": "tim",
             "Payload": "ACL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
             "SNI": "",
@@ -1318,7 +1308,7 @@
             "Info": "Proxy"
         },
 	    {
-            "Name": "[🔵][EXPIRADO]-1[SECURITY]",
+            "Name": "[🔵CARGA][EXPIRADO]-1[SECURITY]🔄10X✈",
             "FLAG": "tim",
             "Payload": "HTTP/1.1 [lf]CONNECT HTTP/1.1[lf][lf]|[lf]#[delay_split][lf]ACL / HTTP/1.1[lf]Host: [rotate= portal.vivo.com.br;portalrecarga.vivo.com.br/recarga/home/;meuplano.tim.com.br;www.vivo.com.br;buzzfeed.com;mobile.adobe.com;1.0.0.5;1.1.1.1;buzzfeed.com;myspace.com;mobile.google.com;1.0.0.5;spotify.com;pagamentonline.emis.co.ao;playwaze.com;wazer.com;soundwaze.com;escolas.playwaze.com;www.wazeunlimited.com;bucs.playwaze.com;ftp.chillwaze.com;unpkg.com;c6bank.com.br;helpypro.stoodi.com.br;atendimento.lojadointer.com.br;creatorsupport.deezer.com:80;itsupport.surveymonkey.com;linefriendshelp.zendesk.com;vivo.interflashplusvpnpro.cloud;m2.interflashplusvpnpro.cloud][crlf][crlf][crlf]#[delay_split] [raw] [ssh]ACL#[delay_split][lf]ACL / HTTP/1.1 Websocket [lf]Host: [rotate= portal.vivo.com.br;portalrecarga.vivo.com.br/recarga/home/;meuplano.tim.com.br;www.vivo.com.br;buzzfeed.com;mobile.adobe.com;1.0.0.5;1.1.1.1;buzzfeed.com;myspace.com;mobile.google.com;1.0.0.5;spotify.com;pagamentonline.emis.co.ao;playwaze.com;wazer.com;soundwaze.com;escolas.playwaze.com;www.wazeunlimited.com;bucs.playwaze.com;ftp.chillwaze.com;unpkg.com;c6bank.com.br;helpypro.stoodi.com.br;atendimento.lojadointer.com.br;creatorsupport.deezer.com:80;itsupport.surveymonkey.com;linefriendshelp.zendesk.com;vivo.interflashplusvpnpro.cloud;m2.interflashplusvpnpro.cloud][crlf][crlf][crlf]#HTTP/1.1 [lf]CONNECT HTTP/1.1[lf][lf]|[lf]#ACL / HTTP/1.1[lf]Host: [host][lf]Upgrade: Websocket[lf]User-Agent: Mobile Safari/9 OPR/9 [lf][split][lf]",
             "SNI": "",
@@ -1328,7 +1318,7 @@
             "Info": "Proxy"
         },
 	    {
-            "Name": "[🔵][EXPIRADO]-2[SECURITY]",
+            "Name": "[🔵CARGA][EXPIRADO]-2[SECURITY]🔄10X✈",
             "FLAG": "tim",
             "Payload": "PATCH / HTTP/1.1[crlf]Host: @ssh_t_project[crlf]Upgrade: websocket[crlf][crlf]#HTTP/ 1[lf]Host: portalrecarga.vivo.com.br;Tim.com.br;xvideos.com;blaze-1.com;sshtproject.com-CDN-GEThttp://ACL-CDN-VIVO.COM.BR;GOOGLE.COM\\\\n\\\\n\\\\n \\\\n#ACL HTTP/1.1[lf]Host: google.es[lf]#PUT / Cache-Control: private: Web-security[crlf]#ACL buzzfeed.com HTTP/1.1[lf]Host:buzzfeed.com[lf]#ACL / HTTP/1.1[crlf][crlf]#PROPPATCH global-4-lvs-colossus-10.opera-mini.net HTTP/1.0[crlf]Host: global-4-lvs-colossus-10.opera-mini.net[crlf]#HTTP/ 2[lf]Host: vivo.com#HTTP/1.1 200[crlf]Host: vimeo.com[crlf][crlf][netData][crlf]@mip [crlf][crlf]http://uber.com/ HTTP/1.1 200[crlf]mip[crlf][crlf] [crlf][crlf]http://udemy.com/ HTTP/1.1 200[crlf]Host@mip[crlf][crlf] [crlf][crlf] http://aliyuncs.com/ HTTP/1.1 200[crlf]Host fastly.net/[crlf][crlf][netData][crlf] [crlf][crlf] http://pornhub.com/ HTTP/1.1[crlf] [crlf][crlf][netData][crlf] [crlf][crlf] http://google.com/ HTTP/1.1[cr][lf] [crlf][crlf][netData][cr][lf] [crlf][crlf]CONNECT mip:22@http://youtube.com/ HTTP/1.1[crlf] [crlf][crlf][netData][crlf] [crlf][crlf]",
             "SNI": "",
@@ -1338,7 +1328,7 @@
             "Info": "Proxy"
         },
 	    {
-            "Name": "[🔵][EXPIRADO]-3[SECURITY]",
+            "Name": "[🔵CARGA][EXPIRADO]-3[SECURITY]🔄10X✈",
             "FLAG": "tim",
             "Payload": "PATCH / HTTP/1.1[crlf]Host: [app_host][crlf]X-Forward-Host: [app_host][crlf]wss://[crlf]Connection: upgrade[crlf]upgrade: websocket[realData][crlf][crlf]",
             "SNI": "",
@@ -1348,7 +1338,7 @@
             "Info": "Proxy"
         },
 		{
-            "Name": "[🔵][EXPIRADO]-4[SECURITY]",
+            "Name": "[🔵CARGA][EXPIRADO]-4[SECURITY]🔄10X✈",
             "FLAG": "tim",
             "Payload": "ACL http://1.1.1.1rotate= buzzfeed.com ; mobile.adobe.com ;1.0.0.5 HTTP/1.1[crlf]Host: http://1.1.1.1rotate= buzzfeed.com ; myspace .com ; mobile.google.com ;1.0.0.5[crlf]",
             "SNI": "",
@@ -1358,7 +1348,7 @@
             "Info": "Proxy"
         },
 		{
-            "Name": "[🔵][EXPIRADO]-5[SECURITY]",
+            "Name": "[🔵CARGA][EXPIRADO]-5[SECURITY]🔄10X✈",
             "FLAG": "tim",
             "Payload": "PROPPATCH http://mercadolivre.com.br HTTP/2[crlf]Host: http://mercadolivre.com.br[crlf]",
             "SNI": "",
@@ -1368,7 +1358,7 @@
             "Info": "Proxy"
         },
 		{
-            "Name": "[🔵][EXPIRADO]-6[SECURITY]",
+            "Name": "[🔵CARGA][EXPIRADO]-6[SECURITY]🔄10X✈",
             "FLAG": "tim",
             "Payload": "ACL / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: WebSocket[crlf][crlf]",
             "SNI": "",
@@ -1378,7 +1368,7 @@
             "Info": "Proxy"
         },
 		{
-            "Name": "[🔵][EXPIRADO]-7[SECURITY]",
+            "Name": "[🔵CARGA][EXPIRADO]-7[SECURITY]🔄10X✈",
             "FLAG": "tim",
             "Payload": "ACL / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: WebSocket[crlf][crlf]",
             "SNI": "",
@@ -1388,7 +1378,7 @@
             "Info": "Proxy"
         },
         {
-            "Name": "[🔵][EXPIRADO]-8[SECURITY]",
+            "Name": "[🔵CARGA][EXPIRADO]-8[SECURITY]🔄10X✈",
             "FLAG": "tim",
             "Payload": "MERGE ok.ru HTTP/1.1[crlf]Host: ok.ru[crlf]Connection: upgrade, Keep-Alive[crlf]Upgrade: HTTP/2.0[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Referer: http://www.google.com[lf]",
             "SNI": "",
@@ -1398,7 +1388,7 @@
             "Info": "Proxy"
         },
 	    {
-            "Name": "[🔵][EXPIRADO]-9[SECURITY]",
+            "Name": "[🔵CARGA][EXPIRADO]-9[SECURITY]🔄10X✈",
             "FLAG": "tim",
             "Payload": "PROPPATCH global-4-lvs-colossus-10.opera-mini.net HTTP/1.0[crlf]Host: global-4-lvs-colossus-10.opera-mini.net[crlf]",
             "SNI": "",
@@ -1408,7 +1398,7 @@
               "Info": "Proxy"
         },
 	    {
-            "Name": "[🔵][EXPIRADO]-10[SECURITY]",
+            "Name": "[🔵CARGA][EXPIRADO]-10[SECURITY]🔄10X✈",
             "FLAG": "tim",
             "Payload": "MERGE ok.ru HTTP/1.1[crlf]Host: ok.ru[crlf]Connection: upgrade, Keep-Alive[crlf]Upgrade: HTTP/2.0[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Referer: http://www.google.com[crlf]",
             "SNI": "",
@@ -1418,7 +1408,7 @@
             "Info": "Proxy"
         },
 		{
-            "Name": "[🔵][EXPIRADO]-11[SECURITY]",
+            "Name": "[🔵CARGA][EXPIRADO]-11[SECURITY]🔄10X✈",
             "FLAG": "tim", 
             "Payload": "HTTP/ 1[lf]Host: portalrecarga.vivo.com.br;Tim.com.br;xvideos.com;blaze-1.com;sshtproject.com-CDN-GEThttp://ACL-CDN-VIVO.COM.BR;GOOGLE.COM\\n\\n\\n \\n#HTTP/ [crlf][crlf]|[crlf]",
             "SNI": "",
@@ -1440,7 +1430,7 @@
         },
         {
             "Name": "--------------------FIM--------------------",
-            "FLAG": "",
+            "FLAG": "tim",
             "Payload": "",
             "SNI": "",
             "TlsIP": "",
@@ -1493,7 +1483,7 @@
             "Info": "Proxy"
         },
 	    { 
-            "Name": "[🔴][SSL]-1 [PLANOS]",
+            "Name": "[CARGA🔴][SSL]-1 [PLANOS]🔄10X✈",
             "FLAG": "claro",
             "Payload": "",
             "SNI": "web.whatsapp.com",
@@ -1503,7 +1493,7 @@
             "Info": "Ssl"
         },
 	    { 
-            "Name": "[🔴][SSL]-2 [PLANOS]",
+            "Name": "[CARGA🔴][SSL]-2 [PLANOS]🔄10X✈",
             "FLAG": "claro",
             "Payload": "",
             "SNI": "cdn.whatsapp.com",
@@ -1513,7 +1503,7 @@
             "Info": "Ssl"
         },
 	    { 
-            "Name": "[🔴][SSL]-3 [PLANOS]",
+            "Name": "[CARGA🔴][SSL]-3 [PLANOS]🔄10X✈",
             "FLAG": "claro",
             "Payload": "",
             "SNI": "api.whatsapp.com",
@@ -1523,7 +1513,7 @@
             "Info": "Ssl"
         },
 	    { 
-            "Name": "[🔴][SSL]-4 [PLANOS]",
+            "Name": "[CARGA🔴][SSL]-4 [PLANOS]🔄10X✈",
             "FLAG": "claro",
             "Payload": "",
             "SNI": "translate.whatsapp.com",
@@ -1533,7 +1523,7 @@
             "Info": "Ssl"
         },
 	    { 
-            "Name": "[🔴][SSL]-5 [PLANOS]",
+            "Name": "[CARGA🔴][SSL]-5 [PLANOS]🔄10X✈",
             "FLAG": "claro",
             "Payload": "",
             "SNI": "dev-web.whatsapp.com",
@@ -1543,7 +1533,7 @@
             "Info": "Ssl"
         },
 		{
-            "Name": "[🔴][SSL]-6 [PLANOS]",
+            "Name": "[CARGA🔴][SSL]-6 [PLANOS]🔄10X✈",
             "FLAG": "claro",
             "Payload": "",
             "SNI": "faq.whatsapp.com",
@@ -1553,7 +1543,7 @@
             "Info": "Ssl"
         },
         {
-            "Name": "[🔴][SSL]-7 [PLANOS]",
+            "Name": "[CARGA🔴][SSL]-7 [PLANOS]🔄10X✈",
             "FLAG": "claro",
             "Payload": "",
             "SNI": "chat.whatsapp.com",
@@ -1563,7 +1553,7 @@
             "Info": "Ssl"
         },
         {
-            "Name": "[🔴][SSL]-8 [PLANOS]",
+            "Name": "[CARGA🔴][SSL]-8 [PLANOS]🔄10X✈",
             "FLAG": "claro",
             "Payload": "",
             "SNI": "graph.whatsapp.com",
@@ -1607,7 +1597,7 @@
         },
         {
             "Name": "--------------------FIM--------------------",
-            "FLAG": "",
+            "FLAG": "tim",
             "Payload": "",
             "SNI": "",
             "TlsIP": "",
