@@ -1,6 +1,6 @@
 {
-    "Version": "8",
-    "ReleaseNotes": "👋 ATUALIZAÇÃO DISPONÍVEL UP8! INTERNET ILIMITADA APARTIR DE R$15,00🚀GERE SEU TESTE telegram | Dono @Kryptorvps 🚀CLIQUE EM ATUALIZAR 🚀",
+    "Version": "9",
+    "ReleaseNotes": "👋 ATUALIZAÇÃO DISPONÍVEL UP9! INTERNET ILIMITADA APARTIR COM 🚀| Dono @Kryptorvps 🚀CLIQUE EM ATUALIZAR 🚀",
     "UrlUpdate": "https://raw.githubusercontent.com/KryptoFr13nds/KryptoFr13nds/refs/heads/main/C4G",
     "Sms": "",
     "EmailFeedback": "https://t.me/kryptorvpsgroup/",
@@ -27,7 +27,7 @@
             "PASS": ""
         },
 	    {
-            "Name": "#",
+            "Name": "",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "",
@@ -60,7 +60,7 @@
             "PASS": ""
         },
 	    {
-            "Name": "#",
+            "Name": "",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "",
@@ -93,7 +93,7 @@
             "PASS": ""
          },
 	     {
-            "Name": "#",
+            "Name": "",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "",
@@ -126,7 +126,7 @@
             "PASS": ""
         },
     	{
-            "Name": "#",
+            "Name": "",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "",
@@ -151,17 +151,27 @@
             "Name": "[🇧🇷][DEC]|TLS|WS",
             "TYPE": "premium",
             "FLAG": "br.png",
-            "ServerIP": "1.kf3.me",
+            "ServerIP": "1.kryptor.cfd",
             "CheckUser": "http://45.140.193.94:5454/checkUser",
             "ServerPort": "80",
             "SSLPort": "443",
             "USER": "",
             "PASS": ""
+        },
+{
+            "Name": "----------------FIM DNS/IP DE CONEXÃO----------------",
+            "FLAG": "",
+            "Payload": "",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Proxy"
         }
 	
 		
 	
-    ],
+     ],
     "Networks": [      
 		
 						
@@ -219,6 +229,16 @@
             "ProxyPort": "",
             "Info": "Proxy"
         },
+{
+            "Name": "--------------INICIOS DE CARGAS DE CONEXÃO---------------",
+            "FLAG": "",
+            "Payload": "",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Proxy"
+        },	
 		{ 
 		 
             "Name": "",
@@ -325,7 +345,7 @@
         },
         {
             "Name": "--------------------FIM--------------------",
-            "FLAG": "tim",
+            "FLAG": "",
             "Payload": "",
             "SNI": "",
             "TlsIP": "",
@@ -464,7 +484,7 @@
         },
         {
             "Name": "--------------------FIM--------------------",
-            "FLAG": "tim",
+            "FLAG": "",
             "Payload": "",
             "SNI": "",
             "TlsIP": "",
@@ -609,7 +629,7 @@
         },
         {
             "Name": "--------------------FIM--------------------",
-            "FLAG": "tim",
+            "FLAG": "",
             "Payload": "",
             "SNI": "",
             "TlsIP": "",
@@ -691,7 +711,7 @@
         },
         {
             "Name": "--------------------FIM--------------------",
-            "FLAG": "tim",
+            "FLAG": "",
             "Payload": "",
             "SNI": "",
             "TlsIP": "",
@@ -713,7 +733,7 @@
  	    {                        
             "Name": "[CARGA🟣][WS]-GSLB EASY 8880🔄10X✈",
             "FLAG": "vivo",
-            "Payload": "[delay_split][split]GET / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade: websocket[crlf][crlf]",
+            "Payload": "GET / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade: websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "kf3.me",
@@ -762,7 +782,7 @@
         },	
         {
             "Name": "--------------------FIM--------------------",
-            "FLAG": "tim",
+            "FLAG": "",
             "Payload": "",
             "SNI": "",
             "TlsIP": "",
@@ -828,7 +848,7 @@
 		    {
             "Name": "[CARGA🟣][TLS]-GSLB EASY 443🔄10X✈",
             "FLAG": "vivo",
-            "Payload": "PROPPATCH / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+            "Payload": "PATCH / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
             "SNI": "[app_host]",
             "TlsIP": "kf3.me",
             "ProxyIP": "kf3.me",
@@ -898,7 +918,7 @@
         },
         {
             "Name": "--------------------FIM--------------------",
-            "FLAG": "tim",
+            "FLAG": "",
             "Payload": "",
             "SNI": "",
             "TlsIP": "",
@@ -978,6 +998,16 @@
             "ProxyPort": "",
             "Info": "Proxy"
         },
+{
+            "Name": "--------------------FIM--------------------",
+            "FLAG": "",
+            "Payload": "",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Proxy"
+        },	
 		{ 
 		 
             "Name": "",
@@ -1245,7 +1275,7 @@
         },
         {
             "Name": "--------------------FIM--------------------",
-            "FLAG": "tim",
+            "FLAG": "",
             "Payload": "",
             "SNI": "",
             "TlsIP": "",
@@ -1430,7 +1460,7 @@
         },
         {
             "Name": "--------------------FIM--------------------",
-            "FLAG": "tim",
+            "FLAG": "",
             "Payload": "",
             "SNI": "",
             "TlsIP": "",
@@ -1597,7 +1627,7 @@
         },
         {
             "Name": "--------------------FIM--------------------",
-            "FLAG": "tim",
+            "FLAG": "",
             "Payload": "",
             "SNI": "",
             "TlsIP": "",
