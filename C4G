@@ -1,6 +1,6 @@
 {
-    "Version": "9",
-    "ReleaseNotes": "👋 ATUALIZAÇÃO DISPONÍVEL UP9! INTERNET ILIMITADA APARTIR COM 🚀| Dono @Kryptorvps 🚀CLIQUE EM ATUALIZAR 🚀",
+    "Version": "10",
+    "ReleaseNotes": "👋 ATUALIZAÇÃO DISPONÍVEL UP10! INTERNET ILIMITADA APARTIR COM 🚀| Dono @Kryptorvps 🚀CLIQUE EM ATUALIZAR 🚀",
     "UrlUpdate": "https://raw.githubusercontent.com/KryptoFr13nds/KryptoFr13nds/refs/heads/main/C4G",
     "Sms": "",
     "EmailFeedback": "https://t.me/kryptorvpsgroup/",
@@ -364,6 +364,17 @@
             "ProxyPort": "",
             "Info": "Proxy"
         },
+{ 
+		 
+            "Name": "",
+            "FLAG": "",
+            "Payload": "",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Proxy"
+        },
 		 { 
 		 
             "Name": "👇💜OPERADORA ROXA CONEXÕES SQUID PLANO PRE E TURBO 8799✈️🔁💜👇",
@@ -482,6 +493,17 @@
             "ProxyPort": "",
             "Info": "Proxy"
         },
+{ 
+		 
+            "Name": "",
+            "FLAG": "",
+            "Payload": "",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Proxy"
+        },
         {
             "Name": "--------------------FIM--------------------",
             "FLAG": "",
@@ -493,6 +515,17 @@
             "Info": "Proxy"
         },	
         { 
+		 
+            "Name": "",
+            "FLAG": "",
+            "Payload": "",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Proxy"
+        },
+{ 
 		 
             "Name": "",
             "FLAG": "",
@@ -616,6 +649,17 @@
             "ProxyPort": "80",
             "Info": "Proxy"
         },	
+{ 
+		 
+            "Name": "",
+            "FLAG": "",
+            "Payload": "",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Proxy"
+        },
 		{ 
 		 
             "Name": "",
@@ -638,6 +682,17 @@
             "Info": "Proxy"
         },
         { 
+		 
+            "Name": "",
+            "FLAG": "",
+            "Payload": "",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Proxy"
+        },
+{ 
 		 
             "Name": "",
             "FLAG": "",
@@ -697,9 +752,18 @@
             "ProxyIP": "4field.vivo.com.br",
             "ProxyPort": "8080",
             "Info": "Proxy"
-        },	
-        { 
-		 
+         }, 		 
+         {
+            "Name": "",
+            "FLAG": "",
+            "Payload": "",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Proxy"
+        },  
+         {
             "Name": "",
             "FLAG": "",
             "Payload": "",
@@ -720,6 +784,17 @@
             "Info": "Proxy"
         },
 		{ 
+		 
+            "Name": "",
+            "FLAG": "",
+            "Payload": "",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Proxy"
+        },
+{ 
 		 
             "Name": "",
             "FLAG": "",
@@ -780,6 +855,28 @@
             "ProxyPort": "8880",
             "Info": "Proxy"
         },	
+{ 
+		 
+            "Name": "",
+            "FLAG": "",
+            "Payload": "",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Proxy"
+        },
+{ 
+		 
+            "Name": "",
+            "FLAG": "",
+            "Payload": "",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Proxy"
+        },
         {
             "Name": "--------------------FIM--------------------",
             "FLAG": "",
@@ -905,6 +1002,17 @@
             "ProxyPort": "443",
             "Info": "Tlsws"
         },
+{ 
+		 
+            "Name": "",
+            "FLAG": "",
+            "Payload": "",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Proxy"
+        },
 		{ 
 		 
             "Name": "",
@@ -918,6 +1026,17 @@
         },
         {
             "Name": "--------------------FIM--------------------",
+            "FLAG": "",
+            "Payload": "",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Proxy"
+        },
+{ 
+		 
+            "Name": "",
             "FLAG": "",
             "Payload": "",
             "SNI": "",
@@ -987,6 +1106,17 @@
             "ProxyPort": "8443",
             "Info": "Tlsws"
         },
+{ 
+		 
+            "Name": "",
+            "FLAG": "",
+            "Payload": "",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Proxy"
+        },
 		{ 
 		 
             "Name": "",
@@ -1008,6 +1138,17 @@
             "ProxyPort": "",
             "Info": "Proxy"
         },	
+{ 
+		 
+            "Name": "",
+            "FLAG": "",
+            "Payload": "",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Proxy"
+        },
 		{ 
 		 
             "Name": "",
@@ -1262,6 +1403,17 @@
             "ProxyPort": "80",
             "Info": "Proxy"
         },
+{ 
+		 
+            "Name": "",
+            "FLAG": "",
+            "Payload": "",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Proxy"
+        },
 	{ 
 		 
             "Name": "",
@@ -1275,6 +1427,17 @@
         },
         {
             "Name": "--------------------FIM--------------------",
+            "FLAG": "",
+            "Payload": "",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Proxy"
+        },
+{ 
+		 
+            "Name": "",
             "FLAG": "",
             "Payload": "",
             "SNI": "",
@@ -1458,8 +1621,30 @@
             "ProxyPort": "",
             "Info": "Proxy"
         },
+{ 
+		 
+            "Name": "",
+            "FLAG": "",
+            "Payload": "",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Proxy"
+        },
         {
             "Name": "--------------------FIM--------------------",
+            "FLAG": "",
+            "Payload": "",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Proxy"
+        },
+{ 
+		 
+            "Name": "",
             "FLAG": "",
             "Payload": "",
             "SNI": "",
@@ -1627,6 +1812,18 @@
         },
         {
             "Name": "--------------------FIM--------------------",
+            "FLAG": "",
+            "Payload": "",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Proxy"
+        },
+
+{ 
+		 
+            "Name": "",
             "FLAG": "",
             "Payload": "",
             "SNI": "",
