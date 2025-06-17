@@ -1,6 +1,6 @@
 {
-    "Version": "11",
-    "ReleaseNotes": "👋 ATUALIZAÇÃO DISPONÍVEL UP10! INTERNET ILIMITADA APARTIR COM 🚀| Dono @Kryptorvps 🚀CLIQUE EM ATUALIZAR 🚀",
+    "Version": "12",
+    "ReleaseNotes": "👋 ATUALIZAÇÃO DISPONÍVEL UP12! INTERNET ILIMITADA APARTIR COM 🚀| Dono @Kryptorvps 🚀CLIQUE EM ATUALIZAR 🚀",
     "UrlUpdate": "https://raw.githubusercontent.com/KryptoFr13nds/KryptoFr13nds/refs/heads/main/C4G",
     "Sms": "",
     "EmailFeedback": "https://t.me/kryptorvpsgroup/",
@@ -227,7 +227,7 @@
 		    "Name": "[🇧🇷][IP]|SSL|SOCKS|SQUID|SECURITY",
             "TYPE": "premium",
             "FLAG": "br.png",
-            "ServerIP": "212.18.114.155s",
+            "ServerIP": "212.18.114.155",
             "CheckUser": "http://212.18.114.155:5454/checkUser",
             "ServerPort": "80",
             "SSLPort": "443",
@@ -360,9 +360,7 @@
             "TlsIP": "",
             "ProxyIP": "",
             "ProxyPort": "",
-            "SlowChave": "",
-            "SlowNameServer": "",
-            "SlowDns": "",
+
             "Info": "Tlsws"
         },
         {
@@ -373,9 +371,7 @@
             "TlsIP": "",
             "ProxyIP": "",
             "ProxyPort": "",
-            "SlowChave": "",
-            "SlowNameServer": "",
-            "SlowDns": "",
+
             "Info": "Proxy"
         },
 	    { 	   
@@ -569,9 +565,6 @@
             "TlsIP": "",
             "ProxyIP": "[app_host]",
             "ProxyPort": "80",
-            "SlowChave": "",
-            "SlowNameServer": "",
-            "SlowDns": "",
             "Info": "Proxy"
         },
         {
@@ -582,9 +575,6 @@
             "TlsIP": "",
             "ProxyIP": "[app_host]",
             "ProxyPort": "8080",
-            "SlowChave": "",
-            "SlowNameServer": "",
-            "SlowDns": "",
             "Info": "Proxy"
         },
         {
@@ -595,9 +585,6 @@
             "TlsIP": "",
             "ProxyIP": "[app_host]",
             "ProxyPort": "80",
-            "SlowChave": "",
-            "SlowNameServer": "",
-            "SlowDns": "",
             "Info": "Proxy"
         },
         {
@@ -608,9 +595,6 @@
             "TlsIP": "",
             "ProxyIP": "[app_host]",
             "ProxyPort": "8080",
-            "SlowChave": "",
-            "SlowNameServer": "",
-            "SlowDns": "",
             "Info": "Proxy"
         },
         {
@@ -621,9 +605,6 @@
             "TlsIP": "",
             "ProxyIP": "[app_host]",
             "ProxyPort": "80",
-            "SlowChave": "",
-            "SlowNameServer": "",
-            "SlowDns": "",
             "Info": "Proxy"
         },
         {
@@ -634,9 +615,6 @@
             "TlsIP": "",
             "ProxyIP": "[app_host]",
             "ProxyPort": "80",
-            "SlowChave": "",
-            "SlowNameServer": "",
-            "SlowDns": "",
             "Info": "Proxy"
         },
         { 
@@ -1373,9 +1351,6 @@
             "TlsIP": "",
             "ProxyIP": "ayabooks.com.br",
             "ProxyPort": "80",
-            "SlowChave": "",
-            "SlowNameServer": "",
-            "SlowDns": "",
             "Info": "Proxy"
         },
         {
@@ -1386,9 +1361,6 @@
             "TlsIP": "",
             "ProxyIP": "ayabooks.com.br",
             "ProxyPort": "80",
-            "SlowChave": "",
-            "SlowNameServer": "",
-            "SlowDns": "",
             "Info": "Proxy"
         },
         {
@@ -1399,9 +1371,6 @@
             "TlsIP": "",
             "ProxyIP": "ayabooks.com.br",
             "ProxyPort": "80",
-            "SlowChave": "",
-            "SlowNameServer": "",
-            "SlowDns": "",
             "Info": "Proxy"
         },
         {
@@ -1412,9 +1381,6 @@
             "TlsIP": "ayabooks.com.br",
             "ProxyIP": "ayabooks.com.br",
             "ProxyPort": "80",
-            "SlowChave": "",
-            "SlowNameServer": "",
-            "SlowDns": "",
             "Info": "Proxy"
         },
         {
@@ -1425,9 +1391,6 @@
             "TlsIP": "",
             "ProxyIP": "ayabooks.com.br",
             "ProxyPort": "80",
-            "SlowChave": "",
-            "SlowNameServer": "",
-            "SlowDns": "",
             "Info": "Proxy"
         },
         {
@@ -1438,9 +1401,6 @@
             "TlsIP": "",
             "ProxyIP": "ayabooks.com.br",
             "ProxyPort": "80",
-            "SlowChave": "",
-            "SlowNameServer": "",
-            "SlowDns": "",
             "Info": "Proxy"
         },
         {
@@ -1451,9 +1411,6 @@
             "TlsIP": "",
             "ProxyIP": "ayabooks.com.br",
             "ProxyPort": "80",
-            "SlowChave": "",
-            "SlowNameServer": "",
-            "SlowDns": "",
             "Info": "Proxy"
         },
         {
@@ -1464,9 +1421,6 @@
             "TlsIP": "",
             "ProxyIP": "ayabooks.com.br",
             "ProxyPort": "80",
-            "SlowChave": "",
-            "SlowNameServer": "",
-            "SlowDns": "",
             "Info": "Proxy"
         },
         {
@@ -1477,9 +1431,6 @@
             "TlsIP": "",
             "ProxyIP": "ayabooks.com.br",
             "ProxyPort": "80",
-            "SlowChave": "",
-            "SlowNameServer": "",
-            "SlowDns": "",
             "Info": "Proxy"
         },
         {
@@ -1490,9 +1441,6 @@
             "TlsIP": "",
             "ProxyIP": "ayabooks.com.br",
             "ProxyPort": "80",
-            "SlowChave": "",
-            "SlowNameServer": "",
-            "SlowDns": "",
             "Info": "Proxy"
         },
         {
@@ -1503,9 +1451,6 @@
             "TlsIP": "",
             "ProxyIP": "ayabooks.com.br",
             "ProxyPort": "80",
-            "SlowChave": "",
-            "SlowNameServer": "",
-            "SlowDns": "",
             "Info": "Proxy"
         },
         {
@@ -1802,9 +1747,6 @@
             "TlsIP": "",
             "ProxyIP": "ayabooks.com.br",
             "ProxyPort": "80",
-            "SlowChave": "",
-            "SlowNameServer": "",
-            "SlowDns": "",
             "Info": "Proxy"
         },
         {
@@ -1815,9 +1757,6 @@
             "TlsIP": "",
             "ProxyIP": "[app_host]",
             "ProxyPort": "80",
-            "SlowChave": "",
-            "SlowNameServer": "",
-            "SlowDns": "",
             "Info": "Proxy"
         },
         {
@@ -1828,9 +1767,6 @@
             "TlsIP": "",
             "ProxyIP": "[app_host]",
             "ProxyPort": "80",
-            "SlowChave": "",
-            "SlowNameServer": "",
-            "SlowDns": "",
             "Info": "Proxy"
         },
         {
@@ -1841,9 +1777,6 @@
             "TlsIP": "",
             "ProxyIP": "[app_host]",
             "ProxyPort": "80",
-            "SlowChave": "",
-            "SlowNameServer": "",
-            "SlowDns": "",
             "Info": "Proxy"
         },
         {
@@ -1854,9 +1787,6 @@
             "TlsIP": "",
             "ProxyIP": "[app_host]",
             "ProxyPort": "80",
-            "SlowChave": "",
-            "SlowNameServer": "",
-            "SlowDns": "",
             "Info": "Proxy"
         },
         {
@@ -1867,9 +1797,6 @@
             "TlsIP": "",
             "ProxyIP": "[app_host]",
             "ProxyPort": "80",
-            "SlowChave": "",
-            "SlowNameServer": "",
-            "SlowDns": "",
             "Info": "Proxy"
         },     
 	    {
@@ -2043,9 +1970,7 @@
             "TlsIP": "",
             "ProxyIP": "",
             "ProxyPort": "",
-            "SlowChave": "",
-            "SlowNameServer": "",
-            "SlowDns": "",
+
             "Info": ""
         },
         {
@@ -2056,9 +1981,6 @@
             "TlsIP": "",
             "ProxyIP": "104.18.99.70",
             "ProxyPort": "80",
-            "SlowChave": "",
-            "SlowNameServer": "",
-            "SlowDns": "",
             "Info": "Proxy"
         },
         {
@@ -2069,9 +1991,6 @@
             "TlsIP": "",
             "ProxyIP": "[app_host]",
             "ProxyPort": "80",
-            "SlowChave": "",
-            "SlowNameServer": "",
-            "SlowDns": "",
             "Info": "Proxy"
         },
         { 
