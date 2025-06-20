@@ -1,6 +1,6 @@
 {
-    "Version": "16",
-    "ReleaseNotes": "👋 ATUALIZAÇÃO DISPONÍVEL UP16! INTERNET ILIMITADA APARTIR DE R$15,00🚀GERE SEU TESTE telegram | Dono @Kryptorvps 🚀CLIQUE EM ATUALIZAR 🚀",
+    "Version": "17",
+    "ReleaseNotes": "👋 ATUALIZAÇÃO DISPONÍVEL UP17! INTERNET ILIMITADA APARTIR DE R$15,00🚀GERE SEU TESTE telegram | Dono @Kryptorvps 🚀CLIQUE EM ATUALIZAR 🚀",
     "UrlUpdate": "https://raw.githubusercontent.com/KryptoFr13nds/KryptoFr13nds/refs/heads/main/C4G",
     "Sms": "",
     "EmailFeedback": "https://downdetector.com.br/",
@@ -164,6 +164,128 @@
             "ProxyPort": "",
             "Info": "Proxy"
         },
+        { 
+		 
+            "Name": "",
+            "FLAG": "",
+            "Payload": "",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "👇💜OPERADORA ROXA CONEXÕES GCLOUD TODOS PLANO PRE E TURBO EASY CONTROLE  ✈️🔁💜👇",
+            "FLAG": "vivo",
+            "Payload": "",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": ""
+        },
+        {  
+            "Name": "",
+            "FLAG": "",
+            "Payload": "",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "📱🟣 GCLOUD TLSWS",
+            "FLAG": "vivo",
+            "Payload": "GET /app154 HTTP/1.1\nHost:g-1040039040159.southamerica-east1.run.app\nConnection: Upgrade\nUpgrade: Websocket\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+            "SNI": "youtube.com",
+            "TlsIP": "youtube.com",
+            "ProxyIP":"youtube.com",
+            "ProxyPort": "443",
+            "Info": "Proxy"
+        },    
+        {
+            "Name": "📱🟣 GCLOUD TLSWS1",
+            "FLAG": "vivo",
+            "Payload": "GET /app154 HTTP/1.1\nHost:g-1040039040159.southamerica-east1.run.app\nConnection: Upgrade\nUpgrade: Websocket\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+            "SNI": "lh3.google.com.br",
+            "TlsIP": "lh3.google.com.br",
+            "ProxyIP":"lh3.google.com.br",
+            "ProxyPort": "443",
+            "Info": "Proxy"
+        },            
+        {
+            "Name": "📱🟣 GCLOUD TLSWS2",
+            "FLAG": "vivo",
+            "Payload": "GET /app154 HTTP/1.1\nHost:g-1040039040159.southamerica-east1.run.app\nConnection: Upgrade\nUpgrade: Websocket\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+            "SNI": "r7xzj.app.goo.gl",
+            "TlsIP": "r7xzj.app.goo.gl",
+            "ProxyIP":"r7xzj.app.goo.gl",
+            "ProxyPort": "443",
+            "Info": "Proxy"
+        },            
+        {
+            "Name": "📱🟣O GCLOUD TLSWS3",
+            "FLAG": "vivo",
+            "Payload": "GET /app154 HTTP/1.1\nHost:g-1040039040159.southamerica-east1.run.app\nConnection: Upgrade\nUpgrade: Websocket\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+            "SNI": "gru09s19-in-f98.1e100.nete.com",
+            "TlsIP": "gru09s19-in-f98.1e100.net",
+            "ProxyIP":"gru09s19-in-f98.1e100.net",
+            "ProxyPort": "443",
+            "Info": "Proxy"
+        },            
+        {
+            "Name": "📱🟣 GCLOUD TLSWS4",
+            "FLAG": "vivo",
+            "Payload": "GET /app154 HTTP/1.1\nHost:g-1040039040159.southamerica-east1.run.app\nConnection: Upgrade\nUpgrade: Websocket\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+            "SNI": "digitalewerkplaatsvoorstudenten.withgoogle.com",
+            "TlsIP": "digitalewerkplaatsvoorstudenten.withgoogle.com",
+            "ProxyIP":"digitalewerkplaatsvoorstudenten.withgoogle.com",
+            "ProxyPort": "443",
+            "Info": "Proxy"
+        },            
+        {
+            "Name": "📱🟣 GCLOUD TLSWS5",
+            "FLAG": "vivo",
+            "Payload": "GET /app154 HTTP/1.1\nHost:g-1040039040159.southamerica-east1.run.app\nConnection: Upgrade\nUpgrade: Websocket\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+            "SNI": "java-iphone.com",
+            "TlsIP": "java-iphone.com",
+            "ProxyIP":"java-iphone.com",
+            "ProxyPort": "443",
+            "Info": "Proxy"
+        },            
+        {
+            "Name": "📱🟣 GCLOUD TLSWS6",
+            "FLAG": "vivo",
+            "Payload": "GET /app154 HTTP/1.1\nHost:g-1040039040159.southamerica-east1.run.app\nConnection: Upgrade\nUpgrade: Websocket\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+            "SNI": "media.ampproject.org",
+            "TlsIP": "media.ampproject.org",
+            "ProxyIP":"media.ampproject.org",
+            "ProxyPort": "443",
+            "Info": "Proxy"
+        }, 
+        {
+            "Name": "📱🟣 GCLOUD TLSWS7",
+            "FLAG": "vivo",
+            "Payload": "GET /app154 HTTP/1.1\nHost:g-1040039040159.southamerica-east1.run.app\nConnection: Upgrade\nUpgrade: Websocket\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+            "SNI": "zcj75.app.goo.gl",
+            "TlsIP": "zcj75.app.goo.gl",
+            "ProxyIP":"zcj75.app.goo.gl",
+            "ProxyPort": "443",
+            "Info": "Proxy"
+        }, 
+        { 
+		 
+            "Name": "",
+            "FLAG": "",
+            "Payload": "",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Proxy"
+        },	
 		{ 
 		 
             "Name": "",
@@ -174,7 +296,7 @@
             "ProxyIP": "",
             "ProxyPort": "",
             "Info": "Proxy"
-        },		
+        },
 		 { 
 		 
             "Name": "👇💜OPERADORA ROXA CONEXÕES PLANO PRE TURBO SECURITY 8080 80✈️ 🔁💜👇",
