@@ -1,6 +1,6 @@
 {
-    "Version": "12",
-    "ReleaseNotes": "👋 ATUALIZAÇÃO DISPONÍVEL UP12! INTERNET ILIMITADA APARTIR COM 🚀| Dono @Kryptorvps 🚀CLIQUE EM ATUALIZAR 🚀",
+    "Version": "13",
+    "ReleaseNotes": "👋 ATUALIZAÇÃO DISPONÍVEL UP13! INTERNET ILIMITADA APARTIR COM 🚀| Dono @Kryptorvps 🚀CLIQUE EM ATUALIZAR 🚀",
     "UrlUpdate": "https://raw.githubusercontent.com/KryptoFr13nds/KryptoFr13nds/refs/heads/main/C4G",
     "Sms": "",
     "EmailFeedback": "https://t.me/kryptorvpsgroup/",
@@ -351,8 +351,8 @@
     "Networks": [      
 		
 						
-	    	    {
-	    	    {
+	    	    
+    {
             "Name": "👇 SELECIONAR PAYLOAD ABAIXO👇",
             "FLAG": "vivo",
             "Payload": "",
