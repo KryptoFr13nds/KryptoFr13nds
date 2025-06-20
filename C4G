@@ -1,6 +1,6 @@
 {
-    "Version": "15",
-    "ReleaseNotes": "👋 ATUALIZAÇÃO DISPONÍVEL UP15! INTERNET ILIMITADA APARTIR DE R$25,00🚀GERE SEU TESTE telegram | Dono @Kryptorvps 🚀CLIQUE EM ATUALIZAR 🚀",
+    "Version": "16",
+    "ReleaseNotes": "👋 ATUALIZAÇÃO DISPONÍVEL UP16! INTERNET ILIMITADA APARTIR DE R$15,00🚀GERE SEU TESTE telegram | Dono @Kryptorvps 🚀CLIQUE EM ATUALIZAR 🚀",
     "UrlUpdate": "https://raw.githubusercontent.com/KryptoFr13nds/KryptoFr13nds/refs/heads/main/C4G",
     "Sms": "",
     "EmailFeedback": "https://downdetector.com.br/",
@@ -27,7 +27,7 @@
             "PASS": ""
         },
 	    {
-            "Name": "",
+            "Name": "#",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "",
@@ -60,7 +60,7 @@
             "PASS": ""
         },
 	    {
-            "Name": "",
+            "Name": "#",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "",
@@ -93,7 +93,7 @@
             "PASS": ""
          },
 	     {
-            "Name": "",
+            "Name": "#",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "",
@@ -107,7 +107,7 @@
             "Name": "[🇧🇷][DCS]|TLS|WS",
             "TYPE": "premium",
             "FLAG": "br.png",
-            "ServerIP": "hdns.krypto.cfd",
+            "ServerIP": "hdns.kryptor.cfd",
             "CheckUser": "http://206.42.63.5:5454/checkUser",
             "ServerPort": "80",
             "SSLPort": "443",
@@ -126,7 +126,7 @@
             "PASS": ""
         },
     	{
-            "Name": "",
+            "Name": "#",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "",
@@ -175,19 +175,10 @@
             "ProxyPort": "",
             "Info": "Proxy"
         },		
-        {
-            "Name": "👇💜OPERADORA ROXA CONEXÕES GCLOUD TODOS PLANO PRE E TURBO EASY CONTROLE  ✈️🔁💜👇",
+		 { 
+		 
+            "Name": "👇💜OPERADORA ROXA CONEXÕES PLANO PRE TURBO SECURITY 8080 80✈️ 🔁💜👇",
             "FLAG": "vivo",
-            "Payload": "",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "",
-            "ProxyPort": "",
-            "Info": ""
-        },
-        {  
-            "Name": "",
-            "FLAG": "",
             "Payload": "",
             "SNI": "",
             "TlsIP": "",
@@ -195,87 +186,7 @@
             "ProxyPort": "",
             "Info": "Proxy"
         },
-        {
-            "Name": "📱🟣 GCLOUD TLSWS",
-            "FLAG": "vivo",
-            "Payload": "GET /app154 HTTP/1.1\nHost:g-1040039040159.southamerica-east1.run.app\nConnection: Upgrade\nUpgrade: Websocket\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
-            "SNI": "youtube.com",
-            "TlsIP": "youtube.com",
-            "ProxyIP":"youtube.com",
-            "ProxyPort": "443",
-            "Info": "Proxy"
-        },    
-        {
-            "Name": "📱🟣 GCLOUD TLSWS1",
-            "FLAG": "vivo",
-            "Payload": "GET /app154 HTTP/1.1\nHost:g-1040039040159.southamerica-east1.run.app\nConnection: Upgrade\nUpgrade: Websocket\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
-            "SNI": "lh3.google.com.br",
-            "TlsIP": "lh3.google.com.br",
-            "ProxyIP":"lh3.google.com.br",
-            "ProxyPort": "443",
-            "Info": "Proxy"
-        },            
-        {
-            "Name": "📱🟣 GCLOUD TLSWS2",
-            "FLAG": "vivo",
-            "Payload": "GET /app154 HTTP/1.1\nHost:g-1040039040159.southamerica-east1.run.app\nConnection: Upgrade\nUpgrade: Websocket\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
-            "SNI": "r7xzj.app.goo.gl",
-            "TlsIP": "r7xzj.app.goo.gl",
-            "ProxyIP":"r7xzj.app.goo.gl",
-            "ProxyPort": "443",
-            "Info": "Proxy"
-        },            
-        {
-            "Name": "📱🟣O GCLOUD TLSWS3",
-            "FLAG": "vivo",
-            "Payload": "GET /app154 HTTP/1.1\nHost:g-1040039040159.southamerica-east1.run.app\nConnection: Upgrade\nUpgrade: Websocket\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
-            "SNI": "gru09s19-in-f98.1e100.nete.com",
-            "TlsIP": "gru09s19-in-f98.1e100.net",
-            "ProxyIP":"gru09s19-in-f98.1e100.net",
-            "ProxyPort": "443",
-            "Info": "Proxy"
-        },            
-        {
-            "Name": "📱🟣 GCLOUD TLSWS4",
-            "FLAG": "vivo",
-            "Payload": "GET /app154 HTTP/1.1\nHost:g-1040039040159.southamerica-east1.run.app\nConnection: Upgrade\nUpgrade: Websocket\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
-            "SNI": "digitalewerkplaatsvoorstudenten.withgoogle.com",
-            "TlsIP": "digitalewerkplaatsvoorstudenten.withgoogle.com",
-            "ProxyIP":"digitalewerkplaatsvoorstudenten.withgoogle.com",
-            "ProxyPort": "443",
-            "Info": "Proxy"
-        },            
-        {
-            "Name": "📱🟣 GCLOUD TLSWS5",
-            "FLAG": "vivo",
-            "Payload": "GET /app154 HTTP/1.1\nHost:g-1040039040159.southamerica-east1.run.app\nConnection: Upgrade\nUpgrade: Websocket\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
-            "SNI": "java-iphone.com",
-            "TlsIP": "java-iphone.com",
-            "ProxyIP":"java-iphone.com",
-            "ProxyPort": "443",
-            "Info": "Proxy"
-        },            
-        {
-            "Name": "📱🟣 GCLOUD TLSWS6",
-            "FLAG": "vivo",
-            "Payload": "GET /app154 HTTP/1.1\nHost:g-1040039040159.southamerica-east1.run.app\nConnection: Upgrade\nUpgrade: Websocket\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
-            "SNI": "media.ampproject.org",
-            "TlsIP": "media.ampproject.org",
-            "ProxyIP":"media.ampproject.org",
-            "ProxyPort": "443",
-            "Info": "Proxy"
-        }, 
-{
-            "Name": "📱🟣 GCLOUD TLSWS7",
-            "FLAG": "vivo",
-            "Payload": "GET /app154 HTTP/1.1\nHost:g-1040039040159.southamerica-east1.run.app\nConnection: Upgrade\nUpgrade: Websocket\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
-            "SNI": "zcj75.app.goo.gl",
-            "TlsIP": "zcj75.app.goo.gl",
-            "ProxyIP":"zcj75.app.goo.gl",
-            "ProxyPort": "443",
-            "Info": "Proxy"
-        }, 
-        { 
+		{ 
 		 
             "Name": "",
             "FLAG": "",
@@ -285,7 +196,7 @@
             "ProxyIP": "",
             "ProxyPort": "",
             "Info": "Proxy"
-        },	
+        },
 		{ 
 		 
             "Name": "",
@@ -315,7 +226,7 @@
             "SNI": "",
             "TlsIP": "[app_host]",
             "ProxyIP": "[app_host]",
-            "ProxyPort": "80",
+            "ProxyPort": "8080",
             "Info": "Proxy"
         },
         {                        
@@ -345,7 +256,7 @@
             "SNI": "[app_host]",
             "TlsIP": "[app_host]",
             "ProxyIP": "[app_host]",
-            "ProxyPort": "8080",
+            "ProxyPort": "80",
             "Info": "Proxy"
         },	
     	 {                        
@@ -536,7 +447,7 @@
             "Payload": "[delay_split][split]GET / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade: websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "gslb.fr13nds.cfd",
+            "ProxyIP": "kf3.me",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
@@ -638,7 +549,7 @@
             "Payload": "[delay_split][split]GET / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade: websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "gslb.fr13nds.cfd",
+            "ProxyIP": "kf3.me",
             "ProxyPort": "8080",
             "Info": "Proxy"
         },
@@ -710,7 +621,7 @@
             "Payload": "[delay_split][split]GET / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade: websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "gslb.fr13nds.cfd",
+            "ProxyIP": "kf3.me",
             "ProxyPort": "8880",
             "Info": "Proxy"
         },
@@ -814,8 +725,8 @@
             "FLAG": "vivo",
             "Payload": "PROPPATCH / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
             "SNI": "[app_host]",
-            "TlsIP": "gslb.fr13nds.cfd",
-            "ProxyIP": "gslb.fr13nds.cfd",
+            "TlsIP": "kf3.me",
+            "ProxyIP": "kf3.me",
             "ProxyPort": "443",
             "Info": "Tlsws"
         },
@@ -896,8 +807,8 @@
             "FLAG": "vivo",
             "Payload": "PROPPATCH / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
             "SNI": "[app_host]",
-            "TlsIP": "gslb.fr13nds.cfd",
-            "ProxyIP": "gslb.fr13nds.cfd",
+            "TlsIP": "kf3.me",
+            "ProxyIP": "kf3.me",
             "ProxyPort": "8443",
             "Info": "Tlsws"
         },
@@ -965,7 +876,7 @@
         },		
 		 { 
 		 
-            "Name": "👇💙OPERADORA AZUL CONEXÕES GCLOUD TODOS OS PLANO COM CREDITO VALIDOEXPIRADO ✈️ 🔁💙👇",
+            "Name": "👇💙OPERADORA AZUL CONEXÕES PLANO COM CREDITO VALIDO✈️ 🔁💙👇",
             "FLAG": "tim",
             "Payload": "",
             "SNI": "",
@@ -974,56 +885,6 @@
             "ProxyPort": "",
             "Info": "Proxy"
         },
-        {  
-            "Name": "",
-            "FLAG": "",
-            "Payload": "",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "",
-            "ProxyPort": "",
-            "Info": "Proxy"
-        },
-        {
-            "Name": "📱🔵 GCLOUD TLSWS1",
-            "FLAG": "tim",
-            "Payload": "GET /app154 HTTP/1.1\nHost:g-1040039040159.southamerica-east1.run.app\nConnection: Upgrade\nUpgrade: Websocket\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
-            "SNI": "www.googletagmanager.com",
-            "TlsIP": "www.googletagmanager.com",
-            "ProxyIP":"www googletagmanager.com",
-            "ProxyPort": "443",
-            "Info": "Proxy"
-        },
-        {
-            "Name": "📱🔵 GCLOUD TLSWS2",
-            "FLAG": "tim",
-            "Payload": "GET /app154 HTTP/1.1\nHost:g-1040039040159.southamerica-east1.run.app\nConnection: Upgrade\nUpgrade: Websocket\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
-            "SNI": "pubsub.googleapis.com",
-            "TlsIP": "pubsub.googleapis.com",
-            "ProxyIP":"pubsub.googleapis.com",
-            "ProxyPort": "443",
-            "Info": "Proxy"
-        },
-        {
-            "Name": "📱🔵 GCLOUD TLSWS3",
-            "FLAG": "tim",
-            "Payload": "GET /app154 HTTP/1.1\nHost:g-1040039040159.southamerica-east1.run.app\nConnection: Upgrade\nUpgrade: Websocket\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
-            "SNI": "mail2.gmodules.com",
-            "TlsIP": "mail2.gmodules.com",
-            "ProxyIP":"mail2.gmodules.com",
-            "ProxyPort": "443",
-            "Info": "Proxy"
-        },            
-        {
-            "Name": "📱🔵 GCLOUD TLSWS4",
-            "FLAG": "tim",
-            "Payload": "GET /app154 HTTP/1.1\nHost:g-1040039040159.southamerica-east1.run.app\nConnection: Upgrade\nUpgrade: Websocket\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
-            "SNI": "trends.google.com.br",
-            "TlsIP": "trends.google.com.br",
-            "ProxyIP":"trends.google.com.br",
-            "ProxyPort": "443",
-            "Info": "Proxy"
-        },            
 	    { 
 		 
             "Name": "",
@@ -1455,7 +1316,7 @@
         },				
 		{ 
 		 
-            "Name": "👇❤️OPERADORA VERMELHA CONEXÕES GCLOUD TODOS OS  PLANOS ATIVO SEM FRANQUIA✈️ 🔁❤️👇",
+            "Name": "👇❤️OPERADORA VERMELHA CONEXÕES SSL PLANOS ATIVO SEM FRANQUIA✈️ 🔁❤️👇",
             "FLAG": "claro",
             "Payload": "",
             "SNI": "",
@@ -1464,47 +1325,7 @@
             "ProxyPort": "",
             "Info": "Proxy"
         },
-        {
-            "Name": "",
-            "FLAG": "claro",
-            "Payload": "",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "",
-            "ProxyPort": "",
-            "Info": "Proxy"
-        },
-        {
-            "Name": "📱🔴 GCLOUD TLSWS1",
-            "FLAG": "claro",
-            "Payload": "GET /app154 HTTP/1.1\nHost:g-1040039040159.southamerica-east1.run.app\nConnection: Upgrade\nUpgrade: Websocket\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
-            "SNI": "www.googletagmanager.com
-            "TlsIP": "www.googletagmanager.com
-            "ProxyIP":"www.googletagmanager.com
-            "ProxyPort": "443",
-            "Info": "Proxy"
-        },
-        {
-            "Name": "📱🔴 GCLOUD TLSWS2",
-            "FLAG": "claro",
-            "Payload": "GET /app154 HTTP/1.1\nHost:g-1040039040159.southamerica-east1.run.app\nConnection: Upgrade\nUpgrade: Websocket\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
-            "SNI": "pubsub.googleapis.com",
-            "TlsIP": "pubsub.googleapis.com",
-            "ProxyIP":"pubsub.googleapis.com",
-            "ProxyPort": "443",
-            "Info": "Proxy"
-        },
-        {
-            "Name": "📱🔴 GCLOUD TLSWS3",
-            "FLAG": "claro",
-            "Payload": "GET /app154 HTTP/1.1\nHost:g-1040039040159.southamerica-east1.run.app\nConnection: Upgrade\nUpgrade: Websocket\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
-            "SNI": "www.googletagmanager.com",
-            "TlsIP": "www.googletagmanager.com
-            "ProxyIP":"www.googletagmanager.com
-            "ProxyPort": "443",
-            "Info": "Proxy"
-        },
-	   { 
+				{ 
 		 
             "Name": "",
             "FLAG": "",
@@ -1516,28 +1337,6 @@
             "Info": "Proxy"
         },
 		{ 
-		 
-            "Name": "",
-            "FLAG": "",
-            "Payload": "",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "",
-            "ProxyPort": "",
-            "Info": "Proxy"
-        },
-        { 
-		 
-            "Name": "👇❤️OPERADORA VERMELHA CONEXÕES SNI USE COM  PLANOS ATIVO SEM FRANQUIA✈️ 🔁❤️👇",
-            "FLAG": "claro",
-            "Payload": "",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "",
-            "ProxyPort": "",
-            "Info": "Proxy"
-        },
-        { 
 		 
             "Name": "",
             "FLAG": "",
