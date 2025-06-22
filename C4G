@@ -1,6 +1,6 @@
 {
-    "Version": "21",
-    "ReleaseNotes": "👋 ATUALIZAÇÃO DISPONÍVEL UP21! INTERNET ILIMITADA APARTIR DE R$25,00🚀GERE SEU TESTE telegram | Dono @Kryptorvps 🚀CLIQUE EM ATUALIZAR 🚀",
+    "Version": "22",
+    "ReleaseNotes": "👋 ATUALIZAÇÃO DISPONÍVEL UP22! INTERNET ILIMITADA APARTIR DE R$25,00🚀GERE SEU TESTE telegram | Dono @Kryptorvps 🚀CLIQUE EM ATUALIZAR 🚀",
     "UrlUpdate": "https://raw.githubusercontent.com/KryptoFr13nds/KryptoFr13nds/refs/heads/main/C4G",
     "Sms": "",
     "EmailFeedback": "https://downdetector.com.br/",
@@ -127,7 +127,6 @@
             "PASS": ""
         }
 	
-	
 		
 	
     ],
@@ -224,56 +223,6 @@
             "Payload": "GET / HTTP/1.1\r\nHost: [random=g-1040039040159.southamerica-east1.run.app;proxy-g-102814795416.southamerica-east1.run.app]\r\nConnection: Upgrade\r\nUpgrade: Websocket[crlf][crlf]",
             "SNI": "firebase.google.com",
             "TlsIP": "firebase.google.com",
-            "ProxyIP": "",
-            "ProxyPort": "443",
-            "Info": "Proxy"
-        },
-        {
-            "Name": "📱VIVO GCLOUD 04",
-            "FLAG": "vivo",
-            "Payload": "GET /home.html HTTP/1.1[crlf]Host: [random=g-1040039040159.southamerica-east1.run.app;proxy-g-102814795416.southamerica-east1.run.app][crlf]Origin: https://www.google.com, http://www.google.com[crlf]ser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive, Upgrade[crlf][crlf]",
-            "SNI": "apis.google.com",
-            "TlsIP": "apis.google.com",
-            "ProxyIP": "",
-            "ProxyPort": "443",
-            "Info": "Proxy"
-        },
-        {
-            "Name": "📱VIVO GCLOUD 05",
-            "FLAG": "vivo",
-            "Payload": "GET /app00 HTTP/1.1\r\nHost: [random=g-1040039040159.southamerica-east1.run.app;proxy-g-102814795416.southamerica-east1.run.app]\r\nConnection: Upgrade\r\nUpgrade: Websocket\r\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
-            "SNI": "workspace.google.com",
-            "TlsIP": "workspace.google.com",
-            "ProxyIP": "",
-            "ProxyPort": "443",
-            "Info": "Proxy"
-        },
-        {
-            "Name": "📱VIVO GCLOUD 06",
-            "FLAG": "vivo",
-            "Payload": "GET /app00 HTTP/1.1\r\nHost: [random=g-1040039040159.southamerica-east1.run.app;proxy-g-102814795416.southamerica-east1.run.app]\r\nConnection: Upgrade\r\nUpgrade: Websocket\r\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
-            "SNI": "lh3.google.com.br",
-            "TlsIP": "youtube.com",
-            "ProxyIP": "",
-            "ProxyPort": "443",
-            "Info": "Proxy"
-        },
-        {
-            "Name": "📱VIVO GCLOUD 07",
-            "FLAG": "vivo",
-            "Payload": "GET /app00 HTTP/1.1\r\nHost: [random=g-1040039040159.southamerica-east1.run.app;proxy-g-102814795416.southamerica-east1.run.app]\r\nConnection: Upgrade\r\nUpgrade: Websocket\r\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
-            "SNI": "domains.google.com",
-            "TlsIP": "domains.google.com",
-            "ProxyIP": "",
-            "ProxyPort": "443",
-            "Info": "Proxy"
-        },
-        {
-            "Name": "📱VIVO GCLOUD 08",
-            "FLAG": "vivo",
-            "Payload": "GET /app00 HTTP/1.1\r\nHost: [random=g-1040039040159.southamerica-east1.run.app;proxy-g-102814795416.southamerica-east1.run.app]\r\nConnection: Upgrade\r\nUpgrade: Websocket\r\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
-            "SNI": "lh3.google.com.br",
-            "TlsIP": "lh3.google.com.br",
             "ProxyIP": "",
             "ProxyPort": "443",
             "Info": "Proxy"
@@ -567,3 +516,83 @@
             "Name": "[🟣][WS]-3 EASY 80🔄10X✈",
             "FLAG": "vivo",
             "Payload": "[delay_split][split]GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "4field.vivo.com.br",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },		
+	    {                        
+            "Name": "[🟣][WS]-4 EASY 80🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "[delay_split][split]GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "premium-vivo360.vivo.com.br",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },	
+		{ 
+		 
+            "Name": "",
+            "FLAG": "",
+            "Payload": "",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Proxy"
+        },		
+	    {                        
+            "Name": "[🟣][WS]-SPOTIFY EASY🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "PATCH / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Upgrade[crlf]Connection:[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "investors.spotify.com",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },	
+		{                        
+            "Name": "[🟣][WS]-NETLFIX EASY🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "openconnect.netflix.com",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },		
+	    {                        
+            "Name": "[🟣][WS]-NETLFIX2 EASY🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "PATCH / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "updates.netflix.com",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },	
+		{ 
+		 
+            "Name": "",
+            "FLAG": "",
+            "Payload": "",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Proxy"
+        },
+		 {                        
+            "Name": "[🟣][WS]-GSLB EASY 8080🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "[delay_split][split]GET / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "gslb.fr13nds.cfd",
+            "ProxyPort": "8080",
+            "Info": "Proxy"
+        },
+	    {                        
+            "Name": "[🟣][WS]-1 EASY 8080🔄10X
