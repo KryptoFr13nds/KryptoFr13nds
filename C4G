@@ -1,6 +1,6 @@
 {
-    "Version": "23",
-    "ReleaseNotes": "👋 ATUALIZAÇÃO DISPONÍVEL UP23! INTERNET ILIMITADA APARTIR DE R$25,00🚀GERE SEU TESTE telegram | Dono @Kryptorvps 🚀CLIQUE EM ATUALIZAR 🚀",
+    "Version": "24",
+    "ReleaseNotes": "👋 ATUALIZAÇÃO DISPONÍVEL UP24! INTERNET ILIMITADA APARTIR DE R$25,00🚀GERE SEU TESTE telegram | Dono @Kryptorvps 🚀CLIQUE EM ATUALIZAR 🚀",
     "UrlUpdate": "https://raw.githubusercontent.com/KryptoFr13nds/KryptoFr13nds/refs/heads/main/C4G",
     "Sms": "",
     "EmailFeedback": "https://downdetector.com.br/",
@@ -125,7 +125,118 @@
             "SSLPort": "443",
             "USER": "",
             "PASS": ""
+        },
+        {
+            "Name": "⚜️SERVERS CLOUDFLARE|GCLOUD 🇧🇷 MAQUINA CASEIRA⚜️",
+            "TYPE": "premium",
+            "FLAG": "br.png",
+            "ServerIP": "",
+            "CheckUser": "",
+            "ServerPort": "80",
+            "SSLPort": "443",
+            "USER": "",
+            "PASS": ""
+        },
+	    {
+            "Name": "",
+            "TYPE": "premium",
+            "FLAG": "br.png",
+            "ServerIP": "",
+            "CheckUser": "",
+            "ServerPort": "80",
+            "SSLPort": "443",
+            "USER": "",
+            "PASS": ""
+        },
+		{
+		    "Name": "[🇧🇷][IP]|SSL|SOCKS|SQUID|SECURITY",
+            "TYPE": "premium",
+            "FLAG": "br.png",
+            "ServerIP": "206.42.63.5",
+            "CheckUser": "http://206.42.63.5:5454/checkUser",
+            "ServerPort": "80",
+            "SSLPort": "443",
+            "USER": "",
+            "PASS": ""
+        },
+	    {
+            "Name": "",
+            "TYPE": "premium",
+            "FLAG": "br.png",
+            "ServerIP": "",
+            "CheckUser": "http://206.42.63.5:5454/checkUser",
+            "ServerPort": "80",
+            "SSLPort": "443",
+            "USER": "",
+            "PASS": ""
+        },
+         {
+            "Name": "[🇧🇷][DFS]|SSL|SOCKS|SQUID|SECURITY|TLSWS",
+            "TYPE": "premium",
+            "FLAG": "br.png",
+            "ServerIP": "hdns.fr13nds.cfd",
+            "CheckUser": "http://206.42.63.5:5454/checkUserr",
+            "ServerPort": "80",
+            "SSLPort": "443",
+            "USER": "",
+            "PASS": ""
+         },
+		 {
+            "Name": "[🇧🇷][DFC]|TLS|WS",
+            "TYPE": "premium",
+            "FLAG": "br.png",
+            "ServerIP": "hcdn.fr13nds.cfd",
+            "CheckUser": "http://206.42.63.5:5454/checkUser",
+            "ServerPort": "80",
+            "SSLPort": "443",
+            "USER": "",
+            "PASS": ""
+         },
+	     {
+            "Name": "",
+            "TYPE": "premium",
+            "FLAG": "br.png",
+            "ServerIP": "",
+            "CheckUser": "http://206.42.63.5:5454/checkUser",
+            "ServerPort": "80",
+            "SSLPort": "443",
+            "USER": "",
+            "PASS": ""
+        },
+         {
+            "Name": "[🇧🇷][DCS]|TLS|WS",
+            "TYPE": "premium",
+            "FLAG": "br.png",
+            "ServerIP": "hdns.krypto.cfd",
+            "CheckUser": "http://206.42.63.5:5454/checkUser",
+            "ServerPort": "80",
+            "SSLPort": "443",
+            "USER": "",
+            "PASS": ""
+        },
+		{
+            "Name": "[🇧🇷][DCC]|TLS|WS",
+            "TYPE": "premium",
+            "FLAG": "br.png",
+            "ServerIP": "hcdn.kryptor.cfd",
+            "CheckUser": "http://206.42.63.5:5454/checkUser",
+            "ServerPort": "80",
+            "SSLPort": "443",
+            "USER": "",
+            "PASS": ""
+        },
+    	{
+            "Name": "",
+            "TYPE": "premium",
+            "FLAG": "br.png",
+            "ServerIP": "",
+            "CheckUser": "http://206.42.63.5:5454/checkUser",
+            "ServerPort": "80",
+            "SSLPort": "443",
+            "USER": "",
+            "PASS": ""
         }
+        
 	
 		
 	
@@ -133,7 +244,7 @@
     "Networks": [      
 		
 						
-	    	    {
+	     {
             "Name": "👇USE SEM INTERNET NAS OPERADORAS 🟣ROXA 🔵AZUL 🔴VERMELHA CONFORME O PLANO E REGIÃO RECOMENDO A 🟣ROXA COM PLANO PRIME OU PRE",
             "FLAG": "vivo",
             "Payload": "",
@@ -144,6 +255,142 @@
             "Info": "Ssl"
         },
 		{ 
+		 
+            "Name": "",
+            "FLAG": "",
+            "Payload": "",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Proxy"
+        },
+		{ 
+		 
+            "Name": "",
+            "FLAG": "",
+            "Payload": "",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Proxy"
+        },		
+        	     {
+            "Name": "👇🟣ROXA O PLANO E PLANO TURBO OU PRE EASY PRIME SEM CADASTRO",
+            "FLAG": "vivo",
+            "Payload": "",
+            "SNI": "",
+            "TlsIP": "[app_host]",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Ssl"
+        },
+        {
+            "Name": "📱VIVO GCLOUD 01",
+            "FLAG": "vivo",
+            "Payload": "GET / HTTP/1.1[crlf]Host:[random=g-1040039040159.southamerica-east1.run.app;proxy-g-102814795416.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+            "SNI": "mtls.sandbox.c6bank.com.br",
+            "TlsIP": "www.googletagmanager.com",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "SlowChave": "",
+            "SlowNameServer": "",
+            "SlowDns": "",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "📱VIVO GCLOUD 02",
+            "FLAG": "vivo",
+            "Payload": "GET /app666 HTTP/1.1\r\nHost: [random=g-1040039040159.southamerica-east1.run.app;proxy-g-102814795416.southamerica-east1.run.app]\r\nConnection: Upgrade\r\nUpgrade: Websocket\n\n",
+            "SNI": "lh3.google.com.br",
+            "TlsIP": "lh3.google.com.br",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "SlowChave": "",
+            "SlowNameServer": "",
+            "SlowDns": "",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "📱VIVO GCLOUD 03",
+            "FLAG": "vivo",
+            "Payload": "GET / HTTP/1.1\r\nHost: [random=g-1040039040159.southamerica-east1.run.app;proxy-g-102814795416.southamerica-east1.run.app]\r\nConnection: Upgrade\r\nUpgrade: Websocket[crlf][crlf]",
+            "SNI": "firebase.google.com",
+            "TlsIP": "firebase.google.com",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "SlowChave": "",
+            "SlowNameServer": "",
+            "SlowDns": "",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "📱VIVO GCLOUD 04",
+            "FLAG": "vivo",
+            "Payload": "GET /app00 HTTP/1.1\nHost: [random=g-1040039040159.southamerica-east1.run.app;proxy-g-102814795416.southamerica-east1.run.app]\r\nConnection: Upgrade\r\nUpgrade: Websocket\r\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+            "SNI": "apis.google.com",
+            "TlsIP": "apis.google.com",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "SlowChave": "",
+            "SlowNameServer": "",
+            "SlowDns": "",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "📱VIVO GCLOUD 05",
+            "FLAG": "vivo",
+            "Payload": "GET /app00 HTTP/1.1\nHost: [random=g-1040039040159.southamerica-east1.run.app;proxy-g-102814795416.southamerica-east1.run.app]\r\nConnection: Upgrade\r\nUpgrade: Websocket\r\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+            "SNI": "workspace.google.com",
+            "TlsIP": "workspace.google.com",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "SlowChave": "",
+            "SlowNameServer": "",
+            "SlowDns": "",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "📱VIVO GCLOUD 06",
+            "FLAG": "vivo",
+            "Payload": "GET /app00 HTTP/1.1\nHost: [random=g-1040039040159.southamerica-east1.run.app;proxy-g-102814795416.southamerica-east1.run.app]\r\nConnection: Upgrade\r\nUpgrade: Websocket\r\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+            "SNI": "lh3.google.com.br",
+            "TlsIP": "youtube.com",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "SlowChave": "",
+            "SlowNameServer": "",
+            "SlowDns": "",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "📱VIVO GCLOUD 07",
+            "FLAG": "vivo",
+            "Payload": "GET /app00 HTTP/1.1\nHost: [random=g-1040039040159.southamerica-east1.run.app;proxy-g-102814795416.southamerica-east1.run.app]\r\nConnection: Upgrade\r\nUpgrade: Websocket\r\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+            "SNI": "domains.google.com",
+            "TlsIP": "domains.google.com",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "SlowChave": "",
+            "SlowNameServer": "",
+            "SlowDns": "",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "📱VIVO GCLOUD 08",
+            "FLAG": "vivo",
+            "Payload": "GET /app00 HTTP/1.1\nHost: [random=g-1040039040159.southamerica-east1.run.app;proxy-g-102814795416.southamerica-east1.run.app]\r\nConnection: Upgrade\r\nUpgrade: Websocket\r\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+            "SNI": "lh3.google.com.br",
+            "TlsIP": "lh3.google.com.br",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "SlowChave": "",
+            "SlowNameServer": "",
+            "SlowDns": "",
+            "Info": "Tlsws"
+        },
+        	{ 
 		 
             "Name": "",
             "FLAG": "",
