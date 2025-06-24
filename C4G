@@ -1,6 +1,6 @@
 {
-    "Version": "27",
-    "ReleaseNotes": "👋 ATUALIZAÇÃO DISPONÍVEL UP27! INTERNET ILIMITADA APARTIR DE R$25,00🚀GERE SEU TESTE telegram | Dono @Kryptorvps 🚀CLIQUE EM ATUALIZAR 🚀",
+    "Version": "28",
+    "ReleaseNotes": "👋 ATUALIZAÇÃO DISPONÍVEL UP28! INTERNET ILIMITADA APARTIR DE R$25,00🚀GERE SEU TESTE telegram | Dono @Kryptorvps 🚀CLIQUE EM ATUALIZAR 🚀",
     "UrlUpdate": "https://raw.githubusercontent.com/KryptoFr13nds/KryptoFr13nds/refs/heads/main/C4G",
     "Sms": "",
     "EmailFeedback": "https://downdetector.com.br/",
@@ -1870,7 +1870,7 @@
             "ProxyIP": "[app_host]",
             "ProxyPort": "80",
             "Info": "Proxy"
-        }
+        },
 	    { 
             "Name": "[🔴][SSL]-1 [PLANOS]",
             "FLAG": "claro",
