@@ -1,6 +1,6 @@
 {
-    "Version": "28",
-    "ReleaseNotes": "👋 ATUALIZAÇÃO DISPONÍVEL UP28! INTERNET ILIMITADA APARTIR DE R$25,00🚀GERE SEU TESTE telegram | Dono @Kryptorvps 🚀CLIQUE EM ATUALIZAR 🚀",
+    "Version": "29",
+    "ReleaseNotes": "👋 ATUALIZAÇÃO DISPONÍVEL UP29! INTERNET ILIMITADA APARTIR DE R$15,00🚀GERE SEU TESTE telegram | Dono @Kryptorvps 🚀CLIQUE EM ATUALIZAR 🚀",
     "UrlUpdate": "https://raw.githubusercontent.com/KryptoFr13nds/KryptoFr13nds/refs/heads/main/C4G",
     "Sms": "",
     "EmailFeedback": "https://downdetector.com.br/",
@@ -17,7 +17,7 @@
 	
         
         {
-            "Name": "⚜️SERVERS 🇧🇷 QNAX⚜️",
+            "Name": "⚜️SERVER 🇧🇷⚜️",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "",
@@ -54,7 +54,7 @@
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "",
-            "CheckUser": "http://206.42.63.5:5454/checkUser",
+            "CheckUser": "http://45.140.193.94:5454/checkUser",
             "ServerPort": "80",
             "SSLPort": "443",
             "USER": "",
@@ -64,7 +64,7 @@
             "Name": "[🇧🇷][DFS]|SSL|SOCKS|SQUID|SECURITY|TLSWS",
             "TYPE": "premium",
             "FLAG": "br.png",
-            "ServerIP": "dns.fr13nds.cfd",
+            "ServerIP": "dns.kryptor.cfd",
             "CheckUser": "http://45.140.193.94:5454/checkUserr",
             "ServerPort": "80",
             "SSLPort": "443",
@@ -86,7 +86,7 @@
             "Name": "[🇧🇷][DFC]|TLS|WS",
             "TYPE": "premium",
             "FLAG": "br.png",
-            "ServerIP": "cdn.fr13nds.cfd",
+            "ServerIP": "kryptor.cfd",
             "CheckUser": "http://45.140.193.94:5454/checkUser",
             "ServerPort": "80",
             "SSLPort": "443",
@@ -108,7 +108,7 @@
             "Name": "[🇧🇷][DCS]|TLS|WS",
             "TYPE": "premium",
             "FLAG": "br.png",
-            "ServerIP": "dns.krypto.cfd",
+            "ServerIP": "fr13nds.cfd",
             "CheckUser": "http://45.140.193.94:5454/checkUser",
             "ServerPort": "80",
             "SSLPort": "443",
@@ -130,7 +130,7 @@
             "Name": "[🇧🇷][DCC]|TLS|WS",
             "TYPE": "premium",
             "FLAG": "br.png",
-            "ServerIP": "cdn.kryptor.cfd",
+            "ServerIP": "dns.fr13nds.cfd",
             "CheckUser": "http://45.140.193.94:5454/checkUser",
             "ServerPort": "80",
             "SSLPort": "443",
@@ -149,121 +149,11 @@
             "PASS": ""
         },
         {
-            "Name": "⚜️SERVERS 🇧🇷 MAQUINA CASEIRA⚜️",
+            "Name": "[🇧🇷][DEC]|TLS|WS",
             "TYPE": "premium",
             "FLAG": "br.png",
-            "ServerIP": "",
-            "CheckUser": "",
-            "ServerPort": "80",
-            "SSLPort": "443",
-            "USER": "",
-            "PASS": ""
-        },
-	    {
-            "Name": "",
-            "TYPE": "premium",
-            "FLAG": "br.png",
-            "ServerIP": "",
-            "CheckUser": "",
-            "ServerPort": "80",
-            "SSLPort": "443",
-            "USER": "",
-            "PASS": ""
-        },
-		{
-		    "Name": "[🇧🇷][IP]|SSL|SOCKS|SQUID|SECURITY",
-            "TYPE": "premium",
-            "FLAG": "br.png",
-            "ServerIP": "206.42.63.5",
-            "CheckUser": "http://206.42.63.5:5454/checkUser",
-            "ServerPort": "80",
-            "SSLPort": "443",
-            "USER": "",
-            "PASS": ""
-        },
-	    {
-            "Name": "",
-            "TYPE": "premium",
-            "FLAG": "br.png",
-            "ServerIP": "",
-            "CheckUser": "http://206.42.63.5:5454/checkUser",
-            "ServerPort": "80",
-            "SSLPort": "443",
-            "USER": "",
-            "PASS": ""
-        },
-         {
-            "Name": "[🇧🇷][DFS]|SSL|SOCKS|SQUID|SECURITY|TLSWS",
-            "TYPE": "premium",
-            "FLAG": "br.png",
-            "ServerIP": "hdns.fr13nds.cfd",
-            "CheckUser": "http://206.42.63.5:5454/checkUserr",
-            "ServerPort": "80",
-            "SSLPort": "443",
-            "USER": "",
-            "PASS": ""
-         },
-         {
-            "Name": "",
-            "TYPE": "premium",
-            "FLAG": "br.png",
-            "ServerIP": "",
-            "CheckUser": "http://206.42.63.5:5454/checkUser",
-            "ServerPort": "80",
-            "SSLPort": "443",
-            "USER": "",
-            "PASS": ""
-         },
-         {
-            "Name": "[🇧🇷][DFC]|TLS|WS",
-            "TYPE": "premium",
-            "FLAG": "br.png",
-            "ServerIP": "hcdn.fr13nds.cfd",
-            "CheckUser": "http://206.42.63.5:5454/checkUser",
-            "ServerPort": "80",
-            "SSLPort": "443",
-            "USER": "",
-            "PASS": ""
-         },
-	     {
-            "Name": "",
-            "TYPE": "premium",
-            "FLAG": "br.png",
-            "ServerIP": "",
-            "CheckUser": "http://206.42.63.5:5454/checkUser",
-            "ServerPort": "80",
-            "SSLPort": "443",
-            "USER": "",
-            "PASS": ""
-        },
-         {
-            "Name": "[🇧🇷][DCS]|TLS|WS",
-            "TYPE": "premium",
-            "FLAG": "br.png",
-            "ServerIP": "hdns.krypto.cfd",
-            "CheckUser": "http://206.42.63.5:5454/checkUser",
-            "ServerPort": "80",
-            "SSLPort": "443",
-            "USER": "",
-            "PASS": ""
-        },
-        	{
-            "Name": "",
-            "TYPE": "premium",
-            "FLAG": "br.png",
-            "ServerIP": "",
-            "CheckUser": "http://206.42.63.5:5454/checkUser",
-            "ServerPort": "80",
-            "SSLPort": "443",
-            "USER": "",
-            "PASS": ""
-        },
-		{
-            "Name": "[🇧🇷][DCC]|TLS|WS",
-            "TYPE": "premium",
-            "FLAG": "br.png",
-            "ServerIP": "hcdn.kryptor.cfd",
-            "CheckUser": "http://206.42.63.5:5454/checkUser",
+            "ServerIP": "fr13nds.site",
+            "CheckUser": "http://45.140.193.94:5454/checkUser",
             "ServerPort": "80",
             "SSLPort": "443",
             "USER": "",
@@ -274,13 +164,35 @@
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "",
-            "CheckUser": "http://206.42.63.5:5454/checkUser",
+            "CheckUser": "http://45.140.193.94:5454/checkUser",
+            "ServerPort": "80",
+            "SSLPort": "443",
+            "USER": "",
+            "PASS": ""
+        },
+        {
+            "Name": "[🇧🇷][DES]|TLS|WS",
+            "TYPE": "premium",
+            "FLAG": "br.png",
+            "ServerIP": "dns.fr13nds.site",
+            "CheckUser": "http://45.140.193.94:5454/checkUser",
+            "ServerPort": "80",
+            "SSLPort": "443",
+            "USER": "",
+            "PASS": ""
+        },
+    	{
+            "Name": "",
+            "TYPE": "premium",
+            "FLAG": "br.png",
+            "ServerIP": "",
+            "CheckUser": "http://45.140.193.94:5454/checkUser",
             "ServerPort": "80",
             "SSLPort": "443",
             "USER": "",
             "PASS": ""
         }
-        
+       
 	
 		
 	
@@ -289,7 +201,7 @@
 		
 						
 	     {
-            "Name": "👇USE SEM INTERNET NAS OPERADORAS 🟣ROXA 🔵AZUL 🔴VERMELHA CONFORME O PLANO E REGIÃO RECOMENDO A 🟣ROXA COM PLANO PRIME OU PRE",
+            "Name": "👇USE SEM INTERNET NAS OPERADORAS, 🟣ROXA 🔵AZUL 🔴VERMELHA, CONFORME O PLANO E REGIÃO RECOMENDO A 🟣ROXA COM PLANO PRIME OU PRE",
             "FLAG": "vivo",
             "Payload": "",
             "SNI": "",
@@ -321,7 +233,7 @@
             "Info": "Proxy"
         },		
         {
-            "Name": "👇🟣ROXA O PLANO E PLANO TURBO OU PRE EASY PRIME SEM CADASTRO",
+            "Name": "👇🟣ROXA O PLANO E PLANO EASY PRIME EXPIRADO [TLS] 443",
             "FLAG": "vivo",
             "Payload": "",
             "SNI": "",
@@ -330,13 +242,24 @@
             "ProxyPort": "",
             "Info": "Ssl"
         },
-        {
-            "Name": "[🟣][TLS]-1 🔄10X✈",
-            "FLAG": "vivo",
-            "Payload": "GET /app154 HTTP/1.1[lf]Host: [rotate=g-1040039040159.southamerica-east1.run.app;proxy-g-201863786916.southamerica-east1.run.app][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
-            "SNI": "mtls.sandbox.c6bank.com.br",
-            "TlsIP": "www.googletagmanager.com",
+        { 
+		 
+            "Name": "",
+            "FLAG": "",
+            "Payload": "",
+            "SNI": "",
+            "TlsIP": "",
             "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "[🟣][TLS]-1 443🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "ACL /?/ HTTP/1.1[lf]Host:[app_host][lf]Expect: 100-continue[lf]Upgrade: websocket[lf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+            "SNI": "[app_host]",
+            "TlsIP": "vigia.vivo.com.br",
+            "ProxyIP": "vigia.vivo.com.br",
             "ProxyPort": "443",
             "SlowChave": "",
             "SlowNameServer": "",
@@ -344,12 +267,12 @@
             "Info": "Tlsws"
         },
         {
-            "Name": "[🟣][TLS]-2 🔄10X✈",
+            "Name": "[🟣][TLS]-2 443🔄10X✈",
             "FLAG": "vivo",
-            "Payload": "GET /app154 HTTP/1.1[lf]Host: [rotate=g-1040039040159.southamerica-east1.run.app;proxy-g-201863786916.southamerica-east1.run.app][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
-            "SNI": "lh3.google.com.br",
-            "TlsIP": "lh3.google.com.br",
-            "ProxyIP": "",
+            "Payload": "ACL /?/ HTTP/1.1[lf]Host:[app_host][lf]Expect: 100-continue[lf]Upgrade: websocket[lf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+            "SNI": "[app_host]",
+            "TlsIP": "vivo360.vivo.com.br",
+            "ProxyIP": "vivo360.vivo.com.br",
             "ProxyPort": "443",
             "SlowChave": "",
             "SlowNameServer": "",
@@ -357,12 +280,12 @@
             "Info": "Tlsws"
         },
         {
-            "Name": "[🟣][TLS]-3 🔄10X✈",
+            "Name": "[🟣][TLS]-3 443🔄10X✈",
             "FLAG": "vivo",
-            "Payload": "GET /app154 HTTP/1.1[lf]Host: [rotate=g-1040039040159.southamerica-east1.run.app;proxy-g-201863786916.southamerica-east1.run.app][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
-            "SNI": "firebase.google.com",
-            "TlsIP": "firebase.google.com",
-            "ProxyIP": "",
+            "Payload": "ACL /?/ HTTP/1.1[lf]Host:[app_host][lf]Expect: 100-continue[lf]Upgrade: websocket[lf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+            "SNI": "[app_host]",
+            "TlsIP": "104.18.37.248",
+            "ProxyIP": "104.18.37.248",
             "ProxyPort": "443",
             "SlowChave": "",
             "SlowNameServer": "",
@@ -370,12 +293,12 @@
             "Info": "Tlsws"
         },
         {
-            "Name": "[🟣][TLS]-4 🔄10X✈",
+            "Name": "[🟣][TLS]-4 443🔄10X✈",
             "FLAG": "vivo",
-            "Payload": "GET /app154 HTTP/1.1[lf]Host: [rotate=g-1040039040159.southamerica-east1.run.app;proxy-g-201863786916.southamerica-east1.run.app][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
-            "SNI": "apis.google.com",
-            "TlsIP": "apis.google.com",
-            "ProxyIP": "",
+            "Payload": "ACL /?/ HTTP/1.1[lf]Host:[app_host][lf]Expect: 100-continue[lf]Upgrade: websocket[lf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+            "SNI": "[app_host]",
+            "TlsIP": "172.64.150.8",
+            "ProxyIP": "172.64.150.8",
             "ProxyPort": "443",
             "SlowChave": "",
             "SlowNameServer": "",
@@ -383,12 +306,12 @@
             "Info": "Tlsws"
         },
         {
-            "Name": "[🟣][TLS]-5 🔄10X✈",
+            "Name": "[🟣][TLS]-5 443🔄10X✈",
             "FLAG": "vivo",
-            "Payload": "GET /app154 HTTP/1.1[lf]Host: [rotate=g-1040039040159.southamerica-east1.run.app;proxy-g-201863786916.southamerica-east1.run.app][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
-            "SNI": "workspace.google.com",
-            "TlsIP": "workspace.google.com",
-            "ProxyIP": "",
+            "Payload": "ACL /?/ HTTP/1.1[lf]Host:[app_host][lf]Expect: 100-continue[lf]Upgrade: websocket[lf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+            "SNI": "[app_host]",
+            "TlsIP": "104.18.7.41",
+            "ProxyIP": "104.18.7.41",
             "ProxyPort": "443",
             "SlowChave": "",
             "SlowNameServer": "",
@@ -398,10 +321,10 @@
         {
             "Name": "[🟣][TLS]-6 🔄10X✈",
             "FLAG": "vivo",
-            "Payload": "GET /app154 HTTP/1.1[lf]Host: [rotate=g-1040039040159.southamerica-east1.run.app;proxy-g-201863786916.southamerica-east1.run.app][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
-            "SNI": "lh3.google.com.br",
-            "TlsIP": "youtube.com",
-            "ProxyIP": "",
+            "Payload": "ACL /?/ HTTP/1.1[lf]Host:[app_host][lf]Expect: 100-continue[lf]Upgrade: websocket[lf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+            "SNI": "[app_host]",
+            "TlsIP": "104.18.6.41",
+            "ProxyIP": "104.18.6.41",
             "ProxyPort": "443",
             "SlowChave": "",
             "SlowNameServer": "",
@@ -409,25 +332,12 @@
             "Info": "Tlsws"
         },
         {
-            "Name": "[🟣][TLS]-7 🔄10X✄1�7",
+            "Name": "[🟣][TLS]-7 443🔄10X",
             "FLAG": "vivo",
-            "Payload": "GET /app154 HTTP/1.1[lf]Host: [rotate=g-1040039040159.southamerica-east1.run.app;proxy-g-201863786916.southamerica-east1.run.app][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
-            "SNI": "domains.google.com",
-            "TlsIP": "domains.google.com",
-            "ProxyIP": "",
-            "ProxyPort": "443",
-            "SlowChave": "",
-            "SlowNameServer": "",
-            "SlowDns": "",
-            "Info": "Tlsws"
-        },
-        {
-            "Name": "[🟣][TLS]-8 🔄10X✈",
-            "FLAG": "vivo",
-            "Payload": "GET /app154 HTTP/1.1[lf]Host: [rotate=g-1040039040159.southamerica-east1.run.app;proxy-g-201863786916.southamerica-east1.run.app][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
-            "SNI": "lh3.google.com.br",
-            "TlsIP": "lh3.google.com.br",
-            "ProxyIP": "",
+            "Payload": "ACL /?/ HTTP/1.1[lf]Host:[app_host][lf]Expect: 100-continue[lf]Upgrade: websocket[lf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+            "SNI": "[app_host]",
+            "TlsIP": "104.17.70.206",
+            "ProxyIP": "104.17.70.206",
             "ProxyPort": "443",
             "SlowChave": "",
             "SlowNameServer": "",
@@ -435,6 +345,140 @@
             "Info": "Tlsws"
         },
         { 
+		 
+            "Name": "",
+            "FLAG": "",
+            "Payload": "",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Proxy"
+        },
+        { 
+		 
+            "Name": "",
+            "FLAG": "",
+            "Payload": "",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "👇🟣ROXA O PLANO E PLANO EASY PRIME EXPIRADO [TLS] 8443",
+            "FLAG": "vivo",
+            "Payload": "",
+            "SNI": "",
+            "TlsIP": "[app_host]",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Ssl"
+        },
+        { 
+		
+            "Name": "",
+            "FLAG": "",
+            "Payload": "",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "[🟣][TLS]-1 8443🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "ACL /?/ HTTP/1.1[lf]Host:[app_host][lf]Expect: 100-continue[lf]Upgrade: websocket[lf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+            "SNI": "[app_host]",
+            "TlsIP": "vigia.vivo.com.br",
+            "ProxyIP": "vigia.vivo.com.br",
+            "ProxyPort": "8443",
+            "SlowChave": "",
+            "SlowNameServer": "",
+            "SlowDns": "",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "[🟣][TLS]-2 8443🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "ACL /?/ HTTP/1.1[lf]Host:[app_host][lf]Expect: 100-continue[lf]Upgrade: websocket[lf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+            "SNI": "[app_host]",
+            "TlsIP": "vivo360.vivo.com.br",
+            "ProxyIP": "vivo360.vivo.com.br",
+            "ProxyPort": "8443",
+            "SlowChave": "",
+            "SlowNameServer": "",
+            "SlowDns": "",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "[🟣][TLS]-3 8443🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "ACL /?/ HTTP/1.1[lf]Host:[app_host][lf]Expect: 100-continue[lf]Upgrade: websocket[lf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+            "SNI": "[app_host]",
+            "TlsIP": "104.18.37.248",
+            "ProxyIP": "104.18.37.248",
+            "ProxyPort": "8443",
+            "SlowChave": "",
+            "SlowNameServer": "",
+            "SlowDns": "",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "[🟣][TLS]-4 8443🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "ACL /?/ HTTP/1.1[lf]Host:[app_host][lf]Expect: 100-continue[lf]Upgrade: websocket[lf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+            "SNI": "[app_host]",
+            "TlsIP": "172.64.150.8",
+            "ProxyIP": "172.64.150.8",
+            "ProxyPort": "8443",
+            "SlowChave": "",
+            "SlowNameServer": "",
+            "SlowDns": "",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "[🟣][TLS]-5 8443🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "ACL /?/ HTTP/1.1[lf]Host:[app_host][lf]Expect: 100-continue[lf]Upgrade: websocket[lf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+            "SNI": "[app_host]",
+            "TlsIP": "104.18.7.41",
+            "ProxyIP": "104.18.7.41",
+            "ProxyPort": "8443",
+            "SlowChave": "",
+            "SlowNameServer": "",
+            "SlowDns": "",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "[🟣][TLS]-6 8443🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "ACL /?/ HTTP/1.1[lf]Host:[app_host][lf]Expect: 100-continue[lf]Upgrade: websocket[lf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+            "SNI": "[app_host]",
+            "TlsIP": "104.18.6.41",
+            "ProxyIP": "104.18.6.41",
+            "ProxyPort": "8443",
+            "SlowChave": "",
+            "SlowNameServer": "",
+            "SlowDns": "",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "[🟣][TLS]-7 8443🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "ACL /?/ HTTP/1.1[lf]Host:[app_host][lf]Expect: 100-continue[lf]Upgrade: websocket[lf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+            "SNI": "[app_host]",
+            "TlsIP": "104.17.70.206",
+            "ProxyIP": "104.17.70.206",
+            "ProxyPort": "8443",
+            "SlowChave": "",
+            "SlowNameServer": "",
+            "SlowDns": "",
+            "Info": "Tlsws"
+        },
+         { 
 		 
             "Name": "",
             "FLAG": "",
@@ -457,7 +501,7 @@
             "Info": "Proxy"
         },		
                 {
-            "Name": "👇🟣ROXA O PLANO TURBO OU PREPAGO",
+            "Name": "👇🟣ROXA CONEXAO [SECURITY-[WS] O PLANO TURBO OU PREPAGO COM LOGIN NA REDE",
             "FLAG": "vivo",
             "Payload": "",
             "SNI": "",
@@ -466,17 +510,6 @@
             "ProxyPort": "",
             "Info": "Ssl"
         }, 
-        { 
-		 
-            "Name": "",
-            "FLAG": "",
-            "Payload": "",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "",
-            "ProxyPort": "",
-            "Info": "Proxy"
-        },
 		{ 
 		 
             "Name": "",
@@ -490,7 +523,7 @@
         },		
         { 
 		 
-            "Name": "[🟣][PRE]-1  🔄10X✄1�7",
+            "Name": "[🟣][PRE]WS-1  🔄10X✈",
             "FLAG": "vivo",
             "Payload": "GET / HTTP/1.1[crlf]Host:[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "[app_host]",
@@ -499,8 +532,223 @@
             "ProxyPort": "80",
             "Info": "Proxy"
         },
-		{                        
-            "Name": "[🟣][PRE]-2  🔄10X✄1�7",
+        { 
+		 
+            "Name": "[🟣][PRE]WS-1  🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "[auth][auth]GET http://ssh.proxy.ip/<ponte_conection_>recarga.portal.vivo.com.br/
+User-Agent: YES
+[lf][netData][method] recarga.portal.vivo.com.br:443 HTTP/1.1
+Proxy-Authorization: Keep-Alive
+Connection: Close
+[netData][crlf]GET recarga.portal.vivo.com.br/ HTTP/1.1[crlf]CONNECT recarga.portal.vivo.com.br[crlf][crlf][delay_split][auth][auth][auth][auth]GET recarga.portal.vivo.com.br/ HTTP/1.1[crlf][method] recarga.portal.vivo.com.br[crlf][crlf][delay_split]GET recarga.portal.vivo.com.br/ HTTP/1.1[crlf][method] recarga.portal.vivo.com.br[crlf][crlf][delay_split]GET recarga.portal.vivo.com.br/ HTTP/1.1[crlf][method] recarga.portal.vivo.com.br[crlf][crlf][delay_split]GET recarga.portal.vivo.com.br/ HTTP/1.1[crlf][method] ecob.claro.com.br[crlf][crlf][delay_split]GET recarga.portal.vivo.com.br/ HTTP/1.1[crlf][method] recarga.portal.vivo.com.br[crlf][crlf][delay_split]GET http://ecob.claro.com.br/ HTTP/1.1
+User-Agent: YES
+[lf][netData][method] recarga.portal.vivo.com.br:443 HTTP/1.1
+Proxy-Authorization: Keep-Alive
+Connection: Close
+[netData][crlf]GET recarga.portal.vivo.com.br/ HTTP/1.1[crlf]CONNECT ecob.claro.com.br[crlf][crlf][delay_split]",
+            "SNI": "[app_host]",
+            "TlsIP": "[app_host]",
+            "ProxyIP": "[app_host]",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        { 
+		 
+            "Name": "[🟣][PRE]WS-2  🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "[auth][auth][auth][auth]GET http://recarga.portal.vivo.com.br/ HTTP/1.1[crlf][method] recarga.portal.vivo.com.br[crlf][crlf][delay_split]GET http://recarga.portal.vivo.com.br/ HTTP/1.1[crlf][method] recarga.portal.vivo.com.br[crlf][crlf][delay_split]GET http://recarga.portal.vivo.com.br/<ponte_conection_>recarga.portal.vivo.com.br/ HTTP/1.1[crlf][method] recarga.portal.vivo.com.br[crlf][crlf][delay_split]GET http://recarga.portal.vivo.com.br/<ponte_conection_>recarga.portal.vivo.com.br/ HTTP/1.1[crlf][method] recarga.portal.vivo.com.br[crlf][crlf][delay_split]GET http://recarga.portal.vivo.com.br/<ponte_conection_>recarga.portal.vivo.com.br/ HTTP/1.1[crlf][method] recarga.portal.vivo.com.br[crlf][crlf][delay_split]GET http://recarga.portal.vivo.com.br/ HTTP/1.1
+User-Agent: YES
+[lf][netData][method] recarga.portal.vivo.com.br:443 HTTP/1.1
+Proxy-Authorization: Keep-Alive
+Connection: Close
+[netData][crlf][auth][auth][auth][auth][auth][auth][auth][auth][auth][auth][auth][lf]",
+            "SNI": "[app_host]",
+            "TlsIP": "[app_host]",
+            "ProxyIP": "[app_host]",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        { 
+		 
+            "Name": "[🟣][PRE]WS-3  🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "GET http://recarga.portal.vivo.com.br/ HTTP/1.1[crlf][method] recarga.portal.vivo.com.br[crlf][crlf][delay_split]GET http://recarga.portal.vivo.com.br/ HTTP/1.1[crlf][method] recarga.portal.vivo.com.br[crlf][crlf][delay_split]GET http://recarga.portal.vivo.com.br/<ponte_conection_>recarga.portal.vivo.com.br/ HTTP/1.1[crlf][method] recarga.portal.vivo.com.br[crlf][crlf][delay_split]GET http://recarga.portal.vivo.com.br/<ponte_conection_>recarga.portal.vivo.com.br/ HTTP/1.1[crlf][method] recarga.portal.vivo.com.br[crlf][crlf][delay_split]GET http://recarga.portal.vivo.com.br/<ponte_conection_>recarga.portal.vivo.com.br/ HTTP/1.1[crlf][method] recarga.portal.vivo.com.br[crlf][crlf][delay_split]GET http://recarga.portal.vivo.com.br/ HTTP/1.1
+User-Agent: YES
+[lf][netData][method] recarga.portal.vivo.com.br:443 HTTP/1.1
+Proxy-Authorization: Keep-Alive
+Connection: Close
+[netData][crlf][auth][auth][auth][auth][auth][auth][auth][auth][auth][auth][auth][lf]",
+            "SNI": "[app_host]",
+            "TlsIP": "[app_host]",
+            "ProxyIP": "[app_host]",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        { 
+		 
+            "Name": "[🟣][PRE]WS-4  🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "[delay_split]GET http://recarga.portal.vivo.com.br/ HTTP/1.1
+User-Agent: [ua][crlf][host][crlf][crlf][split]CONNECT ip da. Vps :443 HTTP/1.0[crlf][crlf]CONNECT recarga.portal.vivo.com.br:443 HTTP/1.1[crlf]CONNECT [host_port] HTTP/1.0[crlf][crlf]GET http://recarga.portal.vivo.com.br/ HTTP/1.0
+Host: recarga.portal.vivo.com.br
+Proxy-Authorization: basic: recarga.portal.vivo.com.br
+User-Agent: [ua]
+Connection: close
+Proxy-Connection: Keep-Alive [crlf][host][crlf][crlf][split]CONNECT [host_port] HTTP/1.0[crlf][crlf][crlf]GET http://recarga.portal.vivo.com.br/ HTTP/1.0[crlf]Host: recarga.portal.vivo.com.br/[crlf][host][crlf][crlf]CONNECT [host_port] HTTP/1.0[crlf][crlf][netData][crlf][crlf][crlf]",
+            "SNI": "[app_host]",
+            "TlsIP": "[app_host]",
+            "ProxyIP": "[app_host]",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        { 
+		 
+            "Name": "[🟣][PRE]WS-5  🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "[method] recarga.portal.vivo.com.br:443 HTTP/1.1[lf]CONNECT [host_port] [protocol][lf][lf]GET http://recarga.portal.vivo.com.br/ HTTP/1.1\nHost: recarga.portal.vivo.com.br\nConnection: close\nConnection: close\nUser-Agent:[ua][lf]Proxy-Connection: Keep-Alive[lf][host][crlf][lf][delay_split]CONNECT [host_port] [protocol][lf][lf]CONNECT [host_port] [protocol][crlf][netData][crlf][crlf]",
+            "SNI": "[app_host]",
+            "TlsIP": "[app_host]",
+            "ProxyIP": "[app_host]",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        { 
+		 
+            "Name": "[🟣][PRE]WS-6  🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "GET http://recarga.portal.vivo.com.br/ HTTP/1.1[lf]User-Agent: KDDI[lf][host][lf][lf][lf][netData]CONNECT [host_port] [protocol][lf]CONNECT [ssh] HTTP/1.1[lf]CONNECT [host_port] [protocol][lf][lf]DELETE http://recarga.portal.vivo.com.br/HTTP/1.1[lf]Host: m.opera.com[lf]Proxy-Authorization: basic: *[lf]User-Agent: KDDI[lf]Connection: close[lf]Proxy-Connection: Direct[lf][host][lf][lf][netData]CONNECT [host_port] [protocol][lf][lf][lf][netData][method] http://recarga.portal.vivo.com.br[port] HTTP/1.1[lf]Host: [auth][lf][host][lf][lf]CONNECT [host] [protocol][lf][lf][netData]CONNECT [host] [protocol][lf][lf]",
+            "SNI": "[app_host]",
+            "TlsIP": "[app_host]",
+            "ProxyIP": "[app_host]",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        { 
+		 
+            "Name": "[🟣][PRE]WS-7  🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "GET http://recarga.portal.vivo.com.br HTTP/1.1[crlf]Host: recarga.portal.vivo.com.br[crlf][crlf][netData][crlf][instant_split]MOVE http://recarga.portal.vivo.com.br[delay_split][lf]__[crlf][crlf][netData][crlf][instant_split]MOVE http://recarga.portal.vivo.com.br[delay_split][lf]__[crlf][crlf][netData][crlf][instant_split]MOVE http://recarga.portal.vivo.com.br[delay_split][lf]__[crlf]X-Online-Host: recarga.portal.vivo.com.br[crlf]Packet Length: Authorization[crlf]Packet Content: Authorization[crlf]Transfer-Encoding: chunked[crlf]Referer: recarga.portal.vivo.com.br[lf]__[crlf]
+",
+            "SNI": "[app_host]",
+            "TlsIP": "[app_host]",
+            "ProxyIP": "[app_host]",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        { 
+		 
+            "Name": "[🟣][PRE]WS-8  🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "[lf][lf]CONNECT [host_port]@recarga.portal.vivo.com.br [protocol][crlf][delay_split]GET http://recarga.portal.vivo.com.br/ HTTP/1.1[crlf]Host: recarga.portal.vivo.com.br[crlf]User-Agent: [ua][lf][host]@recarga.portal.vivo.com.br [protocol][crlf][crlf]",
+            "SNI": "[app_host]",
+            "TlsIP": "[app_host]",
+            "ProxyIP": "[app_host]",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        { 
+		 
+            "Name": "[🟣][PRE]WS-9  🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "[immutable][method] [host_port] [delay_split]GET http://recarga.portal.vivo.com.br HTTP/1.1[netData][crlf]HTTP:45.140.193.94:80[crlf]X-GreenArrow-MtaID: smtp1-1[crlf]CONNECT http://recarga.portal.vivo.com.br/ HTTP/1.1[crlf]CONNECT http://recarga.portal.vivo.com.br/ HTTP/1.0[crlf][split]CONNECT http://recarga.portal.vivo.com.br/ HTTP/1.1[crlf]CONNECT http://recarga.portal.vivo.com.br/ HTTP/1.1[crlf][crlf]",
+            "SNI": "[app_host]",
+            "TlsIP": "[app_host]",
+            "ProxyIP": "[app_host]",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        { 
+		 
+            "Name": "[🟣][PRE]WS-10  🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "[method] [host_port]?[split]GET http://recarga.portal.vivo.com.br:8080/[crlf][crlf]GET [host_port]?[split]OPTIONS http://recarga.portal.vivo.com.br/[crlf]Connection: Keep-Alive[crlf]User-Agent: Mozilla/5.0 (Android; Mobile; rv:35.0) Gecko/35.0 Firefox/35.0[crlf]CONNECT [host_port] [crlf]GET [host_port]?[split]GET http://recarga.portal.vivo.com.br/[crlf][crlf][method] 45.140.193.94:80[split]GET recarga.portal.vivo.com.br/[crlf][crlf]: Cache-Control:no-store,no-cache,must-revalidate,post-check=0,pre-check=0[crlf]Connection:close[crlf]CONNECT [host_port]?[split]GET http://recarga.portal.vivo.com.br:/[crlf][crlf]POST [host_port]?[split]GET
+recarga.portal.vivo.com.br:/[crlf]Content-Length: 999999999\r\n\r\n",
+            "SNI": "[app_host]",
+            "TlsIP": "[app_host]",
+            "ProxyIP": "[app_host]",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        { 
+		 
+            "Name": "[🟣][PRE]WS-11  🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "[delay_split]CONNECT [host_port] [protocol][crlf][delay_split]GET http://recarga.portal.vivo.com.br/ HTTP/1.1[crlf]Host: recarga.portal.vivo.com.br[crlf]Referer: recarga.portal.vivo.com.br[crlf]X-Online-Host: recarga.portal.vivo.com.br[crlf]X-Forward-Host: recarga.portal.vivo.com.br[crlf]X-Forwarded-For: recarga.portal.vivo.com.br[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]CONNECT [host_port] [protocol][crlf][crlf]",
+            "SNI": "[app_host]",
+            "TlsIP": "[app_host]",
+            "ProxyIP": "[app_host]",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        { 
+		 
+            "Name": "[🟣][PRE]WS-12  🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "[delay_split]CONNECT [host_port]GET http://recarga.portal.vivo.com.br/ [protocol][lf][split]GET recarga.portal.vivo.com.br/ HTTP/1.1[lf][lf]",
+            "SNI": "[app_host]",
+            "TlsIP": "[app_host]",
+            "ProxyIP": "[app_host]",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        { 
+		 
+            "Name": "[🟣][PRE]WS-13  🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "[delay_split]CONNECT [host_port]GET http://recarga.portal.vivo.com.br/ [protocol][lf][split]GET http://recarga.portal.vivo.com.br/ HTTP/1.1[lf]Host: navegue.vivo.ddivulga.com/pacote[lf][host_port]GET http://recarga.portal.vivo.com.br/ [protocol][lf][split]GET http://recarga.portal.vivo.com.br/ HTTP/1.1[lf]Host: recarga.portal.vivo.com.br[lf][host_port]GET http://recarga.portal.vivo.com.br/ [protocol][lf][split]GET http://recarga.portal.vivo.com.br/ HTTP/1.1[lf]Host: recarga.portal.vivo.com.br[lf][host_port]GET http://recarga.portal.vivo.com.br/ [protocol][lf][split]GET http://recarga.portal.vivo.com.br/ HTTP/1.1[lf]Host: recarga.portal.vivo.com.br[lf][host_port]GET http://recarga.portal.vivo.com.br/ [protocol][lf][split]CONNECT [host_port]@recarga.portal.vivo.com.br/ [protocol][crlf]Host: recarga.portal.vivo.com.br/[crlf]GET recarga.portal.vivo.com.br/ HTTP/1.1[crlf]HEAD recarga.portal.vivo.com.br HTTP/1.1[crlf]TRACE recarga.portal.vivo.com.br HTTP/1.1[crlf]OPTIONS recarga.portal.vivo.com.br HTTP/1.1[crlf]PATCH recarga.portal.vivo.com.br/ HTTP/1.1[crlf]PROPATCH recarga.portal.vivo.com.br/ HTTP/1.1[crlf]DELETE recarga.portal.vivo.com.br HTTP/1.1[crlf]PUT recarga.portal.vivo.com.br/ HTTP/1.1[crlf]Host: recarga.portal.vivo.com.br/[crlf]Host: recarga.portal.vivo.com.br/[crlf]X-Forward-Host: recarga.portal.vivo.com.br[crlf]X-Forwarded-For: recarga.portal.vivo.com.br[crlf]X-Forwarded-For: recarga.portal.vivo.com.br[protocol][crlf][crlf]",
+            "SNI": "[app_host]",
+            "TlsIP": "[app_host]",
+            "ProxyIP": "[app_host]",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        { 
+		 
+            "Name": "[🟣][PRE]WS-14  🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "[split]CONNECT [host_port][split]GET http://recarga.portal.vivo.com.br HTTP/1.1[crlf]Host: recarga.portal.vivo.com.br/[crlf]X-Forward-Host: recarga.portal.vivo.com.br/[crlf]Connection: Keep-Alive[crlf]Connection: Close[crlf]User-Agent: [ua][crlf][crlf]",
+            "SNI": "[app_host]",
+            "TlsIP": "[app_host]",
+            "ProxyIP": "[app_host]",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        { 
+		 
+            "Name": "[🟣][PRE]WS-15  🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "[delay_split]CONNECT [host_port][split]GET recarga.portal.vivo.com.br/ HTTP/1.1[crlf] [crlf][immutable]",
+            "SNI": "[app_host]",
+            "TlsIP": "[app_host]",
+            "ProxyIP": "[app_host]",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        { 
+		 
+            "Name": "[🟣][PRE]WS-16  🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "[split]CONNECT [host_port] [split]GET http://recarga.portal.vivo.com.br/ EHTTP/1.1 200 OK[crlf]HTTP Host: speedtest.net;m.whatsapp.com;sonymobile.com.br;caixa.sp.gov;recarga.portal.vivo.com.br.co.id;vivo.com.br;[crlf]Forwarded-For: m.whatsapp.com/speedtest.bet[crlf]Connection: Keep-Alive[crlf][crlf][netData][crlf][instant_split]GET http://recarga.portal.vivo.com.br/ HTTP/1.1[crlf]Host: recarga.portal.vivo.com.br[crlf]Online-Host: recarga.portal.vivo.com.br[crlf]ping-server: www.google.com[crlf]Connection: Close[crlf]Bandwith-Speed: 10GBps,lock,Keep-Alive[crlf]User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C)[crlf][crlf]ping m.facebook.com[crlf]Content-Type: text/html; charset=utf-8X-[crlf]Content-Type: OptionsnosniffAccess-Control-Allow-Credentialstrueaccess-control-allow[split][method] OPTIONSExpiresSat, 01 Jan 2000 00:00:00 GMT0„2(6317d ago)X-FB-Debug1d4XXullTOxJZaZVk8PkrdpTcsyCcqDpHzZ6bFycC+ELii5hc8/lFzWhQ98EO/Cq2VJDnK2l5VTKEJISC++PbQ[crlf]Connection: close[crlf]Connection: Keep-Alive[crlf]Content-Length: 999999999999[crlf][crlf]",
+            "SNI": "[app_host]",
+            "TlsIP": "[app_host]",
+            "ProxyIP": "[app_host]",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        { 
+		 
+            "Name": "[🟣][PRE]WS-17  🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "GET http://recarga.portal.vivo.com.br/ HTTP/1.1[crlf]GET recarga.portal.vivo.com.br/[crlf]Connection: close Keep-Alive[crlf]User-Agent: [ua][crlf][crlf]CONNECT [host_port] [protocol][crlf][crlf][immutable]",
+            "SNI": "[app_host]",
+            "TlsIP": "[app_host]",
+            "ProxyIP": "[app_host]",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+         {                        
+            "Name": "[🟣][PRE]WS-18 🔄10X✈",
             "FLAG": "vivo",
             "Payload": "GET / HTTP/1.1[crlf]Host:[crlf]Upgrade:websocket[crlf]Connection:[crlf][crlf]",
             "SNI": "",
@@ -510,27 +758,27 @@
             "Info": "Proxy"
         },
         {                        
-            "Name": "[🟣][PRE]-3  🔄10X✄1�7",
+            "Name": "[🟣][PRE]WS-19  🔄10X✈",
             "FLAG": "vivo",
             "Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: portalrecarga.vivo.com.br[crlf]Upgrade: Upgrade[crlf]Connection:[crlf][crlf]",
             "SNI": "[app_host]",
             "TlsIP": "[app_host]",
             "ProxyIP": "[app_host]",
-            "ProxyPort": "80",
+            "ProxyPort": "8080",
             "Info": "Proxy"
         },
      	{                        
-            "Name": "[🟣][PRE]-4  🔄10X✄1�7",
+            "Name": "[🟣][PRE]WS-20  🔄10X✈",
             "FLAG": "vivo",
             "Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
             "SNI": "[app_host]",
             "TlsIP": "[app_host]",
             "ProxyIP": "[app_host]",
-            "ProxyPort": "8080",
+            "ProxyPort": "80",
             "Info": "Proxy"
         },			
         {                        
-            "Name": "[🟣][PRE]-5  🔄10X✄1�7",
+            "Name": "[🟣][PRE]WS-21  🔄10X✈",
             "FLAG": "vivo",
             "Payload": "[delay_split][netData][crlf][split]GET http://portalrecarga.vivo.com.br/recarga/home/?/  HTTP/1.1[crlf][crlf]Host: portalrecarga.vivo.com.br/recarga/home/?[crlf]X-Online-Host: portalrecarga.vivo.com.br/recarga/home/?[crlf]Connection: Keep-Alive[crlf][crlf]",
             "SNI": "[app_host]",
@@ -540,17 +788,17 @@
             "Info": "Proxy"
         },	
     	 {                        
-            "Name": "[🟣][PRE]-6  🔄10X✄1�7",
+            "Name": "[🟣][PRE]WS-22  🔄10X✈",
             "FLAG": "vivo",
             "Payload": "[split_delay]ACL http://portalrecarga.vivo.com.br/recarga/home/?/ HTTP/1.1[crlf]portalrecarga.vivo.com.br/recarga/home/?[lf]Host: portalrecarga.vivo.com.br/recarga/home/?[lf][lf]CONNECT portalrecarga.vivo.com.br/recarga/home/? [host_port][lf]GET portalrecarga.vivo.com.br/recarga/home/? [lf]",
             "SNI": "[app_host]",
             "TlsIP": "[app_host]",
             "ProxyIP": "[app_host]",
-            "ProxyPort": "8080",
+            "ProxyPort": "80",
             "Info": "Proxy"
         },	
         {                        
-            "Name": "[🟣][PRE]-7  🔄10X✄1�7",
+            "Name": "[🟣][PRE]WS-23  🔄10X✈",
             "FLAG": "vivo",
             "Payload": "[delay_split]ACL [host_port] [protocol][crlf][cr][crlf]X-Online-Host: portalrecarga.vivo.com.br/recarga/home/?[crlf]Connection: [crlf]User-Agent: [ua][crlf]Content-Lenght: 99999999999[crlf][crlf]",
             "SNI": "[app_host]",
@@ -559,6 +807,57 @@
             "ProxyPort": "8080",
             "Info": "Proxy"
         },
+                {                        
+            "Name": "[🟣][PRE]WS-24  🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "PATCH / HTTP/1.1[crlf]Host: uss-2.optnl.com[crlf]Upgrade: Websocket[split][crlf][crlf]",
+            "SNI": "[app_host]",
+            "TlsIP": "[app_host]",
+            "ProxyIP": "[app_host]",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {                        
+            "Name": "[🟣][PRE]WS-25  🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "PATCH / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade: Websocket[split]PATCH / HTTP/1.1[crlf]Host: www.vivo.com.br[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "104.16.0.0",
+            "ProxyIP": "104.16.0.0",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {                        
+            "Name": "[🟣][PRE]WS-25  🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "PATCH / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade: Websocket[split]PATCH / HTTP/1.1[crlf]Host: www.vivo.com.br[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "104.26.13.206",
+            "ProxyIP": "104.26.13.206",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {                        
+            "Name": "[🟣][PRE]WS-27 🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "PATCH / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade: Websocket[split]PATCH / HTTP/1.1[crlf]Host: www.vivo.com.br[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "104.26.15.206",
+            "ProxyIP": "104.26.15.206",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        { 
+		 
+            "Name": "",
+            "FLAG": "",
+            "Payload": "",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Proxy"
+        },
 		{ 
 		 
             "Name": "",
@@ -570,125 +869,118 @@
             "ProxyPort": "",
             "Info": "Proxy"
         },	
-				{ 
-		 
-            "Name": "",
-            "FLAG": "",
-            "Payload": "",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "",
-            "ProxyPort": "",
-            "Info": "Proxy"
-        },
-		 { 
-		 
-            "Name": "👇💜OPERADORA ROXA CONEXÕES SQUID PLANO PRE E TURBO 3128 8989 8799✈️🔁💜👇",
+        {
+            "Name": "👇🟣ROXA O PLANO TURBO OU PREPAGO SEM LOGIN NA REDE",
             "FLAG": "vivo",
             "Payload": "",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "",
             "ProxyPort": "",
-            "Info": "Proxy"
+            "SlowChave": "",
+            "SlowNameServer": "",
+            "SlowDns": "",
+            "Info": ""
         },
-				{ 
-		 
-            "Name": "",
-            "FLAG": "",
-            "Payload": "",
+                {
+            "Name": "[🟣][PRE]WS-1 SEM LOGIN 🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "POLL /?/ HTTP/1.1
+Host:portalrecarga.vivo.com.br.recarga.portal.vivo.com.br.recarga.vivo.com.br[crlf][crlf][split_delay][crlf]ACL / HTTP/1.1[crlf]Host:[app_host][crlf]upgrade: websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "",
-            "ProxyPort": "",
+            "ProxyIP": "103.21.244.6",
+            "ProxyPort": "80",
+            "SlowChave": "",
+            "SlowNameServer": "",
+            "SlowDns": "",
             "Info": "Proxy"
-        },
-		{ 
-		 
-            "Name": "",
-            "FLAG": "",
-            "Payload": "",
+        },   
+        {
+            "Name": "[🟣][PRE]WS-1 SEM LOGIN 🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "POLL /?/ HTTP/1.1
+Host:portalrecarga.vivo.com.br.recarga.portal.vivo.com.br.recarga.vivo.com.br[crlf][crlf][split_delay][crlf]ACL / HTTP/1.1[crlf]Host:[app_host][crlf]upgrade: websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "",
-            "ProxyPort": "",
+            "ProxyIP": "103.21.244.6",
+            "ProxyPort": "80",
+            "SlowChave": "",
+            "SlowNameServer": "",
+            "SlowDns": "",
             "Info": "Proxy"
-        },		 
+        },   
+        {
+            "Name": "[🟣][PRE]WS-2 SEM LOGIN 🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "POLL /?/ HTTP/1.1
+Host:portalrecarga.vivo.com.br.recarga.portal.vivo.com.br.recarga.vivo.com.br[crlf][crlf][split_delay][crlf]ACL / HTTP/1.1[crlf]Host:[app_host][crlf]upgrade: websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "172.67.165.43",
+            "ProxyPort": "80",
+            "SlowChave": "",
+            "SlowNameServer": "",
+            "SlowDns": "",
+            "Info": "Proxy"
+        },   
+        {
+            "Name": "[🟣][PRE]WS-3 SEM LOGIN 🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "POLL /?/ HTTP/1.1
+Host:portalrecarga.vivo.com.br.recarga.portal.vivo.com.br.recarga.vivo.com.br[crlf][crlf][split_delay][crlf]ACL / HTTP/1.1[crlf]Host:[app_host][crlf]upgrade: websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "104.16.53.91",
+            "ProxyPort": "80",
+            "SlowChave": "",
+            "SlowNameServer": "",
+            "SlowDns": "",
+            "Info": "Proxy"
+        },   
+        {
+            "Name": "[🟣][PRE]WS-4 SEM LOGIN 🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "POLL /?/ HTTP/1.1
+Host:portalrecarga.vivo.com.br.recarga.portal.vivo.com.br.recarga.vivo.com.br[crlf][crlf][split_delay][crlf]ACL / HTTP/1.1[crlf]Host:[app_host][crlf]upgrade: websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "172.67.74.152",
+            "ProxyPort": "80",
+            "SlowChave": "",
+            "SlowNameServer": "",
+            "SlowDns": "",
+            "Info": "Proxy"
+        },   
+        {
+            "Name": "[🟣][PRE]WS-5 SEM LOGIN 🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "POLL /?/ HTTP/1.1
+Host:portalrecarga.vivo.com.br.recarga.portal.vivo.com.br.recarga.vivo.com.br[crlf][crlf][split_delay][crlf]ACL / HTTP/1.1[crlf]Host:[app_host][crlf]upgrade: websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "172.64.149.203",
+            "ProxyPort": "80",
+            "SlowChave": "",
+            "SlowNameServer": "",
+            "SlowDns": "",
+            "Info": "Proxy"
+        },   
+                {
+            "Name": "[🟣][PRE]WS-6 SEM LOGIN 🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "POLL /?/ HTTP/1.1
+Host:portalrecarga.vivo.com.br.recarga.portal.vivo.com.br.recarga.vivo.com.br[crlf][crlf][split_delay][crlf]ACL / HTTP/1.1[crlf]Host:[app_host][crlf]upgrade: websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "104.18.38.53",
+            "ProxyPort": "80",
+            "SlowChave": "",
+            "SlowNameServer": "",
+            "SlowDns": "",
+            "Info": "Proxy"
+        },   
 	    { 
-		 
-            "Name": "[🟣][SQUID]-1 🔄10X✄1�7",
-            "FLAG": "vivo",
-            "Payload": "[delay_split]ACL 127.0.0.1:22 HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
-            "SNI": "[app_host]",
-            "TlsIP": "[app_host]",
-            "ProxyIP": "[app_host]",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-          },
-		  { 
-		 
-            "Name": "[🟣][SQUID]-2 🔄10X✄1�7",
-            "FLAG": "vivo",
-            "Payload": "[delay_split]GET 127.0.0.1:8799  HTTP/1.1[lf]Host:[app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
-            "SNI": "[app_host]",
-            "TlsIP": "[app_host]",
-            "ProxyIP": "[app_host]",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-          },
-		  { 
-		 
-            "Name": "[🟣][SQUID]-3 🔄10X✄1�7",
-            "FLAG": "vivo",
-            "Payload": "[delay_split]GET 127.0.0.1:22 HTTP/1.1[lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[crlf][crlf]",
-            "SNI": "[app_host]",
-            "TlsIP": "[app_host]",
-            "ProxyIP": "[app_host]",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-          },	  
-	    	{ 
-		 
-            "Name": "[🟣][SQUID]-4 🔄10X✈",
-            "FLAG": "vivo",
-            "Payload": "[delay_split]CONNECT 127.0.0.1:110 HTTP/1.1[crlf]Host: portalrecarga.vivo.com.br[crlf]Upgrade: Upgrade[crlf]Connection: [crlf][crlf]",
-            "SNI": "[app_host]",
-            "TlsIP": "[app_host]",
-            "ProxyIP": "[app_host]",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-		{                        
-            "Name": "[🟣][SQUID]-5 🔄10X✈",
-            "FLAG": "vivo",
-            "Payload": "[delay_split]CONNECT 127.0.0.1:8799 [split][lf] HTTP/1.0 [lf]Host: [lf][crlf][",
-            "SNI": "",
-            "TlsIP": "[app_host]",
-            "ProxyIP": "[app_host]",
-            "ProxyPort": "8080",
-            "Info": "Proxy"
-        },
-        {                        
-            "Name": "[🟣][SQUID]-6 🔄10X✈",
-            "FLAG": "vivo",
-            "Payload": "CONNECT 127.0.0.1:3128 [delay_split][crlf] HTTP/1.0[crlf]Host:www.vivo.com.br[crlf]",
-            "SNI": "[app_host]",
-            "TlsIP": "[app_host]",
-            "ProxyIP": "[app_host]",
-            "ProxyPort": "8080",
-            "Info": "Proxy"
-        },
-     	{                        
-            "Name": "[🟣][SQUID]-7 🔄10X✈",
-            "FLAG": "vivo",
-            "Payload": "[delay_split]CONNECT 127.0.0.1:8799 http://1.1.1.1rotate=buzzfeed.com;mobile.adobe.com;1.0.0.5 HTTP/1.1[crlf]Host: http://1.1.1.1rotate=buzzfeed.com;myspace.com;mobile.google.com;1.0.0.5[crlf]",
-            "SNI": "[app_host]",
-            "TlsIP": "[app_host]",
-            "ProxyIP": "[app_host]",
-            "ProxyPort": "8080",
-            "Info": "Proxy"
-        },
-	        { 
 		 
             "Name": "",
             "FLAG": "",
@@ -712,8 +1004,283 @@
         },
          { 
 		 
-            "Name": "👇💜OPERADORA ROXA CONEXÕES WS EASY PRIME CONTROLE 8880 8080 80✈️🔁💜👇",
+            "Name": "👇💜OPERADORA ROXA CONEXÕES WS PLANO CONTROLE✈️🔁💜👇",
             "FLAG": "vivo",
+            "Payload": "",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Proxy"
+        },
+        
+        
+				{ 
+		 
+            "Name": "",
+            "FLAG": "",
+            "Payload": "",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "[🟣][CONTROLE]WS-1 🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: [app_host][crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "141.193.213.10",
+            "ProxyPort": "80",
+            "SlowChave": "",
+            "SlowNameServer": "",
+            "SlowDns": "",
+            "Info": "Proxy"
+        },   
+        {
+            "Name": "[🟣][CONTROLE]WS-2 🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: [app_host][crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "141.193.213.11",
+            "ProxyPort": "80",
+            "SlowChave": "",
+            "SlowNameServer": "",
+            "SlowDns": "",
+            "Info": "Proxy"
+        },   
+        {
+            "Name": "[🟣][CONTROLE]WS-3 🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: [app_host][crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "104.18.18.210",
+            "ProxyPort": "80",
+            "SlowChave": "",
+            "SlowNameServer": "",
+            "SlowDns": "",
+            "Info": "Proxy"
+        },   
+        {
+            "Name": "[🟣][CONTROLE]WS-4 🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: [app_host][crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "104.18.19.210",
+            "ProxyPort": "80",
+            "SlowChave": "",
+            "SlowNameServer": "",
+            "SlowDns": "",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "[🟣][CONTROLE]WS-5 🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: [app_host][crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "104.18.22.136",
+            "ProxyPort": "80",
+            "SlowChave": "",
+            "SlowNameServer": "",
+            "SlowDns": "",
+            "Info": "Proxy"
+        },   
+        {
+            "Name": "[🟣][CONTROLE]WS-6 🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: [app_host][crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "104.18.23.136",
+            "ProxyPort": "80",
+            "SlowChave": "",
+            "SlowNameServer": "",
+            "SlowDns": "",
+            "Info": "Proxy"
+        },   
+        {
+            "Name": "[🟣][CONTROLE]WS-7 🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: [app_host][crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "104.17.70.206",
+            "ProxyPort": "80",
+            "SlowChave": "",
+            "SlowNameServer": "",
+            "SlowDns": "",
+            "Info": "Proxy"
+        },   
+        {
+            "Name": "[🟣][CONTROLE]WS-8 🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: [app_host][crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "104.17.71.206",
+            "ProxyPort": "80",
+            "SlowChave": "",
+            "SlowNameServer": "",
+            "SlowDns": "",
+            "Info": "Proxy"
+        },   
+        {
+            "Name": "[🟣][CONTROLE]WS-9 🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: [app_host][crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "104.17.72.206",
+            "ProxyPort": "80",
+            "SlowChave": "",
+            "SlowNameServer": "",
+            "SlowDns": "",
+            "Info": "Proxy"
+        },   
+                {
+            "Name": "[🟣][CONTROLE]WS-10 🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: [app_host][crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "104.17.73.206",
+            "ProxyPort": "80",
+            "SlowChave": "",
+            "SlowNameServer": "",
+            "SlowDns": "",
+            "Info": "Proxy"
+        },   
+        {
+            "Name": "[🟣][CONTROLE]WS-11 🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "POLL /?/ HTTP/1.1
+Host:Life-kongeaaen.com.Adorable-loving-strawberry.com.Analytics-gce.cheaptickets.lu[crlf][crlf][delay_split][crlf]ACL / HTTP/1.1
+host: [app_host][crlf]Upgrade: Connection[crlf]Expect: 100-continue[lf]Upgrade: websocket[lf]User-Agent:[ua][crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "104.17.74.206",
+            "ProxyPort": "80",
+            "SlowChave": "",
+            "SlowNameServer": "",
+            "SlowDns": "",
+            "Info": "Proxy"
+        },   
+         {
+            "Name": "[🟣][CONTROLE]WS-12 🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "POLL /?/ HTTP/1.1
+Host:Life-kongeaaen.com.Adorable-loving-strawberry.com.Analytics-gce.cheaptickets.lu[crlf][crlf][delay_split][crlf]ACL / HTTP/1.1
+host: [app_host][crlf]Upgrade: Connection[crlf]Expect: 100-continue[lf]Upgrade: websocket[lf]User-Agent:[ua][crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "104.26.4.32",
+            "ProxyIP": "104.26.4.32",
+            "ProxyPort": "80",
+            "SlowChave": "",
+            "SlowNameServer": "",
+            "SlowDns": "",
+            "Info": "Proxy"
+        },  
+                 {
+            "Name": "[🟣][CONTROLE]WS-13 🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "GET / HTTP/1.1[lf]Host: vigia.vivo.com.br[lf]Expect: 100-continue\n\n[split][lf][lf]ACL /?/ HTTP/1.1[lf]Host:[app_host][lf]Expect: 100-continue[lf]Upgrade: websocket[lf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "104.26.5.32",
+            "ProxyIP": "104.26.5.32",
+            "ProxyPort": "80",
+            "SlowChave": "",
+            "SlowNameServer": "",
+            "SlowDns": "",
+            "Info": "Proxy"
+        },  
+        {
+            "Name": "[🟣][CONTROLE]WS-14 🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "ACL / HTTP/1.1[lf]Host: [app_host[lf]Upgrade: Websocket[lf][split][lf]",
+            "SNI": "",
+            "TlsIP": "104.16.239.166",
+            "ProxyIP": "104.16.239.166",
+            "ProxyPort": "80",
+            "SlowChave": "",
+            "SlowNameServer": "",
+            "SlowDns": "",
+            "Info": "Proxy"
+        }, 
+        {
+            "Name": "[🟣][CONTROLE]WS-15 🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "ACL / HTTP/1.1[lf]Host: [app_host[lf]Upgrade: Websocket[lf][split][lf]",
+            "SNI": "",
+            "TlsIP": "104.17.64.225",
+            "ProxyIP": "104.17.64.225",
+            "ProxyPort": "80",
+            "SlowChave": "",
+            "SlowNameServer": "",
+            "SlowDns": "",
+            "Info": "Proxy"
+        },  
+        {
+            "Name": "[🟣][CONTROLE]WS-16 🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "ACL / HTTP/1.1[lf]Host: [app_host[lf]Upgrade: Websocket[lf][split][lf]",
+            "SNI": "",
+            "TlsIP": "104.18.33.113",
+            "ProxyIP": "104.18.33.113",
+            "ProxyPort": "80",
+            "SlowChave": "",
+            "SlowNameServer": "",
+            "SlowDns": "",
+            "Info": "Proxy"
+        },   
+        {
+            "Name": "[🟣][CONTROLE]WS-17 🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "MERGE / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade: Websocket[crlf]Upgrade: Websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "escolas.playwaze.com",
+            "ProxyIP": "escolas.playwaze.com",
+            "ProxyPort": "80",
+            "SlowChave": "",
+            "SlowNameServer": "",
+            "SlowDns": "",
+            "Info": "Proxy"
+        },   
+        {
+            "Name": "[🟣][CONTROLE]WS-18 🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "MERGE / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade: Websocket[crlf]Upgrade: Websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "ftp.chillwaze.com",
+            "ProxyIP": "ftp.chillwaze.com",
+            "ProxyPort": "80",
+            "SlowChave": "",
+            "SlowNameServer": "",
+            "SlowDns": "",
+            "Info": "Proxy"
+        },  
+        {
+            "Name": "[🟣][CONTROLE]WS-19 🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "MERGE / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade: Websocket[crlf]Upgrade: Websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "bucs.playwaze.com",
+            "ProxyIP": "bucs.playwaze.com",
+            "ProxyPort": "80",
+            "SlowChave": "",
+            "SlowNameServer": "",
+            "SlowDns": "",
+            "Info": "Proxy"
+        },                                    
+	    { 
+		 
+            "Name": "",
+            "FLAG": "",
             "Payload": "",
             "SNI": "",
             "TlsIP": "",
@@ -725,6 +1292,17 @@
 		 
             "Name": "",
             "FLAG": "",
+            "Payload": "",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Proxy"
+        },
+         { 
+		 
+            "Name": "👇💜OPERADORA ROXA CONEXÕES [WS] EASY PRIME CONTROLE 8880 8080 80✈️🔁💜👇",
+            "FLAG": "vivo",
             "Payload": "",
             "SNI": "",
             "TlsIP": "",
@@ -746,7 +1324,7 @@
 	    {                        
             "Name": "[🟣][WS]-GSLB EASY 80🔄10X✈",
             "FLAG": "vivo",
-            "Payload": "[delay_split][split]GET / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade: websocket[crlf][crlf]",
+            "Payload": "GET / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade: websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "gslb.fr13nds.cfd",
@@ -756,7 +1334,9 @@
 	    {                        
             "Name": "[🟣][WS]-1 EASY 80🔄10X✈",
             "FLAG": "vivo",
-            "Payload": "[delay_split][split]GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Upgrade[crlf]Connection:[crlf][crlf]",
+            "Payload": "POLL /?/ HTTP/1.1
+Host:Life-kongeaaen.com.Adorable-loving-strawberry.com.Analytics-gce.cheaptickets.lu[crlf][crlf][delay_split][crlf]ACL / HTTP/1.1
+host: [app_host][crlf]Upgrade: Connection[crlf]Expect: 100-continue[lf]Upgrade: websocket[lf]User-Agent:[ua][crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "104.18.37.248",
@@ -766,7 +1346,9 @@
 	    {                        
             "Name": "[🟣][WS]-2 EASY 80🔄10X✈",
             "FLAG": "vivo",
-            "Payload": "[delay_split][split]GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Upgrade[crlf]Connection:[crlf][crlf]",
+            "Payload": "POLL /?/ HTTP/1.1
+Host:portalrecarga.vivo.com.br.recarga.portal.vivo.com.br.www.vivo.com.br.recarga.vivo.com.br[crlf][crlf][delay_split][crlf]ACL / HTTP/1.1
+host: [app_host][crlf]Upgrade: Connection[crlf]Expect: 100-continue[lf]Upgrade: websocket[lf]User-Agent:[ua][crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "172.64.150.8",
@@ -776,7 +1358,7 @@
 	    {                        
             "Name": "[🟣][WS]-3 EASY 80🔄10X✈",
             "FLAG": "vivo",
-            "Payload": "[delay_split][split]GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+            "Payload": "ACL /?/ HTTP/1.1[lf]Host:[app_host][lf]Expect: 100-continue[lf]Upgrade: websocket[lf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "104.18.7.41",
@@ -793,7 +1375,200 @@
             "ProxyPort": "80",
             "Info": "Proxy"
         },	
+        		{ 
+		 
+            "Name": "",
+            "FLAG": "",
+            "Payload": "",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Proxy"
+        },		
+	    {                        
+            "Name": "[🟣][WS]-SPOTIFY EASY🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "PATCH / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Upgrade[crlf]Connection:[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "investors.spotify.com",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },	
+		{                        
+            "Name": "[🟣][WS]-NETLFIX EASY🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "openconnect.netflix.com",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },		
+	    {                        
+            "Name": "[🟣][WS]-NETLFIX2 EASY🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "PATCH / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "updates.netflix.com",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },	
+		 {                        
+            "Name": "[🟣][WS]-GSLB EASY 8080🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "[delay_split][split]GET / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "gslb.fr13nds.cfd",
+            "ProxyPort": "8080",
+            "Info": "Proxy"
+        },
+	    {                        
+            "Name": "[🟣][WS]-1 EASY 8080🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "POLL /?/ HTTP/1.1
+Host:Life-kongeaaen.com.Adorable-loving-strawberry.com.Analytics-gce.cheaptickets.lu[crlf][crlf][delay_split][crlf]ACL / HTTP/1.1
+host: [app_host][crlf]Upgrade: Connection[crlf]Expect: 100-continue[lf]Upgrade: websocket[lf]User-Agent:[ua][crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "104.18.37.248",
+            "ProxyPort": "8080",
+            "Info": "Proxy"
+        },
+	    {                        
+            "Name": "[🟣][WS]-2 EASY 8080🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "POLL /?/ HTTP/1.1
+Host:portalrecarga.vivo.com.br.recarga.portal.vivo.com.br.www.vivo.com.br.recarga.vivo.com.br[crlf][crlf][delay_split][crlf]ACL / HTTP/1.1
+host: [app_host][crlf]Upgrade: Connection[crlf]Expect: 100-continue[lf]Upgrade: websocket[lf]User-Agent:[ua][crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "172.64.150.8",
+            "ProxyPort": "8080",
+            "Info": "Proxy"
+        },
+	    {                        
+            "Name": "[🟣][WS]-3 EASY 8080🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "ACL /?/ HTTP/1.1[lf]Host:[app_host][lf]Expect: 100-continue[lf]Upgrade: websocket[lf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "premium-vivo360.vivo.com.br",
+            "ProxyPort": "8080",
+            "Info": "Proxy"
+        },		
+	    {                        
+            "Name": "[🟣][WS]-4 EASY 8080🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "[delay_split][split]GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "104.18.7.41",
+            "ProxyPort": "8080",
+            "Info": "Proxy"
+        },	
 		{ 
+		 
+            "Name": "",
+            "FLAG": "",
+            "Payload": "",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Proxy"
+        },
+ 	    {                        
+            "Name": "[🟣][WS]-GSLB EASY 8880🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "[delay_split][split]GET / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "gslb.fr13nds.cfd",
+            "ProxyPort": "8880",
+            "Info": "Proxy"
+        },
+	    {                        
+            "Name": "[🟣][WS]-1 EASY 8880🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "POLL /?/ HTTP/1.1
+Host:Life-kongeaaen.com.Adorable-loving-strawberry.com.Analytics-gce.cheaptickets.lu[crlf][crlf][delay_split][crlf]ACL / HTTP/1.1
+host: [app_host][crlf]Upgrade: Connection[crlf]Expect: 100-continue[lf]Upgrade: websocket[lf]User-Agent:[ua][crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "104.18.37.248",
+            "ProxyPort": "8880",
+            "Info": "Proxy"
+        },
+	    {                        
+            "Name": "[🟣][WS]-2 EASY 8880🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "POLL /?/ HTTP/1.1
+Host:portalrecarga.vivo.com.br.recarga.portal.vivo.com.br.www.vivo.com.br.recarga.vivo.com.br[crlf][crlf][delay_split][crlf]ACL / HTTP/1.1
+host: [app_host][crlf]Upgrade: Connection[crlf]Expect: 100-continue[lf]Upgrade: websocket[lf]User-Agent:[ua][crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "172.64.150.8",
+            "ProxyPort": "8880",
+            "Info": "Proxy"
+        },
+	    {                        
+            "Name": "[🟣][WS]-3 EASY 8880🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "ACL /?/ HTTP/1.1[lf]Host:[app_host][lf]Expect: 100-continue[lf]Upgrade: websocket[lf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "premium-vivo360.vivo.com.br",
+            "ProxyPort": "8880",
+            "Info": "Proxy"
+        },		
+	    {                        
+            "Name": "[🟣][WS]-4 EASY 8880🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "[delay_split][split]GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "4field.vivo.com.br",
+            "ProxyPort": "8880",
+            "Info": "Proxy"
+        },	
+		{ 
+		 
+            "Name": "",
+            "FLAG": "",
+            "Payload": "",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Proxy"
+        },		
+		{ 
+		 
+            "Name": "",
+            "FLAG": "",
+            "Payload": "",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Proxy"
+        },	
+        { 
+		 
+            "Name": "👇💜OPERADORA ROXA CONEXÕES [WS] PLANO EASY ANTIGO COM PACOTES DE NETFLIX SPOTIFY✈️🔁💜👇",
+            "FLAG": "vivo",
+            "Payload": "",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Proxy"
+        },      	
+       	{ 
 		 
             "Name": "",
             "FLAG": "",
@@ -844,58 +1619,19 @@
             "ProxyIP": "",
             "ProxyPort": "",
             "Info": "Proxy"
-        },
-		 {                        
-            "Name": "[🟣][WS]-GSLB EASY 8080🔄10X✈",
+        }
+         { 
+		 
+            "Name": "👇💜OPERADORA ROXA CONEXÕES [SQUID] PLANO PRE E TURBO 8799✈️🔁💜👇",
             "FLAG": "vivo",
-            "Payload": "[delay_split][split]GET / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade: websocket[crlf][crlf]",
+            "Payload": "",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "gslb.fr13nds.cfd",
-            "ProxyPort": "8080",
+            "ProxyIP": "",
+            "ProxyPort": "",
             "Info": "Proxy"
         },
-	    {                        
-            "Name": "[🟣][WS]-1 EASY 8080🔄10X✈",
-            "FLAG": "vivo",
-            "Payload": "[delay_split][split]GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Upgrade[crlf]Connection:[crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "104.18.37.248",
-            "ProxyPort": "8080",
-            "Info": "Proxy"
-        },
-	    {                        
-            "Name": "[🟣][WS]-2 EASY 8080🔄10X✈",
-            "FLAG": "vivo",
-            "Payload": "[delay_split][split]GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Upgrade[crlf]Connection:[crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "172.64.150.8",
-            "ProxyPort": "8080",
-            "Info": "Proxy"
-        },
-	    {                        
-            "Name": "[🟣][WS]-3 EASY 8080🔄10X✈",
-            "FLAG": "vivo",
-            "Payload": "[delay_split][split]GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "premium-vivo360.vivo.com.br",
-            "ProxyPort": "8080",
-            "Info": "Proxy"
-        },		
-	    {                        
-            "Name": "[🟣][WS]-4 EASY 8080🔄10X✈",
-            "FLAG": "vivo",
-            "Payload": "[delay_split][split]GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "104.18.7.41",
-            "ProxyPort": "8080",
-            "Info": "Proxy"
-        },	
-		{ 
+	 { 
 		 
             "Name": "",
             "FLAG": "",
@@ -916,245 +1652,82 @@
             "ProxyIP": "",
             "ProxyPort": "",
             "Info": "Proxy"
-        },
- 	    {                        
-            "Name": "[🟣][WS]-GSLB EASY 8880🔄10X✈",
-            "FLAG": "vivo",
-            "Payload": "[delay_split][split]GET / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade: websocket[crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "gslb.fr13nds.cfd",
-            "ProxyPort": "8880",
-            "Info": "Proxy"
-        },
-	    {                        
-            "Name": "[🟣][WS]-1 EASY 8880🔄10X✈",
-            "FLAG": "vivo",
-            "Payload": "[delay_split][split]GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Upgrade[crlf]Connection:[crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "104.18.37.248",
-            "ProxyPort": "8880",
-            "Info": "Proxy"
-        },
-	    {                        
-            "Name": "[🟣][WS]-2 EASY 8880🔄10X✈",
-            "FLAG": "vivo",
-            "Payload": "[delay_split][split]GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Upgrade[crlf]Connection:[crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "172.64.150.8",
-            "ProxyPort": "8880",
-            "Info": "Proxy"
-        },
-	    {                        
-            "Name": "[🟣][WS]-3 EASY 8880🔄10X✈",
-            "FLAG": "vivo",
-            "Payload": "[delay_split][split]GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "premium-vivo360.vivo.com.br",
-            "ProxyPort": "8880",
-            "Info": "Proxy"
-        },		
-	    {                        
-            "Name": "[🟣][WS]-4 EASY 8880🔄10X✈",
-            "FLAG": "vivo",
-            "Payload": "[delay_split][split]GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "4field.vivo.com.br",
-            "ProxyPort": "8880",
-            "Info": "Proxy"
-        },	
-		{ 
-		 
-            "Name": "",
-            "FLAG": "",
-            "Payload": "",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "",
-            "ProxyPort": "",
-            "Info": "Proxy"
-        },		
-		{ 
-		 
-            "Name": "",
-            "FLAG": "",
-            "Payload": "",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "",
-            "ProxyPort": "",
-            "Info": "Proxy"
-        },		
-		 { 
-		 
-            "Name": "👇💜OPERADORA ROXA CONEXÕES TLS EASY PRIME CONTROLE  443 8443✈️ 🔁💜👇",
-            "FLAG": "vivo",
-            "Payload": "",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "",
-            "ProxyPort": "",
-            "Info": "Proxy"
-        },
-				{ 
-		 
-            "Name": "",
-            "FLAG": "",
-            "Payload": "",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "",
-            "ProxyPort": "",
-            "Info": "Proxy"
-        },
-		{ 
-		 
-            "Name": "",
-            "FLAG": "",
-            "Payload": "",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "",
-            "ProxyPort": "",
-            "Info": "Proxy"
-        },
-		    {
-            "Name": "[🟣][TLS]-GSLB EASY 443🔄10X✈",
-            "FLAG": "vivo",
-            "Payload": "PROPPATCH / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
-            "SNI": "[app_host]",
-            "TlsIP": "gslb.fr13nds.cfd",
-            "ProxyIP": "gslb.fr13nds.cfd",
-            "ProxyPort": "443",
-            "Info": "Tlsws"
-        },
-	    {
-            "Name": "[🟣][TLS]-1 EASY 443🔄10X✈",
-            "FLAG": "vivo",
-            "Payload": "PROPPATCH / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
-            "SNI": "[app_host]",
-            "TlsIP": "api.vivo.com.br",
-            "ProxyIP": "api.vivo.com.br",
-            "ProxyPort": "443",
-            "Info": "Tlsws"
-        },
-	    {
-            "Name": "[🟣][TLS]-2 EASY 443🔄10X✈",
-            "FLAG": "vivo",
-            "Payload": "PROPPATCH / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
-            "SNI": "[app_host]",
-            "TlsIP": "aceitedigital.vivo.com.br",
-            "ProxyIP": "aceitedigital.vivo.com.br",
-            "ProxyPort": "443",
-            "Info": "Tlsws"
-        },
-		{
-            "Name": "[🟣][TLS]-3 EASY 443🔄10X✈",
-            "FLAG": "vivo",
-            "Payload": "PROPPATCH / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
-            "SNI": "[app_host]",
-            "TlsIP": "premium-vivo360.vivo.com.br",
-            "ProxyIP": "premium-vivo360.vivo.com.br",
-            "ProxyPort": "443",
-            "Info": "Tlsws"
-        },	
-		{
-            "Name": "[🟣][TLS]-4 EASY 443🔄10X✈",
-            "FLAG": "vivo",
-            "Payload": "PROPPATCH / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
-            "SNI": "[app_host]",
-            "TlsIP": "172.64.150.8",
-            "ProxyIP": "172.64.150.8",
-            "ProxyPort": "443",
-            "Info": "Tlsws"
-        },
-	    {
-            "Name": "[🟣][TLS]-5 EASY 443🔄10X✈",
-            "FLAG": "vivo",
-            "Payload": "PROPPATCH / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
-            "SNI": "[app_host]",
-            "TlsIP": "104.18.37.248",
-            "ProxyIP": "104.18.37.248",
-            "ProxyPort": "443",
-            "Info": "Tlsws"
-        },
-		{ 
-		 
-            "Name": "",
-            "FLAG": "",
-            "Payload": "",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "",
-            "ProxyPort": "",
-            "Info": "Proxy"
-        },
+        },		 
 	    { 
 		 
-            "Name": "",
-            "FLAG": "",
-            "Payload": "",
+            "Name": "[🟣][SQUID]-1 🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "[delay_split]ACL 127.0.0.1:22 HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
             "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "",
-            "ProxyPort": "",
+            "TlsIP": "[app_host]",
+            "ProxyIP": "[app_host]",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+          },
+		  { 
+		 
+            "Name": "[🟣][SQUID]-2 🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "[delay_split]GET 127.0.0.1:8799  HTTP/1.1[lf]Host:[app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "104.26.15.206",
+            "ProxyIP": "104.26.15.206",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+          },
+		  { 
+		 
+            "Name": "[🟣][SQUID]-3 🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "[delay_split]GET 127.0.0.1:22 HTTP/1.1[lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[crlf][crlf]",
+            "SNI": "[app_host]",
+            "TlsIP": "104.16.0.0",
+            "ProxyIP": "104.16.0.0",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+          },	  
+	    	{ 
+		 
+            "Name": "[🟣][SQUID]-4 🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "[delay_split]CONNECT 127.0.0.1:8799 HTTP/1.1[crlf]Host: portalrecarga.vivo.com.br[crlf]Upgrade: Upgrade[crlf]Connection: [crlf][crlf]",
+            "SNI": "[app_host]",
+            "TlsIP": "[app_host]",
+            "ProxyIP": "[app_host]",
+            "ProxyPort": "80",
             "Info": "Proxy"
         },
-		    {
-            "Name": "[🟣][TLS]-GSLB EASY 8443🔄10X✈",
+		{                        
+            "Name": "[🟣][SQUID]-5 🔄10X✈",
             "FLAG": "vivo",
-            "Payload": "PROPPATCH / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
-            "SNI": "[app_host]",
-            "TlsIP": "gslb.fr13nds.cfd",
-            "ProxyIP": "gslb.fr13nds.cfd",
-            "ProxyPort": "8443",
-            "Info": "Tlsws"
+            "Payload": "[delay_split]CONNECT 127.0.0.1:8799 [split][lf] HTTP/1.0 [lf]Host: [lf][crlf][",
+            "SNI": "",
+            "TlsIP": "[app_host]",
+            "ProxyIP": "[app_host]",
+            "ProxyPort": "8080",
+            "Info": "Proxy"
         },
-	    {
-            "Name": "[🟣][TLS]-1 EASY 8443🔄10X✈",
+        {                        
+            "Name": "[🟣][SQUID]-6 🔄10X✈",
             "FLAG": "vivo",
-            "Payload": "PROPPATCH / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+            "Payload": "CONNECT 127.0.0.1:3128 [delay_split][crlf] HTTP/1.0[crlf]Host:www.vivo.com.br[crlf]",
             "SNI": "[app_host]",
-            "TlsIP": "104.18.37.248",
-            "ProxyIP": "104.18.37.248",
-            "ProxyPort": "8443",
-            "Info": "Tlsws"
+            "TlsIP": "[app_host]",
+            "ProxyIP": "[app_host]",
+            "ProxyPort": "8080",
+            "Info": "Proxy"
         },
-	    {
-            "Name": "[🟣][TLS]-2 EASY 8443🔄10X✈",
+     	{                        
+            "Name": "[🟣][SQUID]-7 🔄10X✈",
             "FLAG": "vivo",
-            "Payload": "PROPPATCH / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+            "Payload": "[delay_split]CONNECT 127.0.0.1:8799 http://1.1.1.1rotate=buzzfeed.com;mobile.adobe.com;1.0.0.5 HTTP/1.1[crlf]Host: http://1.1.1.1rotate=buzzfeed.com;myspace.com;mobile.google.com;1.0.0.5[crlf]",
             "SNI": "[app_host]",
-            "TlsIP": "172.64.150.8",
-            "ProxyIP": "172.64.150.8",
-            "ProxyPort": "8443",
-            "Info": "Tlsws"
+            "TlsIP": "[app_host]",
+            "ProxyIP": "[app_host]",
+            "ProxyPort": "8080",
+            "Info": "Proxy"
         },
-		{
-            "Name": "[🟣][TLS]-3 EASY 8443🔄10X✈",
-            "FLAG": "vivo",
-            "Payload": "PROPPATCH / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
-            "SNI": "[app_host]",
-            "TlsIP": "premium-vivo360.vivo.com.br",
-            "ProxyIP": "premium-vivo360.vivo.com.br",
-            "ProxyPort": "8443",
-            "Info": "Tlsws"
-        },	
-		{
-            "Name": "[🟣][TLS]-4 EASY 8443🔄10X✈",
-            "FLAG": "vivo",
-            "Payload": "PROPPATCH / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
-            "SNI": "[app_host]",
-            "TlsIP": "aceitedigital.vivo.com.br",
-            "ProxyIP": "aceitedigital.vivo.com.br",
-            "ProxyPort": "8443",
-            "Info": "Tlsws"
-        },
-		{ 
+        		{ 
 		 
             "Name": "",
             "FLAG": "",
@@ -1175,9 +1748,9 @@
             "ProxyIP": "",
             "ProxyPort": "",
             "Info": "Proxy"
-        }, 
-	    {
-            "Name": "👇🔵AZUL O PLANO ATIVO OU EXPIRADO SEM CADASTRO",
+        },		
+        {
+            "Name": "👇🔵AZUL O PLANO ATIVO [WS]",
             "FLAG": "tim",
             "Payload": "",
             "SNI": "",
@@ -1209,135 +1782,36 @@
             "Info": "Proxy"
         },
         {
-            "Name": "[🔵][TLS]-1 🔄10X✈",
+            "Name": "[🔵][WS]-NEW VALIDO] 🔄10X✈",
             "FLAG": "tim",
-            "Payload": "GET /app154 HTTP/1.1[lf]Host: [rotate=g-1040039040159.southamerica-east1.run.app;proxy-g-201863786916.southamerica-east1.run.app][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
-            "SNI": "pubsub.googleapis.com",
-            "TlsIP": "pubsub.googleapis.com",
-            "ProxyIP": "pubsub.googleapis.com",
-            "ProxyPort": "443",
-            "SlowChave": "",
-            "SlowNameServer": "",
-            "SlowDns": "",
-            "Info": "Tlsws"
-        },
-        {
-            "Name": "[🔵][TLS]-2 🔄10X✈",
-            "FLAG": "tim",
-            "Payload": "GET /app154 HTTP/1.1[lf]Host: [rotate=g-1040039040159.southamerica-east1.run.app;proxy-g-201863786916.southamerica-east1.run.app][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
-            "SNI": "s0.2mdn.net",
-            "TlsIP": "s0.2mdn.net",
-            "ProxyIP": "s0.2mdn.net",
-            "ProxyPort": "443",
-            "SlowChave": "",
-            "SlowNameServer": "",
-            "SlowDns": "",
-            "Info": "Tlsws"
-        },
-        {
-            "Name": "[🔵][TLS]-3 🔄10X✈",
-            "FLAG": "tim",
-            "Payload": "GET /app154 HTTP/1.1[lf]Host: [rotate=g-1040039040159.southamerica-east1.run.app;proxy-g-201863786916.southamerica-east1.run.app][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
-            "SNI": "pubsub.googleapis.com",
-            "TlsIP": "172.217.172.38",
-            "ProxyIP": "172.217.172.38",
-            "ProxyPort": "443",
-            "SlowChave": "",
-            "SlowNameServer": "",
-            "SlowDns": "",
-            "Info": "Tlsws"
+            "Payload": "ACL /cdn-cgi/trace HTTP/1.1[crlf]Host: bancah.com.br[crlf][crlf][split][crlf]
+GET- / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "bancah.com.br",
+            "ProxyPort": "80",
+            "Info": "Proxy"
         },
                 {
-            "Name": "[🔵][TLS]-4 🔄10X✈",
+            "Name": "[🔵][WS]-NEW2 VALIDO] 🔄10X✈",
             "FLAG": "tim",
-            "Payload": "GET /app154 HTTP/1.1[lf]Host: [rotate=g-1040039040159.southamerica-east1.run.app;proxy-g-201863786916.southamerica-east1.run.app][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
-            "SNI": "www.googletagmanager.com",
-            "TlsIP": "172.217.28.198",
-            "ProxyIP": "172.217.28.198",
-            "ProxyPort": "443",
-            "SlowChave": "",
-            "SlowNameServer": "",
-            "SlowDns": "",
-            "Info": "Tlsws"
-        },
-        {
-            "Name": "[🔵][TLS]-5 🔄10X✈",
-            "FLAG": "tim",
-            "Payload": "GET /app154 HTTP/1.1[lf]Host: [rotate=g-1040039040159.southamerica-east1.run.app;proxy-g-201863786916.southamerica-east1.run.app][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
-            "SNI": "www.googletagmanager.com",
-            "TlsIP": "172.217.29.230",
-            "ProxyIP": "172.217.29.230",
-            "ProxyPort": "443",
-            "SlowChave": "",
-            "SlowNameServer": "",
-            "SlowDns": "",
-            "Info": "Tlsws"
-        },
-        {
-            "Name": "[🔵][TLS]-6 🔄10X✈",
-            "FLAG": "tim",
-            "Payload": "GET /app154 HTTP/1.1[lf]Host: [rotate=g-1040039040159.southamerica-east1.run.app;proxy-g-201863786916.southamerica-east1.run.app][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
-            "SNI": "00px.net",
-            "TlsIP": "m.doubleclick.net",
-            "ProxyIP": "m.doubleclick.net",
-            "ProxyPort": "443",
-            "SlowChave": "",
-            "SlowNameServer": "",
-            "SlowDns": "",
-            "Info": "Tlsws"
-        },
-        { 
-		 
-            "Name": "",
-            "FLAG": "",
-            "Payload": "",
+            "Payload": "ACL /cdn-cgi/trace HTTP/1.1[crlf]Host: bancah.com.br[crlf][crlf][split][crlf]
+GET- / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "",
-            "ProxyPort": "",
+            "ProxyIP": "104.18.10.131",
+            "ProxyPort": "80",
             "Info": "Proxy"
         },
-        { 
-		 
-            "Name": "",
-            "FLAG": "",
-            "Payload": "",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "",
-            "ProxyPort": "",
-            "Info": "Proxy"
-        },
-        {
-            "Name": "👇🔵AZUL O PLANO ATIVO",
+                {
+            "Name": "[🔵][WS]-NEW3 VALIDO] 🔄10X✈",
             "FLAG": "tim",
-            "Payload": "",
-            "SNI": "",
-            "TlsIP": "[app_host]",
-            "ProxyIP": "",
-            "ProxyPort": "",
-            "Info": "Ssl"
-        },
-        { 
-		 
-            "Name": "",
-            "FLAG": "",
-            "Payload": "",
+            "Payload": "ACL /cdn-cgi/trace HTTP/1.1[crlf]Host: bancah.com.br[crlf][crlf][split][crlf]
+GET- / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "",
-            "ProxyPort": "",
-            "Info": "Proxy"
-        },   
-		{ 
-		 
-            "Name": "",
-            "FLAG": "",
-            "Payload": "",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "",
-            "ProxyPort": "",
+            "ProxyIP": "104.18.11.131",
+            "ProxyPort": "80",
             "Info": "Proxy"
         },
         {
@@ -1583,7 +2057,7 @@
             "ProxyPort": "",
             "Info": "Proxy"
         },
-				{ 
+	    { 
 		 
             "Name": "",
             "FLAG": "",
@@ -1618,7 +2092,7 @@
 	    {
             "Name": "[🔵][EXPIRADO]-1[SECURITY] 🔄10X✈",
             "FLAG": "tim",
-            "Payload": "HTTP/1.1 [lf]CONNECT HTTP/1.1[lf][lf]|[lf]#[delay_split][lf]ACL / HTTP/1.1[lf]Host: [rotate= portal.vivo.com.br;portalrecarga.vivo.com.br/recarga/home/;meuplano.tim.com.br;www.vivo.com.br;buzzfeed.com;mobile.adobe.com;1.0.0.5;1.1.1.1;buzzfeed.com;myspace.com;mobile.google.com;1.0.0.5;spotify.com;pagamentonline.emis.co.ao;playwaze.com;wazer.com;soundwaze.com;escolas.playwaze.com;www.wazeunlimited.com;bucs.playwaze.com;ftp.chillwaze.com;unpkg.com;c6bank.com.br;helpypro.stoodi.com.br;atendimento.lojadointer.com.br;creatorsupport.deezer.com:80;itsupport.surveymonkey.com;linefriendshelp.zendesk.com;vivo.interflashplusvpnpro.cloud;m2.interflashplusvpnpro.cloud][crlf][crlf][crlf]#[delay_split] [raw] [ssh]ACL#[delay_split][lf]ACL / HTTP/1.1 Websocket [lf]Host: [rotate= portal.vivo.com.br;portalrecarga.vivo.com.br/recarga/home/;meuplano.tim.com.br;www.vivo.com.br;buzzfeed.com;mobile.adobe.com;1.0.0.5;1.1.1.1;buzzfeed.com;myspace.com;mobile.google.com;1.0.0.5;spotify.com;pagamentonline.emis.co.ao;playwaze.com;wazer.com;soundwaze.com;escolas.playwaze.com;www.wazeunlimited.com;bucs.playwaze.com;ftp.chillwaze.com;unpkg.com;c6bank.com.br;helpypro.stoodi.com.br;atendimento.lojadointer.com.br;creatorsupport.deezer.com:80;itsupport.surveymonkey.com;linefriendshelp.zendesk.com;vivo.interflashplusvpnpro.cloud;m2.interflashplusvpnpro.cloud][crlf][crlf][crlf]#HTTP/1.1 [lf]CONNECT HTTP/1.1[lf][lf]|[lf]#ACL / HTTP/1.1[lf]Host: [host][lf]Upgrade: Websocket[lf]User-Agent: Mobile Safari/9 OPR/9 [lf][split][lf]",
+            "Payload": "HTTP/1.1 [lf]CONNECT HTTP/1.1[lf][lf]|[lf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "[app_host]",
@@ -1628,7 +2102,7 @@
 	    {
             "Name": "[🔵][EXPIRADO]-2[SECURITY] 🔄10X✈",
             "FLAG": "tim",
-            "Payload": "PATCH / HTTP/1.1[crlf]Host: @ssh_t_project[crlf]Upgrade: websocket[crlf][crlf]#HTTP/ 1[lf]Host: portalrecarga.vivo.com.br;Tim.com.br;xvideos.com;blaze-1.com;sshtproject.com-CDN-GEThttp://ACL-CDN-VIVO.COM.BR;GOOGLE.COM\\\\n\\\\n\\\\n \\\\n#ACL HTTP/1.1[lf]Host: google.es[lf]#PUT / Cache-Control: private: Web-security[crlf]#ACL buzzfeed.com HTTP/1.1[lf]Host:buzzfeed.com[lf]#ACL / HTTP/1.1[crlf][crlf]#PROPPATCH global-4-lvs-colossus-10.opera-mini.net HTTP/1.0[crlf]Host: global-4-lvs-colossus-10.opera-mini.net[crlf]#HTTP/ 2[lf]Host: vivo.com#HTTP/1.1 200[crlf]Host: vimeo.com[crlf][crlf][netData][crlf]@mip [crlf][crlf]http://uber.com/ HTTP/1.1 200[crlf]mip[crlf][crlf] [crlf][crlf]http://udemy.com/ HTTP/1.1 200[crlf]Host@mip[crlf][crlf] [crlf][crlf] http://aliyuncs.com/ HTTP/1.1 200[crlf]Host fastly.net/[crlf][crlf][netData][crlf] [crlf][crlf] http://pornhub.com/ HTTP/1.1[crlf] [crlf][crlf][netData][crlf] [crlf][crlf] http://google.com/ HTTP/1.1[cr][lf] [crlf][crlf][netData][cr][lf] [crlf][crlf]CONNECT mip:22@http://youtube.com/ HTTP/1.1[crlf] [crlf][crlf][netData][crlf] [crlf][crlf]",
+            "Payload": "HTTP/ 1[lf]Host: portalrecarga.vivo.com.br;Tim.com.br;xvideos.com;blaze-1.com;sshtproject.com-CDN-GEThttp://ACL-CDN-VIVO.COM.BR;GOOGLE.COM\\\\n\\\\n\\\\n \\\\n#ACL HTTP/1.1[lf]Host: google.es[lf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "[app_host]",
@@ -1749,7 +2223,7 @@
         },				
         { 
 		 
-            "Name": "👇❤️OPERADORA VERMELHA CONEXÕES TLS USE COM  PLANOS ATIVO SEM FRANQUIA✈️ 🔁❤️👇",
+            "Name": "👇❤️OPERADORA VERMELHA USE [SSL] COM PLANOS ATIVO SEM FRANQUIA✈️ 🔁❤️👇",
             "FLAG": "claro",
             "Payload": "",
             "SNI": "",
@@ -1769,88 +2243,7 @@
             "ProxyPort": "",
             "Info": "Proxy"
         },
-                { 
-		 
-            "Name": "",
-            "FLAG": "",
-            "Payload": "",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "",
-            "ProxyPort": "",
-            "Info": "Proxy"
-        },
-        {
-            "Name": "[🔴][TLS]-1 🔄10X✈",
-            "FLAG": "claro",
-            "Payload": "GET /app154 HTTP/1.1[lf]Host: [rotate=g-1040039040159.southamerica-east1.run.app;proxy-g-201863786916.southamerica-east1.run.app][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
-            "SNI": "www.googletagmanager.com",
-            "TlsIP": "www.googletagmanager.com",
-            "ProxyIP": "www.googletagmanager.com",
-            "ProxyPort": "443",
-            "SlowChave": "",
-            "SlowNameServer": "",
-            "SlowDns": "",
-            "Info": "Tlsws"
-        },
-        {
-            "Name": "[🔴][TLS]-2 🔄10X✈",
-            "FLAG": "claro",
-            "Payload": "GET /app154 HTTP/1.1[lf]Host: [rotate=g-1040039040159.southamerica-east1.run.app;proxy-g-201863786916.southamerica-east1.run.app][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
-            "SNI": "www-claro-com-br.cdn.ampproject.org",
-            "TlsIP": "www-claro-com-br.cdn.ampproject.org",
-            "ProxyIP": "www.googletagmanager.com",
-            "ProxyPort": "443",
-            "SlowChave": "",
-            "SlowNameServer": "",
-            "SlowDns": "",
-            "Info": "Tlsws"
-        },
         { 
-		 
-            "Name": "",
-            "FLAG": "",
-            "Payload": "",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "",
-            "ProxyPort": "",
-            "Info": "Proxy"
-        },
-        { 
-		 
-            "Name": "",
-            "FLAG": "",
-            "Payload": "",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "",
-            "ProxyPort": "",
-            "Info": "Proxy"
-        },
-        { 
-		 
-            "Name": "👇❤️OPERADORA VERMELHA CONEXÕES SNI USE COM  PLANOS ATIVO SEM FRANQUIA✈️ 🔁❤️👇",
-            "FLAG": "claro",
-            "Payload": "",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "",
-            "ProxyPort": "",
-            "Info": "Proxy"
-        },
-        { 
-		 
-            "Name": "",
-            "FLAG": "",
-            "Payload": "",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "",
-            "ProxyPort": "",
-            "Info": "Proxy"
-        },
-                { 
 		 
             "Name": "",
             "FLAG": "",
@@ -1951,30 +2344,8 @@
             "ProxyPort": "443",
             "Info": "Ssl"
         },
-	    { 
-		 
-            "Name": "",
-            "FLAG": "",
-            "Payload": "",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "",
-            "ProxyPort": "",
-            "Info": "Proxy"
-        },
-		{ 
-		 
-            "Name": "",
-            "FLAG": "",
-            "Payload": "",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "",
-            "ProxyPort": "",
-            "Info": "Proxy"
-        },	
 		 { 
-		 
+	 
             "Name": "",
             "FLAG": "",
             "Payload": "",
