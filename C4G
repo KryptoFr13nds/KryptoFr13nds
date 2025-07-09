@@ -1,6 +1,6 @@
 {
-    "Version": "29",
-    "ReleaseNotes": "👋 ATUALIZAÇÃO DISPONÍVEL UP29! INTERNET ILIMITADA APARTIR DE R$15,00🚀GERE SEU TESTE telegram | Dono @Kryptorvps 🚀CLIQUE EM ATUALIZAR 🚀",
+    "Version": "30",
+    "ReleaseNotes": "👋 ATUALIZAÇÃO DISPONÍVEL UP30! INTERNET ILIMITADA APARTIR DE R$15,00🚀GERE SEU TESTE telegram | Dono @Kryptorvps 🚀CLIQUE EM ATUALIZAR 🚀",
     "UrlUpdate": "https://raw.githubusercontent.com/KryptoFr13nds/KryptoFr13nds/refs/heads/main/C4G",
     "Sms": "",
     "EmailFeedback": "https://downdetector.com.br/",
@@ -71,7 +71,7 @@
             "USER": "",
             "PASS": ""
          },
-         	{
+         {
             "Name": "",
             "TYPE": "premium",
             "FLAG": "br.png",
@@ -319,7 +319,7 @@
             "Info": "Tlsws"
         },
         {
-            "Name": "[🟣][TLS]-6 🔄10X✈",
+            "Name": "[🟣][TLS]-6 443🔄10X✈",
             "FLAG": "vivo",
             "Payload": "ACL /?/ HTTP/1.1[lf]Host:[app_host][lf]Expect: 100-continue[lf]Upgrade: websocket[lf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
             "SNI": "[app_host]",
@@ -1373,7 +1373,7 @@ host: [app_host][crlf]Upgrade: Connection[crlf]Expect: 100-continue[lf]Upgrade: 
             "ProxyPort": "80",
             "Info": "Proxy"
         },	
-        		{ 
+        { 
 		 
             "Name": "",
             "FLAG": "",
@@ -1383,38 +1383,8 @@ host: [app_host][crlf]Upgrade: Connection[crlf]Expect: 100-continue[lf]Upgrade: 
             "ProxyIP": "",
             "ProxyPort": "",
             "Info": "Proxy"
-        },		
+        },
 	    {                        
-            "Name": "[🟣][WS]-SPOTIFY EASY🔄10X✈",
-            "FLAG": "vivo",
-            "Payload": "PATCH / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Upgrade[crlf]Connection:[crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "investors.spotify.com",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },	
-		{                        
-            "Name": "[🟣][WS]-NETLFIX EASY🔄10X✈",
-            "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "openconnect.netflix.com",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },		
-	    {                        
-            "Name": "[🟣][WS]-NETLFIX2 EASY🔄10X✈",
-            "FLAG": "vivo",
-            "Payload": "PATCH / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "updates.netflix.com",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },	
-		 {                        
             "Name": "[🟣][WS]-GSLB EASY 8080🔄10X✈",
             "FLAG": "vivo",
             "Payload": "[delay_split][split]GET / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade: websocket[crlf][crlf]",
