@@ -500,7 +500,7 @@
             "ProxyPort": "",
             "Info": "Proxy"
         },		
-                {
+        {
             "Name": "👇🟣ROXA CONEXAO [SECURITY-[WS] O PLANO TURBO OU PREPAGO COM LOGIN NA REDE",
             "FLAG": "vivo",
             "Payload": "",
@@ -807,7 +807,7 @@ recarga.portal.vivo.com.br:/[crlf]Content-Length: 999999999\r\n\r\n",
             "ProxyPort": "8080",
             "Info": "Proxy"
         },
-                {                        
+        {                        
             "Name": "[🟣][PRE]WS-24  🔄10X✈",
             "FLAG": "vivo",
             "Payload": "PATCH / HTTP/1.1[crlf]Host: uss-2.optnl.com[crlf]Upgrade: Websocket[split][crlf][crlf]",
@@ -882,7 +882,7 @@ recarga.portal.vivo.com.br:/[crlf]Content-Length: 999999999\r\n\r\n",
             "SlowDns": "",
             "Info": ""
         },
-                {
+        {
             "Name": "[🟣][PRE]WS-1 SEM LOGIN 🔄10X✈",
             "FLAG": "vivo",
             "Payload": "POLL /?/ HTTP/1.1
@@ -966,7 +966,7 @@ Host:portalrecarga.vivo.com.br.recarga.portal.vivo.com.br.recarga.vivo.com.br[cr
             "SlowDns": "",
             "Info": "Proxy"
         },   
-                {
+        {
             "Name": "[🟣][PRE]WS-6 SEM LOGIN 🔄10X✈",
             "FLAG": "vivo",
             "Payload": "POLL /?/ HTTP/1.1
@@ -1012,10 +1012,8 @@ Host:portalrecarga.vivo.com.br.recarga.portal.vivo.com.br.recarga.vivo.com.br[cr
             "ProxyIP": "",
             "ProxyPort": "",
             "Info": "Proxy"
-        },
-        
-        
-				{ 
+        },        
+		{ 
 		 
             "Name": "",
             "FLAG": "",
@@ -1107,7 +1105,7 @@ Host:portalrecarga.vivo.com.br.recarga.portal.vivo.com.br.recarga.vivo.com.br[cr
         {
             "Name": "[🟣][CONTROLE]WS-7 🔄10X✈",
             "FLAG": "vivo",
-            "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: [app_host][crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
+            "Payload": "GET / HTTP/1.1[crlf]Host:[app_host][crlf]Connection:Upgrade[crlf]User-Agent:[ua][crlf]Upgrade: websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "104.17.70.206",
@@ -1186,7 +1184,7 @@ host: [app_host][crlf]Upgrade: Connection[crlf]Expect: 100-continue[lf]Upgrade: 
             "SlowDns": "",
             "Info": "Proxy"
         },  
-                 {
+        {
             "Name": "[🟣][CONTROLE]WS-13 🔄10X✈",
             "FLAG": "vivo",
             "Payload": "GET / HTTP/1.1[lf]Host: vigia.vivo.com.br[lf]Expect: 100-continue\n\n[split][lf][lf]ACL /?/ HTTP/1.1[lf]Host:[app_host][lf]Expect: 100-continue[lf]Upgrade: websocket[lf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
@@ -1619,7 +1617,7 @@ host: [app_host][crlf]Upgrade: Connection[crlf]Expect: 100-continue[lf]Upgrade: 
             "ProxyIP": "",
             "ProxyPort": "",
             "Info": "Proxy"
-        }
+        },
          { 
 		 
             "Name": "👇💜OPERADORA ROXA CONEXÕES [SQUID] PLANO PRE E TURBO 8799✈️🔁💜👇",
@@ -1631,7 +1629,7 @@ host: [app_host][crlf]Upgrade: Connection[crlf]Expect: 100-continue[lf]Upgrade: 
             "ProxyPort": "",
             "Info": "Proxy"
         },
-	 { 
+     	 { 
 		 
             "Name": "",
             "FLAG": "",
@@ -1727,7 +1725,7 @@ host: [app_host][crlf]Upgrade: Connection[crlf]Expect: 100-continue[lf]Upgrade: 
             "ProxyPort": "8080",
             "Info": "Proxy"
         },
-        		{ 
+        { 
 		 
             "Name": "",
             "FLAG": "",
@@ -1792,7 +1790,7 @@ GET- / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf][crlf]",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
-                {
+        {
             "Name": "[🔵][WS]-NEW2 VALIDO] 🔄10X✈",
             "FLAG": "tim",
             "Payload": "ACL /cdn-cgi/trace HTTP/1.1[crlf]Host: bancah.com.br[crlf][crlf][split][crlf]
@@ -1803,7 +1801,7 @@ GET- / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf][crlf]",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
-                {
+        {
             "Name": "[🔵][WS]-NEW3 VALIDO] 🔄10X✈",
             "FLAG": "tim",
             "Payload": "ACL /cdn-cgi/trace HTTP/1.1[crlf]Host: bancah.com.br[crlf][crlf][split][crlf]
