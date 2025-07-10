@@ -1,6 +1,6 @@
 {
-    "Version": "34",
-    "ReleaseNotes": "👋 ATUALIZAÇÃO DISPONÍVEL UP34! INTERNET ILIMITADA APARTIR DE R$15,00🚀GERE SEU TESTE telegram | Dono @Kryptorvps 🚀CLIQUE EM ATUALIZAR 🚀",
+    "Version": "35",
+    "ReleaseNotes": "👋 ATUALIZAÇÃO DISPONÍVEL UP35! INTERNET ILIMITADA APARTIR DE R$15,00🚀GERE SEU TESTE telegram | Dono @Kryptorvps 🚀CLIQUE EM ATUALIZAR 🚀",
     "UrlUpdate": "https://raw.githubusercontent.com/KryptoFr13nds/KryptoFr13nds/refs/heads/main/C4G",
     "Sms": "",
     "EmailFeedback": "https://downdetector.com.br/",
@@ -258,8 +258,8 @@
             "FLAG": "vivo",
             "Payload": "ACL / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "[app_host]",
-            "TlsIP": "gslb.kryptor.cfd",
-            "ProxyIP": "",
+            "TlsIP": "gslb.fr13nds.cfd",
+            "ProxyIP": "gslb.fr13nds.cfd",
             "ProxyPort": "443",
             "SlowChave": "",
             "SlowNameServer": "",
@@ -298,7 +298,7 @@
             "Payload": "ACL / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "[app_host]",
             "TlsIP": "172.64.150.8",
-            "ProxyIP": "172.64.150.8",
+            "ProxyIP": "",
             "ProxyPort": "443",
             "SlowChave": "",
             "SlowNameServer": "",
@@ -311,7 +311,7 @@
             "Payload": "ACL / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "[app_host]",
             "TlsIP": "104.18.7.41",
-            "ProxyIP": "104.18.7.41",
+            "ProxyIP": "",
             "ProxyPort": "443",
             "SlowChave": "",
             "SlowNameServer": "",
@@ -324,7 +324,7 @@
             "Payload": "ACL / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "[app_host]",
             "TlsIP": "104.18.6.41",
-            "ProxyIP": "104.18.6.41",
+            "ProxyIP": "",
             "ProxyPort": "443",
             "SlowChave": "",
             "SlowNameServer": "",
@@ -392,8 +392,8 @@
             "FLAG": "vivo",
             "Payload": "ACL / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "[app_host]",
-            "TlsIP": "gslb.kryptor.cfd",
-            "ProxyIP": "",
+            "TlsIP": "gslb.fr13nds.cfd",
+            "ProxyIP": "gslb.fr13nds.cfd",
             "ProxyPort": "8443",
             "SlowChave": "",
             "SlowNameServer": "",
@@ -432,7 +432,7 @@
             "Payload": "ACL / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "[app_host]",
             "TlsIP": "172.64.150.8",
-            "ProxyIP": "172.64.150.8",
+            "ProxyIP": "",
             "ProxyPort": "8443",
             "SlowChave": "",
             "SlowNameServer": "",
@@ -445,7 +445,7 @@
             "Payload": "ACL / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "[app_host]",
             "TlsIP": "104.18.7.41",
-            "ProxyIP": "104.18.7.41",
+            "ProxyIP": "",
             "ProxyPort": "8443",
             "SlowChave": "",
             "SlowNameServer": "",
@@ -458,7 +458,7 @@
             "Payload": "ACL / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "[app_host]",
             "TlsIP": "104.18.6.41",
-            "ProxyIP": "104.18.6.41",
+            "ProxyIP": "",
             "ProxyPort": "8443",
             "SlowChave": "",
             "SlowNameServer": "",
@@ -471,7 +471,7 @@
             "Payload": "ACL / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "[app_host]",
             "TlsIP": "104.17.70.206",
-            "ProxyIP": "104.17.70.206",
+            "ProxyIP": "",
             "ProxyPort": "8443",
             "SlowChave": "",
             "SlowNameServer": "",
@@ -856,7 +856,7 @@ GET- / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf][crlf]",
             "Info": ""
         },
         {
-            "Name": "[🟣][PRE]WS-1 SEM LOGIN 🔄10X✈",
+            "Name": "[🟣][PRE]WS SEM LOGIN 🔄10X✈",
             "FLAG": "vivo",
             "Payload": "PATCH / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade: Websocket[split][crlf][crlf]",
             "SNI": "",
@@ -866,14 +866,14 @@ GET- / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf][crlf]",
             "SlowChave": "",
             "SlowNameServer": "",
             "SlowDns": "",
-            "Info": "Proxy"
+            "Info": "Direct"
         },   
         {
             "Name": "[🟣][PRE]WS-1 SEM LOGIN 🔄10X✈",
             "FLAG": "vivo",
             "Payload": "PATCH / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade: Websocket[split][crlf][crlf]",
             "SNI": "",
-            "TlsIP": "",
+            "TlsIP": "103.21.244.6",
             "ProxyIP": "103.21.244.6",
             "ProxyPort": "80",
             "SlowChave": "",
@@ -886,7 +886,7 @@ GET- / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf][crlf]",
             "FLAG": "vivo",
             "Payload": "PATCH / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade: Websocket[split][crlf][crlf]",
             "SNI": "",
-            "TlsIP": "",
+            "TlsIP": "172.67.165.43",
             "ProxyIP": "172.67.165.43",
             "ProxyPort": "80",
             "SlowChave": "",
@@ -899,7 +899,7 @@ GET- / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf][crlf]",
             "FLAG": "vivo",
             "Payload": "PATCH / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade: Websocket[split][crlf][crlf]",
             "SNI": "",
-            "TlsIP": "",
+            "TlsIP": "104.16.53.91",
             "ProxyIP": "104.16.53.91",
             "ProxyPort": "80",
             "SlowChave": "",
@@ -913,7 +913,7 @@ GET- / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf][crlf]",
             "Payload": "POLL /?/ HTTP/1.1
 Host:portalrecarga.vivo.com.br.recarga.portal.vivo.com.br.recarga.vivo.com.br[crlf][crlf][split_delay][crlf]ACL / HTTP/1.1[crlf]Host:[app_host][crlf]upgrade: websocket[crlf][crlf]",
             "SNI": "",
-            "TlsIP": "",
+            "TlsIP": "172.67.74.152",
             "ProxyIP": "172.67.74.152",
             "ProxyPort": "80",
             "SlowChave": "",
@@ -926,7 +926,7 @@ Host:portalrecarga.vivo.com.br.recarga.portal.vivo.com.br.recarga.vivo.com.br[cr
             "FLAG": "vivo",
             "Payload": "PATCH / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade: Websocket[split][crlf][crlf]",
             "SNI": "",
-            "TlsIP": "",
+            "TlsIP": "172.64.149.203",
             "ProxyIP": "172.64.149.203",
             "ProxyPort": "80",
             "SlowChave": "",
@@ -939,7 +939,7 @@ Host:portalrecarga.vivo.com.br.recarga.portal.vivo.com.br.recarga.vivo.com.br[cr
             "FLAG": "vivo",
             "Payload": "PATCH / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade: Websocket[split][crlf][crlf]",
             "SNI": "",
-            "TlsIP": "",
+            "TlsIP": "104.18.38.53",
             "ProxyIP": "104.18.38.53",
             "ProxyPort": "80",
             "SlowChave": "",
@@ -996,7 +996,7 @@ Host:portalrecarga.vivo.com.br.recarga.portal.vivo.com.br.recarga.vivo.com.br[cr
             "FLAG": "vivo",
             "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: [app_host][crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
             "SNI": "",
-            "TlsIP": "",
+            "TlsIP": "141.193.213.10",
             "ProxyIP": "141.193.213.10",
             "ProxyPort": "80",
             "SlowChave": "",
@@ -1009,7 +1009,7 @@ Host:portalrecarga.vivo.com.br.recarga.portal.vivo.com.br.recarga.vivo.com.br[cr
             "FLAG": "vivo",
             "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: [app_host][crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
             "SNI": "",
-            "TlsIP": "",
+            "TlsIP": "141.193.213.11",
             "ProxyIP": "141.193.213.11",
             "ProxyPort": "80",
             "SlowChave": "",
@@ -1022,7 +1022,7 @@ Host:portalrecarga.vivo.com.br.recarga.portal.vivo.com.br.recarga.vivo.com.br[cr
             "FLAG": "vivo",
             "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: [app_host][crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
             "SNI": "",
-            "TlsIP": "",
+            "TlsIP": "104.18.18.210",
             "ProxyIP": "104.18.18.210",
             "ProxyPort": "80",
             "SlowChave": "",
@@ -1035,7 +1035,7 @@ Host:portalrecarga.vivo.com.br.recarga.portal.vivo.com.br.recarga.vivo.com.br[cr
             "FLAG": "vivo",
             "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: [app_host][crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
             "SNI": "",
-            "TlsIP": "",
+            "TlsIP": "104.18.19.210",
             "ProxyIP": "104.18.19.210",
             "ProxyPort": "80",
             "SlowChave": "",
@@ -1048,7 +1048,7 @@ Host:portalrecarga.vivo.com.br.recarga.portal.vivo.com.br.recarga.vivo.com.br[cr
             "FLAG": "vivo",
             "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: [app_host][crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
             "SNI": "",
-            "TlsIP": "",
+            "TlsIP": "104.18.22.136",
             "ProxyIP": "104.18.22.136",
             "ProxyPort": "80",
             "SlowChave": "",
@@ -1061,7 +1061,7 @@ Host:portalrecarga.vivo.com.br.recarga.portal.vivo.com.br.recarga.vivo.com.br[cr
             "FLAG": "vivo",
             "Payload": "POST /connect/domainreliability/upload HTTP/1.1 [lf]Host: [app_host][crlf]Upgrade: Websocket;Access-Control-Request-Method: POST;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]",
             "SNI": "",
-            "TlsIP": "",
+            "TlsIP": "104.18.23.136",
             "ProxyIP": "104.18.23.136",
             "ProxyPort": "80",
             "SlowChave": "",
@@ -1080,7 +1080,7 @@ Host:portalrecarga.vivo.com.br.recarga.portal.vivo.com.br.recarga.vivo.com.br[cr
             "SlowChave": "",
             "SlowNameServer": "",
             "SlowDns": "",
-            "Info": "Proxy"
+            "Info": "Direct"
         },   
         {
             "Name": "[🟣][CONTROLE]WS-8 🔄10X✈",
@@ -1093,7 +1093,7 @@ Host:portalrecarga.vivo.com.br.recarga.portal.vivo.com.br.recarga.vivo.com.br[cr
             "SlowChave": "",
             "SlowNameServer": "",
             "SlowDns": "",
-            "Info": "Proxy"
+            "Info": "Direct"
         },   
         {
             "Name": "[🟣][CONTROLE]WS-9 🔄10X✈",
@@ -1106,7 +1106,7 @@ Host:portalrecarga.vivo.com.br.recarga.portal.vivo.com.br.recarga.vivo.com.br[cr
             "SlowChave": "",
             "SlowNameServer": "",
             "SlowDns": "",
-            "Info": "Proxy"
+            "Info": "Direct"
         },   
                 {
             "Name": "[🟣][CONTROLE]WS-10 🔄10X✈",
@@ -1119,7 +1119,7 @@ Host:portalrecarga.vivo.com.br.recarga.portal.vivo.com.br.recarga.vivo.com.br[cr
             "SlowChave": "",
             "SlowNameServer": "",
             "SlowDns": "",
-            "Info": "Proxy"
+            "Info": "Direct"
         },   
         {
             "Name": "[🟣][CONTROLE]WS-11 🔄10X✈",
@@ -1132,7 +1132,7 @@ Host:portalrecarga.vivo.com.br.recarga.portal.vivo.com.br.recarga.vivo.com.br[cr
             "SlowChave": "",
             "SlowNameServer": "",
             "SlowDns": "",
-            "Info": "Proxy"
+            "Info": "Direct"
         },   
          {
             "Name": "[🟣][CONTROLE]WS-12 🔄10X✈",
@@ -1287,7 +1287,7 @@ Host:portalrecarga.vivo.com.br.recarga.portal.vivo.com.br.recarga.vivo.com.br[cr
             "FLAG": "vivo",
             "Payload": "GET / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade: websocket[crlf][crlf]",
             "SNI": "",
-            "TlsIP": "",
+            "TlsIP": "gslb.fr13nds.cfd",
             "ProxyIP": "gslb.fr13nds.cfd",
             "ProxyPort": "80",
             "Info": "Proxy"
@@ -1300,7 +1300,7 @@ Host:portalrecarga.vivo.com.br.recarga.portal.vivo.com.br.recarga.vivo.com.br[cr
             "TlsIP": "",
             "ProxyIP": "104.18.37.248",
             "ProxyPort": "80",
-            "Info": "Proxy"
+            "Info": "Direct"
         },
 	    {                        
             "Name": "[🟣][WS]-2 EASY 80🔄10X✈",
@@ -1310,14 +1310,14 @@ Host:portalrecarga.vivo.com.br.recarga.portal.vivo.com.br.recarga.vivo.com.br[cr
             "TlsIP": "",
             "ProxyIP": "172.64.150.8",
             "ProxyPort": "80",
-            "Info": "Proxy"
+            "Info": "Direct"
         },
 	    {                        
             "Name": "[🟣][WS]-3 EASY 80🔄10X✈",
             "FLAG": "vivo",
             "Payload": "ACL / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
-            "TlsIP": "",
+            "TlsIP": "vigia.vivo.com.br",
             "ProxyIP": "vigia.vivo.com.br",
             "ProxyPort": "80",
             "Info": "Proxy"
@@ -1325,9 +1325,9 @@ Host:portalrecarga.vivo.com.br.recarga.portal.vivo.com.br.recarga.vivo.com.br[cr
 	    {                        
             "Name": "[🟣][WS]-4 EASY 80🔄10X✈",
             "FLAG": "vivo",
-            "Payload": "[delay_split][split]GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+            "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
             "SNI": "",
-            "TlsIP": "",
+            "TlsIP": "vivo360.vivo.com.br",
             "ProxyIP": "vivo360.vivo.com.br",
             "ProxyPort": "80",
             "Info": "Proxy"
@@ -1348,7 +1348,7 @@ Host:portalrecarga.vivo.com.br.recarga.portal.vivo.com.br.recarga.vivo.com.br[cr
             "FLAG": "vivo",
             "Payload": "GET / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade: websocket[crlf][crlf]",
             "SNI": "",
-            "TlsIP": "",
+            "TlsIP": "gslb.fr13nds.cfd",
             "ProxyIP": "gslb.fr13nds.cfd",
             "ProxyPort": "8080",
             "Info": "Proxy"
@@ -1361,7 +1361,7 @@ Host:portalrecarga.vivo.com.br.recarga.portal.vivo.com.br.recarga.vivo.com.br[cr
             "TlsIP": "",
             "ProxyIP": "104.18.37.248",
             "ProxyPort": "8080",
-            "Info": "Proxy"
+            "Info": "Direct"
         },
 	    {                        
             "Name": "[🟣][WS]-2 EASY 8080🔄10X✈",
@@ -1371,14 +1371,14 @@ Host:portalrecarga.vivo.com.br.recarga.portal.vivo.com.br.recarga.vivo.com.br[cr
             "TlsIP": "",
             "ProxyIP": "172.64.150.8",
             "ProxyPort": "8080",
-            "Info": "Proxy"
+            "Info": "Direct"
         },
 	    {                        
             "Name": "[🟣][WS]-3 EASY 8080🔄10X✈",
             "FLAG": "vivo",
             "Payload": "GET / HTTP/1.1[crlf]Host:[app_host][crlf]Connection:Upgrade[crlf]User-Agent:[ua][crlf]Upgrade: websocket[crlf][crlf]",
             "SNI": "",
-            "TlsIP": "",
+            "TlsIP": "premium-vivo360.vivo.com.br",
             "ProxyIP": "premium-vivo360.vivo.com.br",
             "ProxyPort": "8080",
             "Info": "Proxy"
@@ -1386,12 +1386,12 @@ Host:portalrecarga.vivo.com.br.recarga.portal.vivo.com.br.recarga.vivo.com.br[cr
 	    {                        
             "Name": "[🟣][WS]-4 EASY 8080🔄10X✈",
             "FLAG": "vivo",
-            "Payload": "[delay_split][split]GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+            "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "104.18.7.41",
             "ProxyPort": "8080",
-            "Info": "Proxy"
+            "Info": "Direct"
         },	
 		{ 
 		 
@@ -1409,7 +1409,7 @@ Host:portalrecarga.vivo.com.br.recarga.portal.vivo.com.br.recarga.vivo.com.br[cr
             "FLAG": "vivo",
             "Payload": "[delay_split][split]GET / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade: websocket[crlf][crlf]",
             "SNI": "",
-            "TlsIP": "",
+            "TlsIP": "gslb.fr13nds.cfd",
             "ProxyIP": "gslb.fr13nds.cfd",
             "ProxyPort": "8880",
             "Info": "Proxy"
@@ -1422,7 +1422,7 @@ Host:portalrecarga.vivo.com.br.recarga.portal.vivo.com.br.recarga.vivo.com.br[cr
             "TlsIP": "",
             "ProxyIP": "104.18.37.248",
             "ProxyPort": "8880",
-            "Info": "Proxy"
+            "Info": "Direct"
         },
 	    {                        
             "Name": "[🟣][WS]-2 EASY 8880🔄10X✈",
@@ -1432,14 +1432,14 @@ Host:portalrecarga.vivo.com.br.recarga.portal.vivo.com.br.recarga.vivo.com.br[cr
             "TlsIP": "",
             "ProxyIP": "172.64.150.8",
             "ProxyPort": "8880",
-            "Info": "Proxy"
+            "Info": "Direct"
         },
 	    {                        
             "Name": "[🟣][WS]-3 EASY 8880🔄10X✈",
             "FLAG": "vivo",
             "Payload": "ACL / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
-            "TlsIP": "",
+            "TlsIP": "premium-vivo360.vivo.com.br",
             "ProxyIP": "premium-vivo360.vivo.com.br",
             "ProxyPort": "8880",
             "Info": "Proxy"
@@ -1449,7 +1449,7 @@ Host:portalrecarga.vivo.com.br.recarga.portal.vivo.com.br.recarga.vivo.com.br[cr
             "FLAG": "vivo",
             "Payload": "ACL / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
-            "TlsIP": "",
+            "TlsIP": "4field.vivo.com.br",
             "ProxyIP": "4field.vivo.com.br",
             "ProxyPort": "8880",
             "Info": "Proxy"
