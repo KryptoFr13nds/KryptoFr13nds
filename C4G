@@ -1,6 +1,6 @@
 {
-    "Version": "33",
-    "ReleaseNotes": "👋 ATUALIZAÇÃO DISPONÍVEL UP33! INTERNET ILIMITADA APARTIR DE R$15,00🚀GERE SEU TESTE telegram | Dono @Kryptorvps 🚀CLIQUE EM ATUALIZAR 🚀",
+    "Version": "34",
+    "ReleaseNotes": "👋 ATUALIZAÇÃO DISPONÍVEL UP34! INTERNET ILIMITADA APARTIR DE R$15,00🚀GERE SEU TESTE telegram | Dono @Kryptorvps 🚀CLIQUE EM ATUALIZAR 🚀",
     "UrlUpdate": "https://raw.githubusercontent.com/KryptoFr13nds/KryptoFr13nds/refs/heads/main/C4G",
     "Sms": "",
     "EmailFeedback": "https://downdetector.com.br/",
@@ -256,10 +256,10 @@
         {
             "Name": "[🟣][TLS]-1 443🔄10X✈",
             "FLAG": "vivo",
-            "Payload": "PATCH / HTTP/1.1 [crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+            "Payload": "ACL / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "[app_host]",
             "TlsIP": "gslb.kryptor.cfd",
-            "ProxyIP": "gslb.kryptor.cfd",
+            "ProxyIP": "",
             "ProxyPort": "443",
             "SlowChave": "",
             "SlowNameServer": "",
@@ -390,10 +390,10 @@
         {
             "Name": "[🟣][TLS]-1 8443🔄10X✈",
             "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1 [crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+            "Payload": "ACL / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "[app_host]",
             "TlsIP": "gslb.kryptor.cfd",
-            "ProxyIP": "gslb.kryptor.cfd",
+            "ProxyIP": "",
             "ProxyPort": "8443",
             "SlowChave": "",
             "SlowNameServer": "",
@@ -547,9 +547,7 @@
 		 
             "Name": "[🟣][PRE]WS-2  🔄10X✈",
             "FLAG": "vivo",
-            "Payload": "[split]BDELETE / [host_port]HTTP/1.1[crlf]Host: minhaclaro.cotclaro.com.br[lf]Host: minhaclaro.cotclaro.com.br[lf]Connection: Upgrade[method][lf]Service: Multi-http[lf]ModeX: Bypass[lf] Enhanced: Upgrade[lf] Proxi: minhaclaro.cotclaro.com.br[lf]Connection: Upgrade[lf]Upgrade: websocket[lf] [host]@[host][lf][lf]
-
-",
+            "Payload": "[split]BDELETE / [host_port]HTTP/1.1[crlf]Host: minhaclaro.cotclaro.com.br[lf]Host: minhaclaro.cotclaro.com.br[lf]Connection: Upgrade[method][lf]Service: Multi-http[lf]ModeX: Bypass[lf] Enhanced: Upgrade[lf] Proxi: minhaclaro.cotclaro.com.br[lf]Connection: Upgrade[lf]Upgrade: websocket[lf] [host]@[host][lf][lf]",
             "SNI": "[app_host]",
             "TlsIP": "[app_host]",
             "ProxyIP": "[app_host]",
