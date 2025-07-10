@@ -1,6 +1,6 @@
 {
-    "Version": "31",
-    "ReleaseNotes": "👋 ATUALIZAÇÃO DISPONÍVEL UP31! INTERNET ILIMITADA APARTIR DE R$15,00🚀GERE SEU TESTE telegram | Dono @Kryptorvps 🚀CLIQUE EM ATUALIZAR 🚀",
+    "Version": "32",
+    "ReleaseNotes": "👋 ATUALIZAÇÃO DISPONÍVEL UP32! INTERNET ILIMITADA APARTIR DE R$15,00🚀GERE SEU TESTE telegram | Dono @Kryptorvps 🚀CLIQUE EM ATUALIZAR 🚀",
     "UrlUpdate": "https://raw.githubusercontent.com/KryptoFr13nds/KryptoFr13nds/refs/heads/main/C4G",
     "Sms": "",
     "EmailFeedback": "https://downdetector.com.br/",
@@ -24,8 +24,8 @@
             "CheckUser": "",
             "ServerPort": "80",
             "SSLPort": "443",
-            "USER": "",
-            "PASS": ""
+            "USER": "ulimited",
+            "PASS": "network"
         },
 	    {
             "Name": "",
@@ -35,8 +35,8 @@
             "CheckUser": "",
             "ServerPort": "80",
             "SSLPort": "443",
-            "USER": "",
-            "PASS": ""
+            "USER": "ulimited",
+            "PASS": "network"
         },
 		{
 		    "Name": "[🇧🇷][IP]|SSL|SOCKS|SQUID|SECURITY",
@@ -46,8 +46,8 @@
             "CheckUser": "http://45.140.193.94:5454/checkUser",
             "ServerPort": "80",
             "SSLPort": "443",
-            "USER": "",
-            "PASS": ""
+            "USER": "ulimited",
+            "PASS": "network"
         },
 	    {
             "Name": "",
@@ -57,8 +57,8 @@
             "CheckUser": "http://45.140.193.94:5454/checkUser",
             "ServerPort": "80",
             "SSLPort": "443",
-            "USER": "",
-            "PASS": ""
+            "USER": "ulimited",
+            "PASS": "network"
         },
          {
             "Name": "[🇧🇷][DFS]|SSL|SOCKS|SQUID|SECURITY|TLSWS",
@@ -68,8 +68,8 @@
             "CheckUser": "http://45.140.193.94:5454/checkUserr",
             "ServerPort": "80",
             "SSLPort": "443",
-            "USER": "",
-            "PASS": ""
+            "USER": "ulimited",
+            "PASS": "network"
          },
          {
             "Name": "",
@@ -79,8 +79,8 @@
             "CheckUser": "http://206.42.63.5:5454/checkUser",
             "ServerPort": "80",
             "SSLPort": "443",
-            "USER": "",
-            "PASS": ""
+            "USER": "ulimited",
+            "PASS": "network"
          },
          {
             "Name": "[🇧🇷][DFC]|TLS|WS",
@@ -90,8 +90,8 @@
             "CheckUser": "http://45.140.193.94:5454/checkUser",
             "ServerPort": "80",
             "SSLPort": "443",
-            "USER": "",
-            "PASS": ""
+            "USER": "ulimited",
+            "PASS": "network"
          },
 	     {
             "Name": "",
@@ -101,8 +101,8 @@
             "CheckUser": "http://45.140.193.94:5454/checkUser",
             "ServerPort": "80",
             "SSLPort": "443",
-            "USER": "",
-            "PASS": ""
+            "USER": "ulimited",
+            "PASS": "network"
         },
          {
             "Name": "[🇧🇷][DCS]|TLS|WS",
@@ -112,8 +112,8 @@
             "CheckUser": "http://45.140.193.94:5454/checkUser",
             "ServerPort": "80",
             "SSLPort": "443",
-            "USER": "",
-            "PASS": ""
+            "USER": "ulimited",
+            "PASS": "network"
         },
         {
             "Name": "",
@@ -123,8 +123,8 @@
             "CheckUser": "http://206.42.63.5:5454/checkUser",
             "ServerPort": "80",
             "SSLPort": "443",
-            "USER": "",
-            "PASS": ""
+            "USER": "ulimited",
+            "PASS": "network"
         },
         {
             "Name": "[🇧🇷][DCC]|TLS|WS",
@@ -134,8 +134,8 @@
             "CheckUser": "http://45.140.193.94:5454/checkUser",
             "ServerPort": "80",
             "SSLPort": "443",
-            "USER": "",
-            "PASS": ""
+            "USER": "ulimited",
+            "PASS": "network"
         },
     	{
             "Name": "",
@@ -145,8 +145,8 @@
             "CheckUser": "http://206.42.63.5:5454/checkUser",
             "ServerPort": "80",
             "SSLPort": "443",
-            "USER": "",
-            "PASS": ""
+            "USER": "ulimited",
+            "PASS": "network"
         },
         {
             "Name": "[🇧🇷][DEC]|TLS|WS",
@@ -156,8 +156,8 @@
             "CheckUser": "http://45.140.193.94:5454/checkUser",
             "ServerPort": "80",
             "SSLPort": "443",
-            "USER": "",
-            "PASS": ""
+            "USER": "ulimited",
+            "PASS": "network"
         },
     	{
             "Name": "",
@@ -167,8 +167,8 @@
             "CheckUser": "http://45.140.193.94:5454/checkUser",
             "ServerPort": "80",
             "SSLPort": "443",
-            "USER": "",
-            "PASS": ""
+            "USER": "ulimited",
+            "PASS": "network"
         },
         {
             "Name": "[🇧🇷][DES]|TLS|WS",
@@ -178,8 +178,8 @@
             "CheckUser": "http://45.140.193.94:5454/checkUser",
             "ServerPort": "80",
             "SSLPort": "443",
-            "USER": "",
-            "PASS": ""
+            "USER": "ulimited",
+            "PASS": "network"
         },
     	{
             "Name": "",
@@ -189,8 +189,8 @@
             "CheckUser": "http://45.140.193.94:5454/checkUser",
             "ServerPort": "80",
             "SSLPort": "443",
-            "USER": "",
-            "PASS": ""
+            "USER": "ulimited",
+            "PASS": "network"
         }
        
 	
@@ -256,7 +256,7 @@
         {
             "Name": "[🟣][TLS]-1 443🔄10X✈",
             "FLAG": "vivo",
-            "Payload": "ACL / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "GET / HTTP/1.1[crlf]Host:[app_host][crlf]Connection:Keep-Alive[crlf]User-Agent:[ua][crlf]Connection: upgrade[crlf]Upgrade: websocket[crlf][crlf]",
             "SNI": "[app_host]",
             "TlsIP": "vigia.vivo.com.br",
             "ProxyIP": "vigia.vivo.com.br",
@@ -390,7 +390,7 @@
         {
             "Name": "[🟣][TLS]-1 8443🔄10X✈",
             "FLAG": "vivo",
-            "Payload": "ACL / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "GET / HTTP/1.1[crlf]Host:[app_host][crlf]Connection:Keep-Alive[crlf]User-Agent:[ua][crlf]Connection: upgrade[crlf]Upgrade: websocket[crlf][crlf]",
             "SNI": "[app_host]",
             "TlsIP": "vigia.vivo.com.br",
             "ProxyIP": "vigia.vivo.com.br",
