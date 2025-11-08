@@ -1,6 +1,7 @@
 {
-    "Version": "36",
-    "ReleaseNotes": "👋 ATUALIZAÇÃO DISPONÍVEL UP36! INTERNET ILIMITADA APARTIR DE R$15,00🚀GERE SEU TESTE telegram | Dono @Kryptorvps 🚀CLIQUE EM ATUALIZAR 🚀",
+    "Version": "38",
+    "ReleaseNotes": "👋 ATUALIZAÇÃO DISPONÍVEL UP38
+! INTERNET ILIMITADA APARTIR DE R$20,00🚀GERE SEU TESTE telegram | Dono @Kryptorvps 🚀CLIQUE EM ATUALIZAR 🚀",
     "UrlUpdate": "https://github.com/KryptoFr13nds/KryptoFr13nds/blob/main/C4G",
     "Sms": "",
     "EmailFeedback": "https://downdetector.com.br/",
@@ -42,8 +43,8 @@
 		    "Name": "[🇧🇷][IP]|SSL|SOCKS|SQUID|SECURITY",
             "TYPE": "premium",
             "FLAG": "br.png",
-            "ServerIP": "45.140.193.94",
-            "CheckUser": "http://45.140.193.94:5454/checkUser",
+            "ServerIP": "45.140.193.9",
+            "CheckUser": "http://45.140.193.9:5454/checkUser",
             "ServerPort": "80",
             "SSLPort": "443",
             "USER": "ulimited",
@@ -54,7 +55,7 @@
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "",
-            "CheckUser": "http://45.140.193.94:5454/checkUser",
+            "CheckUser": "http://45.140.193.9:5454/checkUser",
             "ServerPort": "80",
             "SSLPort": "443",
             "USER": "ulimited",
@@ -65,7 +66,7 @@
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "dns.kryptor.cfd",
-            "CheckUser": "http://45.140.193.94:5454/checkUserr",
+            "CheckUser": "http://45.140.193.9:5454/checkUserr",
             "ServerPort": "80",
             "SSLPort": "443",
             "USER": "ulimited",
@@ -76,7 +77,7 @@
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "",
-            "CheckUser": "http://206.42.63.5:5454/checkUser",
+            "CheckUser": "http://45.140.193.9:5454/checkUser",
             "ServerPort": "80",
             "SSLPort": "443",
             "USER": "ulimited",
@@ -87,7 +88,7 @@
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "kryptor.cfd",
-            "CheckUser": "http://45.140.193.94:5454/checkUser",
+            "CheckUser": "http://45.140.193.9:5454/checkUser",
             "ServerPort": "80",
             "SSLPort": "443",
             "USER": "ulimited",
@@ -98,7 +99,7 @@
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "",
-            "CheckUser": "http://45.140.193.94:5454/checkUser",
+            "CheckUser": "http://45.140.193.9:5454/checkUser",
             "ServerPort": "80",
             "SSLPort": "443",
             "USER": "ulimited",
@@ -109,7 +110,7 @@
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "fr13nds.cfd",
-            "CheckUser": "http://45.140.193.94:5454/checkUser",
+            "CheckUser": "http://45.140.193.9:5454/checkUser",
             "ServerPort": "80",
             "SSLPort": "443",
             "USER": "ulimited",
@@ -120,7 +121,7 @@
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "",
-            "CheckUser": "http://206.42.63.5:5454/checkUser",
+            "CheckUser": "http://45.140.193.9:5454/checkUser",
             "ServerPort": "80",
             "SSLPort": "443",
             "USER": "ulimited",
@@ -131,7 +132,7 @@
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "dns.fr13nds.cfd",
-            "CheckUser": "http://45.140.193.94:5454/checkUser",
+            "CheckUser": "http://45.140.193.9:5454/checkUser",
             "ServerPort": "80",
             "SSLPort": "443",
             "USER": "ulimited",
@@ -142,7 +143,7 @@
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "",
-            "CheckUser": "http://206.42.63.5:5454/checkUser",
+            "CheckUser": "http://45.140.193.9:5454/checkUser",
             "ServerPort": "80",
             "SSLPort": "443",
             "USER": "ulimited",
@@ -153,7 +154,7 @@
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "fr13nds.site",
-            "CheckUser": "http://45.140.193.94:5454/checkUser",
+            "CheckUser": "http://45.140.193.9:5454/checkUser",
             "ServerPort": "80",
             "SSLPort": "443",
             "USER": "ulimited",
@@ -164,7 +165,7 @@
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "",
-            "CheckUser": "http://45.140.193.94:5454/checkUser",
+            "CheckUser": "http://45.140.193.9:5454/checkUser",
             "ServerPort": "80",
             "SSLPort": "443",
             "USER": "ulimited",
@@ -175,7 +176,7 @@
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "dns.fr13nds.site",
-            "CheckUser": "http://45.140.193.94:5454/checkUser",
+            "CheckUser": "http://45.140.193.9:5454/checkUser",
             "ServerPort": "80",
             "SSLPort": "443",
             "USER": "ulimited",
@@ -186,7 +187,7 @@
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "",
-            "CheckUser": "http://45.140.193.94:5454/checkUser",
+            "CheckUser": "http://45.140.193.9:5454/checkUser",
             "ServerPort": "80",
             "SSLPort": "443",
             "USER": "ulimited",
@@ -1350,7 +1351,7 @@ Host:portalrecarga.vivo.com.br.recarga.portal.vivo.com.br.recarga.vivo.com.br[cr
             "SNI": "",
             "TlsIP": "gslb.fr13nds.cfd",
             "ProxyIP": "gslb.fr13nds.cfd",
-            "ProxyPort": "8080",
+            "ProxyPort": "80",
             "Info": "Proxy"
         },
 	    {                        
@@ -1360,7 +1361,7 @@ Host:portalrecarga.vivo.com.br.recarga.portal.vivo.com.br.recarga.vivo.com.br[cr
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "104.18.37.248",
-            "ProxyPort": "8080",
+            "ProxyPort": "80",
             "Info": "Direct"
         },
 	    {                        
@@ -1370,7 +1371,7 @@ Host:portalrecarga.vivo.com.br.recarga.portal.vivo.com.br.recarga.vivo.com.br[cr
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "172.64.150.8",
-            "ProxyPort": "8080",
+            "ProxyPort": "80",
             "Info": "Direct"
         },
 	    {                        
@@ -1380,7 +1381,7 @@ Host:portalrecarga.vivo.com.br.recarga.portal.vivo.com.br.recarga.vivo.com.br[cr
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "premium-vivo360.vivo.com.br",
-            "ProxyPort": "8080",
+            "ProxyPort": "80",
             "Info": "Direct"
         },		
 	    {                        
@@ -1390,7 +1391,7 @@ Host:portalrecarga.vivo.com.br.recarga.portal.vivo.com.br.recarga.vivo.com.br[cr
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "104.18.7.41",
-            "ProxyPort": "8080",
+            "ProxyPort": "80",
             "Info": "Direct"
         },	
 		{ 
@@ -1411,7 +1412,7 @@ Host:portalrecarga.vivo.com.br.recarga.portal.vivo.com.br.recarga.vivo.com.br[cr
             "SNI": "",
             "TlsIP": "gslb.fr13nds.cfd",
             "ProxyIP": "gslb.fr13nds.cfd",
-            "ProxyPort": "8880",
+            "ProxyPort": "80",
             "Info": "Proxy"
         },
 	    {                        
@@ -1421,7 +1422,7 @@ Host:portalrecarga.vivo.com.br.recarga.portal.vivo.com.br.recarga.vivo.com.br[cr
             "SNI": "",
             "TlsIP": "104.18.37.248",
             "ProxyIP": "104.18.37.248",
-            "ProxyPort": "8880",
+            "ProxyPort": "80",
             "Info": "Proxy"
         },
 	    {                        
@@ -1431,7 +1432,7 @@ Host:portalrecarga.vivo.com.br.recarga.portal.vivo.com.br.recarga.vivo.com.br[cr
             "SNI": "",
             "TlsIP": "172.64.150.8",
             "ProxyIP": "172.64.150.8",
-            "ProxyPort": "8880",
+            "ProxyPort": "80",
             "Info": "Proxy"
         },
 	    {                        
@@ -1441,7 +1442,7 @@ Host:portalrecarga.vivo.com.br.recarga.portal.vivo.com.br.recarga.vivo.com.br[cr
             "SNI": "",
             "TlsIP": "premium-vivo360.vivo.com.br",
             "ProxyIP": "premium-vivo360.vivo.com.br",
-            "ProxyPort": "8880",
+            "ProxyPort": "80",
             "Info": "Proxy"
         },		
 	    {                        
@@ -1451,7 +1452,7 @@ Host:portalrecarga.vivo.com.br.recarga.portal.vivo.com.br.recarga.vivo.com.br[cr
             "SNI": "",
             "TlsIP": "4field.vivo.com.br",
             "ProxyIP": "4field.vivo.com.br",
-            "ProxyPort": "8880",
+            "ProxyPort": "80",
             "Info": "Proxy"
         },	
 		{ 
