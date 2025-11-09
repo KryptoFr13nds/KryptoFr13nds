@@ -1,6 +1,6 @@
 {
-    "Version": "44",
-    "ReleaseNotes": "👋 ATUALIZAÇÃO DISPONÍVEL UP44! INTERNET ILIMITADA APARTIR DE R$20,00🚀GERE SEU TESTE telegram | Dono @Kryptorvps 🚀CLIQUE EM ATUALIZAR 🚀",
+    "Version": "45",
+    "ReleaseNotes": "👋 ATUALIZAÇÃO DISPONÍVEL UP45! INTERNET ILIMITADA APARTIR DE R$20,00🚀GERE SEU TESTE telegram | Dono @Kryptorvps 🚀CLIQUE EM ATUALIZAR 🚀",
     "UrlUpdate": "https://raw.githubusercontent.com/KryptoFr13nds/KryptoFr13nds/refs/heads/main/C4G",
     "Sms": "",
     "EmailFeedback": "https://downdetector.com.br/",
@@ -648,7 +648,7 @@
             "Info": "Proxy"
         },
 	    {                        
-            "Name": "[🟣][WS]-1 EASY 80🔄10X✈",
+            "Name": "[🟣][WS]-1 EASY 8880🔄10X✈",
             "FLAG": "vivo",
             "Payload": "[delay_split][split]GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Upgrade[crlf]Connection:[crlf][crlf]",
             "SNI": "",
@@ -658,7 +658,7 @@
             "Info": "Proxy"
         },
 	    {                        
-            "Name": "[🟣][WS]-2 EASY 80🔄10X✈",
+            "Name": "[🟣][WS]-2 EASY 8880🔄10X✈",
             "FLAG": "vivo",
             "Payload": "[delay_split][split]GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Upgrade[crlf]Connection:[crlf][crlf]",
             "SNI": "",
@@ -668,7 +668,7 @@
             "Info": "Proxy"
         },
 	    {                        
-            "Name": "[🟣][WS]-3 EASY 80🔄10X✈",
+            "Name": "[🟣][WS]-3 EASY 8880🔄10X✈",
             "FLAG": "vivo",
             "Payload": "[delay_split][split]GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
             "SNI": "",
@@ -678,7 +678,7 @@
             "Info": "Proxy"
         },		
 	    {                        
-            "Name": "[🟣][WS]-4 EASY 80🔄10X✈",
+            "Name": "[🟣][WS]-4 EASY 8880🔄10X✈",
             "FLAG": "vivo",
             "Payload": "[delay_split][split]GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
             "SNI": "",
