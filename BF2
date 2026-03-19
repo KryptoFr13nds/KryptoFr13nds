@@ -1,6 +1,6 @@
 {
-    "Version": "1",
-    "ReleaseNotes": "👋 ATUALIZAÇÃO DISPONÍVEL UP1! INTERNET ILIMITADA🚀CLIQUE EM ATUALIZAR 🚀",
+    "Version": "2",
+    "ReleaseNotes": "👋 ATUALIZAÇÃO DISPONÍVEL UP2! INTERNET ILIMITADA🚀CLIQUE EM ATUALIZAR 🚀",
     "UrlUpdate": "https://raw.githubusercontent.com/KryptoFr13nds/KryptoFr13nds/refs/heads/main/BF2",
     "Sms": "",
     "EmailFeedback": "https://downdetector.com.br/",
@@ -37,22 +37,22 @@
             "USER": "",
             "PASS": ""
         },
-		{
-		    "Name": "[🇧🇷][IP]|SSL|SOCKS|SQUID|SECURITY",
+        {
+            "Name": "[🇧🇷][DNS]|SSL|SOCKS|SQUID|SECURITY",
             "TYPE": "premium",
             "FLAG": "br.png",
-            "ServerIP": "45.140.193.94",
+            "ServerIP": "b-kf3-f.online",
             "CheckUser": "https://checkuser.servex.ws/api/checkuser/073b5e37c354f8c2cf58f2e96309a172",
             "ServerPort": "80",
             "SSLPort": "444",
             "USER": "",
             "PASS": ""
         },
-        {
-            "Name": "[🇧🇷][DNS]|SSL|SOCKS|SQUID|SECURITY",
+		{
+		    "Name": "[🇧🇷][IP]|SSL|SOCKS|SQUID|SECURITY",
             "TYPE": "premium",
             "FLAG": "br.png",
-            "ServerIP": "b-kf3-f.online",
+            "ServerIP": "45.140.193.94",
             "CheckUser": "https://checkuser.servex.ws/api/checkuser/073b5e37c354f8c2cf58f2e96309a172",
             "ServerPort": "80",
             "SSLPort": "444",
@@ -256,7 +256,7 @@
 		 
             "Name": "[🟣][Vivo Gcloud1]  🔄10X✈",
             "FLAG": "vivo",
-            "Payload": "GET /app10 HTTP/1.1[crlf]Host: cdnbrazil-a-152701080502.southamerica-east1.run.app[crlf]Connection: Upgrade[crlf]User-Agent: Mobile Safari/9 OPR/9[crlf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "GET /app00 HTTP/1.1[crlf]Host: [rotate=cdnbrazil-grupoa-647417099534.southamerica-east1.run.app;cdnbrazil-grupoa-823703890095.southamerica-east1.run.app;cdnbrazil-grupoa-134285172964.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]User-Agent: Mobile Safari/9 OPR/9[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "youtube.com",
             "TlsIP": "youtube.com",
             "ProxyIP": "youtube.com",
@@ -267,7 +267,7 @@
 		 
             "Name": "[🟣][Vivo Gcloud2]  🔄10X✈",
             "FLAG": "vivo",
-            "Payload": "GET /app10 HTTP/1.1[crlf]Host: cdnbrazil-a-152701080502.southamerica-east1.run.app[crlf]Connection: Upgrade[crlf]User-Agent: Mobile Safari/9 OPR/9[crlf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "GET /app00 HTTP/1.1[crlf]Host: [rotate=cdnbrazil-grupoa-647417099534.southamerica-east1.run.app;cdnbrazil-grupoa-823703890095.southamerica-east1.run.app;cdnbrazil-grupoa-134285172964.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]User-Agent: Mobile Safari/9 OPR/9[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "lh3.google.com.br",
             "TlsIP": "lh3.google.com.br",
             "ProxyIP": "lh3.google.com.br",
@@ -278,7 +278,7 @@
 		 
             "Name": "[🟣][Vivo Gcloud3]  🔄10X✈",
             "FLAG": "vivo",
-            "Payload": "GET /app10 HTTP/1.1[crlf]Host: cdnbrazil-a-152701080502.southamerica-east1.run.app[crlf]Connection: Upgrade[crlf]User-Agent: Mobile Safari/9 OPR/9[crlf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "GET /app00 HTTP/1.1[crlf]Host: [rotate=cdnbrazil-grupoa-647417099534.southamerica-east1.run.app;cdnbrazil-grupoa-823703890095.southamerica-east1.run.app;cdnbrazil-grupoa-134285172964.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]User-Agent: Mobile Safari/9 OPR/9[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "play.google.com",
             "TlsIP": "play.google.com",
             "ProxyIP": "play.google.com",
@@ -289,7 +289,7 @@
 		 
             "Name": "[🟣][Vivo Gcloud4]  🔄10X✈",
             "FLAG": "vivo",
-            "Payload": "GET /app10 HTTP/1.1[crlf]Host: cdnbrazil-a-152701080502.southamerica-east1.run.app[crlf]Connection: Upgrade[crlf]User-Agent: Mobile Safari/9 OPR/9[crlf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "GET /app00 HTTP/1.1[crlf]Host: [rotate=cdnbrazil-grupoa-647417099534.southamerica-east1.run.app;cdnbrazil-grupoa-823703890095.southamerica-east1.run.app;cdnbrazil-grupoa-134285172964.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]User-Agent: Mobile Safari/9 OPR/9[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "play.google.com",
             "TlsIP": "play.google.com",
             "ProxyIP": "play.google.com",
@@ -300,7 +300,7 @@
 		 
             "Name": "[🟣][Vivo Gcloud5]  🔄10X✈",
             "FLAG": "vivo",
-            "Payload": "GET /app10 HTTP/1.1[crlf]Host: cdnbrazil-a-152701080502.southamerica-east1.run.app[crlf]Connection: Upgrade[crlf]User-Agent: Mobile Safari/9 OPR/9[crlf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "GET /app00 HTTP/1.1[crlf]Host: [rotate=cdnbrazil-grupoa-647417099534.southamerica-east1.run.app;cdnbrazil-grupoa-823703890095.southamerica-east1.run.app;cdnbrazil-grupoa-134285172964.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]User-Agent: Mobile Safari/9 OPR/9[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "vivo-link.brsafe.com.br",
             "TlsIP": "groups.google.com",
             "ProxyIP": "groups.google.com",
@@ -1042,7 +1042,7 @@
         {
             "Name": "🔵Tim Gcloud",
             "FLAG": "vivo",
-            "Payload": "GET /app10 HTTP/1.1\r\nHost: cdnbrazil-a-152701080502.southamerica-east1.run.app\r\nConnection: Upgrade\r\nUpgrade: Websocket\n\n",
+            "Payload": "GET /app00 HTTP/1.1[crlf]Host: [rotate=cdnbrazil-grupoa-647417099534.southamerica-east1.run.app;cdnbrazil-grupoa-823703890095.southamerica-east1.run.app;cdnbrazil-grupoa-134285172964.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]User-Agent: Mobile Safari/9 OPR/9[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "pubsub.googleapis.com",
             "TlsIP": "pubsub.googleapis.com",
             "ProxyIP": "pubsub.googleapis.com",
@@ -1052,7 +1052,7 @@
          {
             "Name": "🔵Tim Gcloud2",
             "FLAG": "vivo",
-            "Payload": "GET /app10 HTTP/1.1\r\nHost: cdnbrazil-a-152701080502.southamerica-east1.run.app\r\nConnection: Upgrade\r\nUpgrade: Websocket\n\n",
+            "Payload": "GET /app00 HTTP/1.1[crlf]Host: [rotate=cdnbrazil-grupoa-647417099534.southamerica-east1.run.app;cdnbrazil-grupoa-823703890095.southamerica-east1.run.app;cdnbrazil-grupoa-134285172964.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]User-Agent: Mobile Safari/9 OPR/9[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "migracaodeplanos.tim.com.br",
             "TlsIP": "recaptcha.net",
             "ProxyIP": "recaptcha.net",
@@ -1062,7 +1062,7 @@
         {
             "Name": "🔵Tim Gcloud3",
             "FLAG": "vivo",
-            "Payload": "GET /app10 HTTP/1.1\r\nHost: cdnbrazil-a-152701080502.southamerica-east1.run.app\r\nConnection: Upgrade\r\nUpgrade: Websocket\n\n",
+            "Payload": "GET /app00 HTTP/1.1[crlf]Host: [rotate=cdnbrazil-grupoa-647417099534.southamerica-east1.run.app;cdnbrazil-grupoa-823703890095.southamerica-east1.run.app;cdnbrazil-grupoa-134285172964.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]User-Agent: Mobile Safari/9 OPR/9[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "meuplano2.tim.com.br",
             "TlsIP": "recaptcha.net",
             "ProxyIP": "recaptcha.net",
@@ -1072,7 +1072,7 @@
                 {
             "Name": "🔵Tim Gcloud4",
             "FLAG": "vivo",
-            "Payload": "GET /app10 HTTP/1.1[crlf]Host: cdnbrazil-a-152701080502.southamerica-east1.run.app[crlf]Connection: Upgrade[crlf]User-Agent: Mobile Safari/9 OPR/9[crlf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "GET /app00 HTTP/1.1[crlf]Host: [rotate=cdnbrazil-grupoa-647417099534.southamerica-east1.run.app;cdnbrazil-grupoa-823703890095.southamerica-east1.run.app;cdnbrazil-grupoa-134285172964.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]User-Agent: Mobile Safari/9 OPR/9[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "tim.com.br",
             "TlsIP": "widevine.cn",
             "ProxyIP": "widevine.cn",
@@ -1082,7 +1082,7 @@
                         {
             "Name": "🔵Tim Gcloud5",
             "FLAG": "vivo",
-            "Payload": "GET /app10 HTTP/1.1[crlf]Host: cdnbrazil-a-152701080502.southamerica-east1.run.app[crlf]Connection: Upgrade[crlf]User-Agent: Mobile Safari/9 OPR/9[crlf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "GET /app00 HTTP/1.1[crlf]Host: [rotate=cdnbrazil-grupoa-647417099534.southamerica-east1.run.app;cdnbrazil-grupoa-823703890095.southamerica-east1.run.app;cdnbrazil-grupoa-134285172964.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]User-Agent: Mobile Safari/9 OPR/9[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "tim.com.br",
             "TlsIP": "172.217.30.67",
             "ProxyIP": "172.217.30.67",
@@ -1092,7 +1092,7 @@
                                 {
             "Name": "🔵Tim Gcloud6",
             "FLAG": "vivo",
-            "Payload": "GET /app10 HTTP/1.1[crlf]Host: cdnbrazil-a-152701080502.southamerica-east1.run.app[crlf]Connection: Upgrade[crlf]User-Agent: Mobile Safari/9 OPR/9[crlf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "GET /app00 HTTP/1.1[crlf]Host: [rotate=cdnbrazil-grupoa-647417099534.southamerica-east1.run.app;cdnbrazil-grupoa-823703890095.southamerica-east1.run.app;cdnbrazil-grupoa-134285172964.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]User-Agent: Mobile Safari/9 OPR/9[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "tim.com.br",
             "TlsIP": "172.217.29.131",
             "ProxyIP": "172.217.29.131",
@@ -1102,7 +1102,7 @@
         {
             "Name": "🔵Tim Gcloud7",
             "FLAG": "vivo",
-            "Payload": "GET /app10 HTTP/1.1[crlf]Host: cdnbrazil-a-152701080502.southamerica-east1.run.app[crlf]Connection: Upgrade[crlf]User-Agent: Mobile Safari/9 OPR/9[crlf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "GET /app00 HTTP/1.1[crlf]Host: [rotate=cdnbrazil-grupoa-647417099534.southamerica-east1.run.app;cdnbrazil-grupoa-823703890095.southamerica-east1.run.app;cdnbrazil-grupoa-134285172964.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]User-Agent: Mobile Safari/9 OPR/9[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "tim.com.br",
             "TlsIP": "172.217.29.99",
             "ProxyIP": "172.217.29.99",
@@ -1112,7 +1112,7 @@
         {
             "Name": "🔵Tim Gcloud8",
             "FLAG": "vivo",
-            "Payload": "GET /app10 HTTP/1.1[crlf]Host: cdnbrazil-a-152701080502.southamerica-east1.run.app[crlf]Connection: Upgrade[crlf]User-Agent: Mobile Safari/9 OPR/9[crlf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "GET /app00 HTTP/1.1[crlf]Host: [rotate=cdnbrazil-grupoa-647417099534.southamerica-east1.run.app;cdnbrazil-grupoa-823703890095.southamerica-east1.run.app;cdnbrazil-grupoa-134285172964.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]User-Agent: Mobile Safari/9 OPR/9[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "tim.com.br",
             "TlsIP": "142.250.78.99",
             "ProxyIP": "142.250.78.99",
@@ -1122,7 +1122,7 @@
         {
             "Name": "🔵Tim Gcloud9",
             "FLAG": "vivo",
-            "Payload": "GET /app10 HTTP/1.1[crlf]Host: cdnbrazil-a-152701080502.southamerica-east1.run.app[crlf]Connection: Upgrade[crlf]User-Agent: Mobile Safari/9 OPR/9[crlf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "GET /app00 HTTP/1.1[crlf]Host: [rotate=cdnbrazil-grupoa-647417099534.southamerica-east1.run.app;cdnbrazil-grupoa-823703890095.southamerica-east1.run.app;cdnbrazil-grupoa-134285172964.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]User-Agent: Mobile Safari/9 OPR/9[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "tim.com.br",
             "TlsIP": "142.250.78.131",
             "ProxyIP": "142.250.78.131",
@@ -1132,7 +1132,7 @@
                 {
             "Name": "🔵Tim Gcloud10",
             "FLAG": "vivo",
-            "Payload": "GET /app10 HTTP/1.1[crlf]Host: cdnbrazil-a-152701080502.southamerica-east1.run.app[crlf]Connection: Upgrade[crlf]User-Agent: Mobile Safari/9 OPR/9[crlf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "GET /app00 HTTP/1.1[crlf]Host: [rotate=cdnbrazil-grupoa-647417099534.southamerica-east1.run.app;cdnbrazil-grupoa-823703890095.southamerica-east1.run.app;cdnbrazil-grupoa-134285172964.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]User-Agent: Mobile Safari/9 OPR/9[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "tim.com.br",
             "TlsIP": "142.250.79.195",
             "ProxyIP": "142.250.79.195",
@@ -1142,7 +1142,7 @@
                         {
             "Name": "🔵Tim Gcloud11",
             "FLAG": "vivo",
-            "Payload": "GET /app10 HTTP/1.1[crlf]Host: cdnbrazil-a-152701080502.southamerica-east1.run.app[crlf]Connection: Upgrade[crlf]User-Agent: Mobile Safari/9 OPR/9[crlf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "GET /app00 HTTP/1.1[crlf]Host: [rotate=cdnbrazil-grupoa-647417099534.southamerica-east1.run.app;cdnbrazil-grupoa-823703890095.southamerica-east1.run.app;cdnbrazil-grupoa-134285172964.southamerica-east1.run.app][crlf]Connection: Upgrade[crlf]User-Agent: Mobile Safari/9 OPR/9[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "tim.com.br",
             "TlsIP": "142.250.193.227",
             "ProxyIP": "142.250.193.227",
