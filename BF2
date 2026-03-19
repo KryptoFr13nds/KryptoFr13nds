@@ -1,11 +1,11 @@
 {
-    "Version": "46",
-    "ReleaseNotes": "👋 ATUALIZAÇÃO DISPONÍVEL UP46! INTERNET ILIMITADA APARTIR DE R$20,00🚀GERE SEU TESTE telegram | Dono @Kryptorvps 🚀CLIQUE EM ATUALIZAR 🚀",
-    "UrlUpdate": "https://raw.githubusercontent.com/KryptoFr13nds/KryptoFr13nds/refs/heads/main/C4G",
+    "Version": "1",
+    "ReleaseNotes": "👋 ATUALIZAÇÃO DISPONÍVEL UP1! INTERNET ILIMITADA🚀CLIQUE EM ATUALIZAR 🚀",
+    "UrlUpdate": "https://raw.githubusercontent.com/KryptoFr13nds/KryptoFr13nds/refs/heads/main/BF2",
     "Sms": "",
     "EmailFeedback": "https://downdetector.com.br/",
     "UrlContato": "https://fiber.google.com/speedtest/",
-    "UrlTermos": "https://telegra.ph/MONTAGENS-DE-SERVIDORES-DE-INTERNET-via-VPN-ULIMITED-PARA-REVENDER-e-PARA-USO-PESSOAL---UPDATE-2023-03-02",
+    "UrlTermos": "https://dd5559.com/?pid=4685447371",
     "CheckUser": "true",
     "UdpPort": "7100;7200;7300",
     "Udp": [
@@ -37,23 +37,23 @@
             "USER": "",
             "PASS": ""
         },
-        {
-            "Name": "[🇧🇷][DNS]|SSL|SOCKS|SQUID|SECURITY",
+		{
+		    "Name": "[🇧🇷][IP]|SSL|SOCKS|SQUID|SECURITY",
             "TYPE": "premium",
             "FLAG": "br.png",
-            "ServerIP": "dns.kryptor.cfd",
-            "CheckUser": "http://45.140.193.9:5454/checkUser",
+            "ServerIP": "45.140.193.94",
+            "CheckUser": "https://checkuser.servex.ws/api/checkuser/073b5e37c354f8c2cf58f2e96309a172",
             "ServerPort": "80",
             "SSLPort": "444",
             "USER": "",
             "PASS": ""
         },
-		{
-		    "Name": "[🇧🇷][IP]|SSL|SOCKS|SQUID|SECURITY",
+        {
+            "Name": "[🇧🇷][DNS]|SSL|SOCKS|SQUID|SECURITY",
             "TYPE": "premium",
             "FLAG": "br.png",
-            "ServerIP": "45.140.193.9",
-            "CheckUser": "http://45.140.193.9:5454/checkUser",
+            "ServerIP": "b-kf3-f.online",
+            "CheckUser": "https://checkuser.servex.ws/api/checkuser/073b5e37c354f8c2cf58f2e96309a172",
             "ServerPort": "80",
             "SSLPort": "444",
             "USER": "",
@@ -64,7 +64,7 @@
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "",
-            "CheckUser": "http://45.140.193.9:5454/checkUser",
+            "CheckUser": "https://checkuser.servex.ws/api/checkuser/073b5e37c354f8c2cf58f2e96309a172",
             "ServerPort": "80",
             "SSLPort": "443",
             "USER": "",
@@ -74,8 +74,8 @@
             "Name": "[🇧🇷][DFS]|TLS|WS",
             "TYPE": "premium",
             "FLAG": "br.png",
-            "ServerIP": "dns.kryptor.cfd",
-            "CheckUser": "http://45.140.193.9:5454/checkUser",
+            "ServerIP": "b-kf3-f.store",
+            "CheckUser": "https://checkuser.servex.ws/api/checkuser/073b5e37c354f8c2cf58f2e96309a172",
             "ServerPort": "80",
             "SSLPort": "443",
             "USER": "",
@@ -85,8 +85,8 @@
             "Name": "[🇧🇷][DFC]|TLS|WS",
             "TYPE": "premium",
             "FLAG": "br.png",
-            "ServerIP": "kryptor.cfd",
-            "CheckUser": "http://45.140.193.9:5454/checkUser",
+            "ServerIP": "prx.b-kf3-f.store",
+            "CheckUser": "https://checkuser.servex.ws/api/checkuser/073b5e37c354f8c2cf58f2e96309a172",
             "ServerPort": "80",
             "SSLPort": "443",
             "USER": "",
@@ -97,7 +97,7 @@
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "",
-            "CheckUser": "http://45.140.193.9:5454/checkUser",
+            "CheckUser": "https://checkuser.servex.ws/api/checkuser/073b5e37c354f8c2cf58f2e96309a172",
             "ServerPort": "80",
             "SSLPort": "443",
             "USER": "",
@@ -107,10 +107,10 @@
             "Name": "[🇧🇷][DCS]|TLS|WS",
             "TYPE": "premium",
             "FLAG": "br.png",
-            "ServerIP": "dns.fr13nds.cfd",
-            "CheckUser": "http://45.140.193.9:5454/checkUser",
-            "ServerPort": "80",
-            "SSLPort": "443",
+            "ServerIP": "kryptorvps.store",
+            "CheckUser": "https://checkuser.servex.ws/api/checkuser/073b5e37c354f8c2cf58f2e96309a172",
+            "ServerPort": "8880",
+            "SSLPort": "8443",
             "USER": "",
             "PASS": ""
         },
@@ -118,10 +118,10 @@
             "Name": "[🇧🇷][DCC]|TLS|WS",
             "TYPE": "premium",
             "FLAG": "br.png",
-            "ServerIP": "fr13nds.cfd",
-            "CheckUser": "http://45.140.193.9:5454/checkUser",
-            "ServerPort": "80",
-            "SSLPort": "443",
+            "ServerIP": "prx.kryptorvps.store",
+            "CheckUser": "https://checkuser.servex.ws/api/checkuser/073b5e37c354f8c2cf58f2e96309a172",
+            "ServerPort": "8880",
+            "SSLPort": "8443",
             "USER": "",
             "PASS": ""
         },
@@ -130,7 +130,7 @@
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "",
-            "CheckUser": "http://45.140.193.9:5454/checkUser",
+            "CheckUser": "https://checkuser.servex.ws/api/checkuser/073b5e37c354f8c2cf58f2e96309a172",
             "ServerPort": "80",
             "SSLPort": "443",
             "USER": "",
@@ -140,10 +140,10 @@
             "Name": "[🇧🇷][DES]|TLS|WS",
             "TYPE": "premium",
             "FLAG": "br.png",
-            "ServerIP": "dns.fr13nds.site",
-            "CheckUser": "http://45.140.193.9:5454/checkUser",
-            "ServerPort": "80",
-            "SSLPort": "443",
+            "ServerIP": "dns.fr13.sbs",
+            "CheckUser": "https://checkuser.servex.ws/api/checkuser/073b5e37c354f8c2cf58f2e96309a172",
+            "ServerPort": "8880",
+            "SSLPort": "8443",
             "USER": "",
             "PASS": ""
 		},
@@ -151,14 +151,36 @@
             "Name": "[🇧🇷][DEC]|TLS|WS",
             "TYPE": "premium",
             "FLAG": "br.png",
-            "ServerIP": "fr13nds.site",
-            "CheckUser": "http://45.140.193.9:5454/checkUser",
+            "ServerIP": "fr13.sbs",
+            "CheckUser": "https://checkuser.servex.ws/api/checkuser/073b5e37c354f8c2cf58f2e96309a172",
+            "ServerPort": "8880",
+            "SSLPort": "8443",
+            "USER": "",
+            "PASS": ""
+        },
+        	{
+            "Name": "[🇧🇷][GCLOUD]|TLS|WS",
+            "TYPE": "premium",
+            "FLAG": "br.png",
+            "ServerIP": "cdnbrazil-a-152701080502.southamerica-east1.run.app",
+            "CheckUser": "https://checkuser.servex.ws/api/checkuser/073b5e37c354f8c2cf58f2e96309a172",
             "ServerPort": "80",
             "SSLPort": "443",
             "USER": "",
             "PASS": ""
+        },
+        	{
+            "Name": "[🇧🇷][AWSFRONT]|TLS|WS",
+            "TYPE": "premium",
+            "FLAG": "br.png",
+            "ServerIP": "d3kucbxwqd8qrn.cloudfront.net",
+            "CheckUser": "https://checkuser.servex.ws/api/checkuser/073b5e37c354f8c2cf58f2e96309a172",
+            "ServerPort": "80",
+            "SSLPort": "443",
+            "USER": "",
+            "PASS": ""
+            
         }
-	
 		
 	
     ],
@@ -197,9 +219,9 @@
             "ProxyPort": "",
             "Info": "Proxy"
         },		
-		 { 
+        { 
 		 
-            "Name": "👇💜OPERADORA ROXA CONEXÕES PLANO PRE TURBO SECURITY 80 80✈️ 🔁💜👇",
+            "Name": "👇💜OPERADORA ROXA CONEXÕES PLANO PRE TURBO SECURITY 8080 80✈️ 🔁💜👇",
             "FLAG": "vivo",
             "Payload": "",
             "SNI": "",
@@ -232,7 +254,95 @@
         },
         { 
 		 
-            "Name": "[🟣][SECURITY]-1  🔄10X✄1�7",
+            "Name": "[🟣][Vivo Gcloud1]  🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "GET /app10 HTTP/1.1[crlf]Host: cdnbrazil-a-152701080502.southamerica-east1.run.app[crlf]Connection: Upgrade[crlf]User-Agent: Mobile Safari/9 OPR/9[crlf]Upgrade: Websocket[crlf][crlf]",
+            "SNI": "youtube.com",
+            "TlsIP": "youtube.com",
+            "ProxyIP": "youtube.com",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+            { 
+		 
+            "Name": "[🟣][Vivo Gcloud2]  🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "GET /app10 HTTP/1.1[crlf]Host: cdnbrazil-a-152701080502.southamerica-east1.run.app[crlf]Connection: Upgrade[crlf]User-Agent: Mobile Safari/9 OPR/9[crlf]Upgrade: Websocket[crlf][crlf]",
+            "SNI": "lh3.google.com.br",
+            "TlsIP": "lh3.google.com.br",
+            "ProxyIP": "lh3.google.com.br",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+        { 
+		 
+            "Name": "[🟣][Vivo Gcloud3]  🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "GET /app10 HTTP/1.1[crlf]Host: cdnbrazil-a-152701080502.southamerica-east1.run.app[crlf]Connection: Upgrade[crlf]User-Agent: Mobile Safari/9 OPR/9[crlf]Upgrade: Websocket[crlf][crlf]",
+            "SNI": "play.google.com",
+            "TlsIP": "play.google.com",
+            "ProxyIP": "play.google.com",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+        { 
+		 
+            "Name": "[🟣][Vivo Gcloud4]  🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "GET /app10 HTTP/1.1[crlf]Host: cdnbrazil-a-152701080502.southamerica-east1.run.app[crlf]Connection: Upgrade[crlf]User-Agent: Mobile Safari/9 OPR/9[crlf]Upgrade: Websocket[crlf][crlf]",
+            "SNI": "play.google.com",
+            "TlsIP": "play.google.com",
+            "ProxyIP": "play.google.com",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+                { 
+		 
+            "Name": "[🟣][Vivo Gcloud5]  🔄10X✈",
+            "FLAG": "vivo",
+            "Payload": "GET /app10 HTTP/1.1[crlf]Host: cdnbrazil-a-152701080502.southamerica-east1.run.app[crlf]Connection: Upgrade[crlf]User-Agent: Mobile Safari/9 OPR/9[crlf]Upgrade: Websocket[crlf][crlf]",
+            "SNI": "vivo-link.brsafe.com.br",
+            "TlsIP": "groups.google.com",
+            "ProxyIP": "groups.google.com",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+		 { 
+		 
+            "Name": "👇💜OPERADORA ROXA CONEXÕES PLANO PRE TURBO SECURITY 8080 80✈️ 🔁💜👇",
+            "FLAG": "vivo",
+            "Payload": "",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Proxy"
+        },
+		{ 
+		 
+            "Name": "",
+            "FLAG": "",
+            "Payload": "",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Proxy"
+        },
+		{ 
+		 
+            "Name": "",
+            "FLAG": "",
+            "Payload": "",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Proxy"
+        },
+        { 
+		 
+            "Name": "[🟣][SECURITY]-1  🔄10X✈",
             "FLAG": "vivo",
             "Payload": "GET / HTTP/1.1[crlf]Host:[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "[app_host]",
@@ -242,17 +352,17 @@
             "Info": "Proxy"
         },
 		{                        
-            "Name": "[🟣][SECURITY]-2  🔄10X✄1�7",
+            "Name": "[🟣][SECURITY]-2  🔄10X✈",
             "FLAG": "vivo",
             "Payload": "GET / HTTP/1.1[crlf]Host:[crlf]Upgrade:websocket[crlf]Connection:[crlf][crlf]",
             "SNI": "",
             "TlsIP": "[app_host]",
             "ProxyIP": "[app_host]",
-            "ProxyPort": "80",
+            "ProxyPort": "8080",
             "Info": "Proxy"
         },
         {                        
-            "Name": "[🟣][SECURITY]-3  🔄10X✄1�7",
+            "Name": "[🟣][SECURITY]-3  🔄10X✈",
             "FLAG": "vivo",
             "Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: portalrecarga.vivo.com.br[crlf]Upgrade: Upgrade[crlf]Connection:[crlf][crlf]",
             "SNI": "[app_host]",
@@ -262,17 +372,17 @@
             "Info": "Proxy"
         },
      	{                        
-            "Name": "[🟣][SECURITY]-4  🔄10X✄1�7",
+            "Name": "[🟣][SECURITY]-4  🔄10X✈",
             "FLAG": "vivo",
             "Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
             "SNI": "[app_host]",
             "TlsIP": "[app_host]",
             "ProxyIP": "[app_host]",
-            "ProxyPort": "80",
+            "ProxyPort": "8080",
             "Info": "Proxy"
         },			
         {                        
-            "Name": "[🟣][SECURITY]-5  🔄10X✄1�7",
+            "Name": "[🟣][SECURITY]-5  🔄10X✈",
             "FLAG": "vivo",
             "Payload": "[delay_split][netData][crlf][split]GET http://portalrecarga.vivo.com.br/recarga/home/?/  HTTP/1.1[crlf][crlf]Host: portalrecarga.vivo.com.br/recarga/home/?[crlf]X-Online-Host: portalrecarga.vivo.com.br/recarga/home/?[crlf]Connection: Keep-Alive[crlf][crlf]",
             "SNI": "[app_host]",
@@ -282,23 +392,23 @@
             "Info": "Proxy"
         },	
     	 {                        
-            "Name": "[🟣][SECURITY]-6  🔄10X✄1�7",
+            "Name": "[🟣][SECURITY]-6  🔄10X✈",
             "FLAG": "vivo",
             "Payload": "[split_delay]ACL http://portalrecarga.vivo.com.br/recarga/home/?/ HTTP/1.1[crlf]portalrecarga.vivo.com.br/recarga/home/?[lf]Host: portalrecarga.vivo.com.br/recarga/home/?[lf][lf]CONNECT portalrecarga.vivo.com.br/recarga/home/? [host_port][lf]GET portalrecarga.vivo.com.br/recarga/home/? [lf]",
             "SNI": "[app_host]",
             "TlsIP": "[app_host]",
             "ProxyIP": "[app_host]",
-            "ProxyPort": "80",
+            "ProxyPort": "8080",
             "Info": "Proxy"
         },	
         {                        
-            "Name": "[🟣][SECURITY]-7  🔄10X✄1�7",
+            "Name": "[🟣][SECURITY]-7  🔄10X✈",
             "FLAG": "vivo",
             "Payload": "[delay_split]ACL [host_port] [protocol][crlf][cr][crlf]X-Online-Host: portalrecarga.vivo.com.br/recarga/home/?[crlf]Connection: [crlf]User-Agent: [ua][crlf]Content-Lenght: 99999999999[crlf][crlf]",
             "SNI": "[app_host]",
             "TlsIP": "[app_host]",
             "ProxyIP": "[app_host]",
-            "ProxyPort": "80",
+            "ProxyPort": "8080",
             "Info": "Proxy"
         },
 		{ 
@@ -358,7 +468,7 @@
         },		 
 	    { 
 		 
-            "Name": "[🟣][SQUID]-1 🔄10X✄1�7",
+            "Name": "[🟣][SQUID]-1 🔄10X✈",
             "FLAG": "vivo",
             "Payload": "[delay_split]ACL 127.0.0.1:22 HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
             "SNI": "[app_host]",
@@ -369,9 +479,9 @@
           },
 		  { 
 		 
-            "Name": "[🟣][SQUID]-2 🔄10X✄1�7",
+            "Name": "[🟣][SQUID]-2 🔄10X✈",
             "FLAG": "vivo",
-            "Payload": "[delay_split]GET 127.0.0.1:80  HTTP/1.1[lf]Host:[app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+            "Payload": "[delay_split]GET 127.0.0.1:8080  HTTP/1.1[lf]Host:[app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
             "SNI": "[app_host]",
             "TlsIP": "[app_host]",
             "ProxyIP": "[app_host]",
@@ -380,7 +490,7 @@
           },
 		  { 
 		 
-            "Name": "[🟣][SQUID]-3 🔄10X✄1�7",
+            "Name": "[🟣][SQUID]-3 🔄10X✈",
             "FLAG": "vivo",
             "Payload": "[delay_split]GET 127.0.0.1:80 HTTP/1.1[lf]Host: [app_host][lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[crlf][crlf]",
             "SNI": "[app_host]",
@@ -443,7 +553,7 @@
         },	
          { 
 		 
-            "Name": "👇💜OPERADORA ROXA CONEXÕES WS EASY PRIME CONTROLE 80 8080 8880✈️🔁💜👇",
+            "Name": "👇💜OPERADORA ROXA CONEXÕES WS EASY PRIME CONTROLE 8880 8080 80✈️🔁💜👇",
             "FLAG": "vivo",
             "Payload": "",
             "SNI": "",
@@ -469,7 +579,7 @@
             "Payload": "[delay_split][split]GET / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade: websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "gslb.kryptor.cfd",
+            "ProxyIP": "cdn.b-kf3-f.online",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
@@ -571,7 +681,7 @@
             "Payload": "[delay_split][split]GET / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade: websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "gslb.kryptor.cfd",
+            "ProxyIP": "cdn.b-kf3-f.online",
             "ProxyPort": "8080",
             "Info": "Proxy"
         },
@@ -643,7 +753,7 @@
             "Payload": "[delay_split][split]GET / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade: websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "gslb.kryptor.cfd",
+            "ProxyIP": "cdn.b-kf3-f.online",
             "ProxyPort": "8880",
             "Info": "Proxy"
         },
@@ -747,8 +857,8 @@
             "FLAG": "vivo",
             "Payload": "PROPPATCH / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
             "SNI": "[app_host]",
-            "TlsIP": "gslb.kryptor.cfd",
-            "ProxyIP": "gslb.kryptor.cfd",
+            "TlsIP": "cdn.b-kf3-f.online",
+            "ProxyIP": "cdn.b-kf3-f.online",
             "ProxyPort": "443",
             "Info": "Tlsws"
         },
@@ -829,8 +939,8 @@
             "FLAG": "vivo",
             "Payload": "PROPPATCH / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
             "SNI": "[app_host]",
-            "TlsIP": "gslb.kryptor.cfd",
-            "ProxyIP": "gslb.kryptor.cfd",
+            "TlsIP": "cdn.b-kf3-f.online",
+            "ProxyIP": "cdn.b-kf3-f.online",
             "ProxyPort": "8443",
             "Info": "Tlsws"
         },
@@ -896,6 +1006,392 @@
             "ProxyPort": "",
             "Info": "Proxy"
         },		
+                { 
+		 
+            "Name": "👇💙OPERADORA AZUL CONEXÕES PLANO COM CREDITO VALIDO GCLOUD✈️ 🔁💙👇",
+            "FLAG": "tim",
+            "Payload": "",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Proxy"
+        },
+	    { 
+		 
+            "Name": "",
+            "FLAG": "",
+            "Payload": "",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Proxy"
+        },
+		{ 
+		 
+            "Name": "",
+            "FLAG": "",
+            "Payload": "",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "🔵Tim Gcloud",
+            "FLAG": "vivo",
+            "Payload": "GET /app10 HTTP/1.1\r\nHost: cdnbrazil-a-152701080502.southamerica-east1.run.app\r\nConnection: Upgrade\r\nUpgrade: Websocket\n\n",
+            "SNI": "pubsub.googleapis.com",
+            "TlsIP": "pubsub.googleapis.com",
+            "ProxyIP": "pubsub.googleapis.com",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+         {
+            "Name": "🔵Tim Gcloud2",
+            "FLAG": "vivo",
+            "Payload": "GET /app10 HTTP/1.1\r\nHost: cdnbrazil-a-152701080502.southamerica-east1.run.app\r\nConnection: Upgrade\r\nUpgrade: Websocket\n\n",
+            "SNI": "migracaodeplanos.tim.com.br",
+            "TlsIP": "recaptcha.net",
+            "ProxyIP": "recaptcha.net",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },
+        {
+            "Name": "🔵Tim Gcloud3",
+            "FLAG": "vivo",
+            "Payload": "GET /app10 HTTP/1.1\r\nHost: cdnbrazil-a-152701080502.southamerica-east1.run.app\r\nConnection: Upgrade\r\nUpgrade: Websocket\n\n",
+            "SNI": "meuplano2.tim.com.br",
+            "TlsIP": "recaptcha.net",
+            "ProxyIP": "recaptcha.net",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },      
+                {
+            "Name": "🔵Tim Gcloud4",
+            "FLAG": "vivo",
+            "Payload": "GET /app10 HTTP/1.1[crlf]Host: cdnbrazil-a-152701080502.southamerica-east1.run.app[crlf]Connection: Upgrade[crlf]User-Agent: Mobile Safari/9 OPR/9[crlf]Upgrade: Websocket[crlf][crlf]",
+            "SNI": "tim.com.br",
+            "TlsIP": "widevine.cn",
+            "ProxyIP": "widevine.cn",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },      
+                        {
+            "Name": "🔵Tim Gcloud5",
+            "FLAG": "vivo",
+            "Payload": "GET /app10 HTTP/1.1[crlf]Host: cdnbrazil-a-152701080502.southamerica-east1.run.app[crlf]Connection: Upgrade[crlf]User-Agent: Mobile Safari/9 OPR/9[crlf]Upgrade: Websocket[crlf][crlf]",
+            "SNI": "tim.com.br",
+            "TlsIP": "172.217.30.67",
+            "ProxyIP": "172.217.30.67",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },      
+                                {
+            "Name": "🔵Tim Gcloud6",
+            "FLAG": "vivo",
+            "Payload": "GET /app10 HTTP/1.1[crlf]Host: cdnbrazil-a-152701080502.southamerica-east1.run.app[crlf]Connection: Upgrade[crlf]User-Agent: Mobile Safari/9 OPR/9[crlf]Upgrade: Websocket[crlf][crlf]",
+            "SNI": "tim.com.br",
+            "TlsIP": "172.217.29.131",
+            "ProxyIP": "172.217.29.131",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },      
+        {
+            "Name": "🔵Tim Gcloud7",
+            "FLAG": "vivo",
+            "Payload": "GET /app10 HTTP/1.1[crlf]Host: cdnbrazil-a-152701080502.southamerica-east1.run.app[crlf]Connection: Upgrade[crlf]User-Agent: Mobile Safari/9 OPR/9[crlf]Upgrade: Websocket[crlf][crlf]",
+            "SNI": "tim.com.br",
+            "TlsIP": "172.217.29.99",
+            "ProxyIP": "172.217.29.99",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },      
+        {
+            "Name": "🔵Tim Gcloud8",
+            "FLAG": "vivo",
+            "Payload": "GET /app10 HTTP/1.1[crlf]Host: cdnbrazil-a-152701080502.southamerica-east1.run.app[crlf]Connection: Upgrade[crlf]User-Agent: Mobile Safari/9 OPR/9[crlf]Upgrade: Websocket[crlf][crlf]",
+            "SNI": "tim.com.br",
+            "TlsIP": "142.250.78.99",
+            "ProxyIP": "142.250.78.99",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },      
+        {
+            "Name": "🔵Tim Gcloud9",
+            "FLAG": "vivo",
+            "Payload": "GET /app10 HTTP/1.1[crlf]Host: cdnbrazil-a-152701080502.southamerica-east1.run.app[crlf]Connection: Upgrade[crlf]User-Agent: Mobile Safari/9 OPR/9[crlf]Upgrade: Websocket[crlf][crlf]",
+            "SNI": "tim.com.br",
+            "TlsIP": "142.250.78.131",
+            "ProxyIP": "142.250.78.131",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },      
+                {
+            "Name": "🔵Tim Gcloud10",
+            "FLAG": "vivo",
+            "Payload": "GET /app10 HTTP/1.1[crlf]Host: cdnbrazil-a-152701080502.southamerica-east1.run.app[crlf]Connection: Upgrade[crlf]User-Agent: Mobile Safari/9 OPR/9[crlf]Upgrade: Websocket[crlf][crlf]",
+            "SNI": "tim.com.br",
+            "TlsIP": "142.250.79.195",
+            "ProxyIP": "142.250.79.195",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },      
+                        {
+            "Name": "🔵Tim Gcloud11",
+            "FLAG": "vivo",
+            "Payload": "GET /app10 HTTP/1.1[crlf]Host: cdnbrazil-a-152701080502.southamerica-east1.run.app[crlf]Connection: Upgrade[crlf]User-Agent: Mobile Safari/9 OPR/9[crlf]Upgrade: Websocket[crlf][crlf]",
+            "SNI": "tim.com.br",
+            "TlsIP": "142.250.193.227",
+            "ProxyIP": "142.250.193.227",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+        },      
+        { 
+		 
+            "Name": "👇💙OPERADORA AZUL CONEXÕES PLANO COM CREDITO VALIDO AWS✈️ 🔁💙👇",
+            "FLAG": "tim",
+            "Payload": "",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Proxy"
+        },
+	    { 
+		 
+            "Name": "",
+            "FLAG": "",
+            "Payload": "",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Proxy"
+        },
+		{ 
+		 
+            "Name": "",
+            "FLAG": "",
+            "Payload": "",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": "Proxy"
+        },
+        {
+    "Name": "🔵Tim Aws 01",
+    "FLAG": "tim",
+    "Payload": "[split][crlf]MOVE / HTTP/1.1[crlf]Host: bounce.mail.planos.tim.com.br[crlf][crlf][split]GET- / HTTP/1.1[crlf]Host:[app_host][crlf] [crlf]GET /top HTTP/1.1[crlf]Host: d3kucbxwqd8qrn.cloudfront.net[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]@TSTOPEPEED[crlf][split][crlf]",
+    "SNI": "",
+    "TlsIP": "bounce.mail.planos.tim.com.br",
+    "ProxyIP": "52.85.213.38",
+    "ProxyPort": 80,
+    "Info": "Proxy"
+},
+{
+    "Name": "🔵Tim Aws 02",
+    "FLAG": "tim",
+    "Payload": "[split][crlf]MOVE / HTTP/1.1[crlf]Host: bounce.mail.planos.tim.com.br[crlf][crlf][split]GET- / HTTP/1.1[crlf]Host:[app_host][crlf] [crlf]GET /top HTTP/1.1[crlf]Host: d3kucbxwqd8qrn.cloudfront.net[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]@TSTOPEPEED[crlf][split][crlf]",
+    "SNI": "",
+    "TlsIP": "bounce.mail.planos.tim.com.br",
+    "ProxyIP": "bounce.mail.planos.tim.com.br",
+    "ProxyPort": 80,
+    "Info": "Proxy"
+},
+{
+    "Name": "🔵Tim Aws 03",
+    "FLAG": "tim",
+    "Payload": "[delay_split][crlf]GET / HTTP/1.1[crlf]Host: bounce.mail.planos.tim.com.br[crlf][crlf][split]GET- / HTTP/1.1[crlf]Host:[app_host][crlf] [crlf]GET /top HTTP/1.1[crlf]Host: d3kucbxwqd8qrn.cloudfront.net[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]@TSTOPEPEED[crlf][split][crlf]",
+    "SNI": "",
+    "TlsIP": "bounce.mail.planos.tim.com.br",
+    "ProxyIP": "bounce.mail.planos.tim.com.br",
+    "ProxyPort": 80,
+    "Info": "Proxy"
+},
+{
+            "Name": "🔵Tim Aws GET",
+            "FLAG": "tim",
+            "Payload": "GET / HTTP/1.1[crlf]Host: bounce.mail.planos.tim.com.br[crlf][crlf][split]GET- / HTTP/1.1[crlf]Host: d3kucbxwqd8qrn.cloudfront.net[crlf] [crlf]GET /top HTTP/1.1[crlf]Host: d3kucbxwqd8qrn.cloudfront.net[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]@TSTOPEPEED[crlf][split][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "bounce.mail.planos.tim.com.br",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+{
+            "Name": "🔵Tim Aws POST",
+            "FLAG": "tim",
+            "Payload": "POST / HTTP/1.1[crlf]Host: bounce.mail.planos.tim.com.br[crlf][crlf][split]GET- / HTTP/1.1[crlf]Host: d3kucbxwqd8qrn.cloudfront.net[crlf] [crlf]GET /top HTTP/1.1[crlf]Host: d3kucbxwqd8qrn.cloudfront.net[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]@TSTOPEPEED[crlf][split][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "bounce.mail.planos.tim.com.br",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+    {
+            "Name": "🔵Tim Aws PUT",
+            "FLAG": "tim",
+            "Payload": "PUT / HTTP/1.1[crlf]Host: bounce.mail.planos.tim.com.br[crlf][crlf][split]GET- / HTTP/1.1[crlf]Host: d3kucbxwqd8qrn.cloudfront.net[crlf] [crlf]GET /top HTTP/1.1[crlf]Host: d3kucbxwqd8qrn.cloudfront.net[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]@TSTOPEPEED[crlf][split][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "bounce.mail.planos.tim.com.br",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+    {
+            "Name": "🔵Tim Aws HEAD",
+            "FLAG": "tim",
+            "Payload": "HEAD / HTTP/1.1[crlf]Host: bounce.mail.planos.tim.com.br[crlf][crlf][split]GET- / HTTP/1.1[crlf]Host: d3kucbxwqd8qrn.cloudfront.net[crlf] [crlf]GET /top HTTP/1.1[crlf]Host: d3kucbxwqd8qrn.cloudfront.net[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]@TSTOPEPEED[crlf][split][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "bounce.mail.planos.tim.com.br",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "🔵Tim Aws OPTIONS",
+            "FLAG": "tim",
+            "Payload": "OPTIONS / HTTP/1.1[crlf]Host: bounce.mail.planos.tim.com.br[crlf][crlf][split]GET- / HTTP/1.1[crlf]Host: d3kucbxwqd8qrn.cloudfront.net[crlf] [crlf]GET /top HTTP/1.1[crlf]Host: d3kucbxwqd8qrn.cloudfront.net[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]@TSTOPEPEED[crlf][split][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "bounce.mail.planos.tim.com.br",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "🔵Tim Aws PATCH",
+            "FLAG": "tim",
+            "Payload": "PATCH / HTTP/1.1[crlf]Host: bounce.mail.planos.tim.com.br[crlf][crlf][split]GET- / HTTP/1.1[crlf]Host: d3kucbxwqd8qrn.cloudfront.net[crlf] [crlf]GET /top HTTP/1.1[crlf]Host: d3kucbxwqd8qrn.cloudfront.net[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]@TSTOPEPEED[crlf][split][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "bounce.mail.planos.tim.com.br",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "🔵Tim Aws DELETE",
+            "FLAG": "tim",
+            "Payload": "DELETE / HTTP/1.1[crlf]Host: bounce.mail.planos.tim.com.br[crlf][crlf][split]GET- / HTTP/1.1[crlf]Host: d3kucbxwqd8qrn.cloudfront.net[crlf] [crlf]GET /top HTTP/1.1[crlf]Host: d3kucbxwqd8qrn.cloudfront.net[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]@TSTOPEPEED[crlf][split][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "bounce.mail.planos.tim.com.br",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "🔵Tim Aws CONNECT",
+            "FLAG": "tim",
+            "Payload": "CONNECT / HTTP/1.1[crlf]Host: bounce.mail.planos.tim.com.br[crlf][crlf][split]GET- / HTTP/1.1[crlf]Host: d3kucbxwqd8qrn.cloudfront.net[crlf] [crlf]GET /top HTTP/1.1[crlf]Host: d3kucbxwqd8qrn.cloudfront.net[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]@TSTOPEPEED[crlf][split][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "bounce.mail.planos.tim.com.br",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "🔵Tim Aws PROPFIND",
+            "FLAG": "tim",
+            "Payload": "PROPFIND / HTTP/1.1[crlf]Host: bounce.mail.planos.tim.com.br[crlf][crlf][split]GET- / HTTP/1.1[crlf]Host: d3kucbxwqd8qrn.cloudfront.net[crlf] [crlf]GET /top HTTP/1.1[crlf]Host: d3kucbxwqd8qrn.cloudfront.net[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]@TSTOPEPEED[crlf][split][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "bounce.mail.planos.tim.com.br",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "🔵Tim Aws PROPPATCH",
+            "FLAG": "tim",
+            "Payload": "PROPPATCH / HTTP/1.1[crlf]Host: bounce.mail.planos.tim.com.br[crlf][crlf][split]GET- / HTTP/1.1[crlf]Host: d3kucbxwqd8qrn.cloudfront.net[crlf] [crlf]GET /top HTTP/1.1[crlf]Host: d3kucbxwqd8qrn.cloudfront.net[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]@TSTOPEPEED[crlf][split][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "bounce.mail.planos.tim.com.br",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+    {
+            "Name": "🔵Tim Aws MKCOL",
+            "FLAG": "tim",
+            "Payload": "MKCOL / HTTP/1.1[crlf]Host: bounce.mail.planos.tim.com.br[crlf][crlf][split]GET- / HTTP/1.1[crlf]Host: d3kucbxwqd8qrn.cloudfront.net[crlf] [crlf]GET /top HTTP/1.1[crlf]Host: d3kucbxwqd8qrn.cloudfront.net[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]@TSTOPEPEED[crlf][split][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "bounce.mail.planos.tim.com.br",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "🔵Tim Aws COPY",
+            "FLAG": "tim",
+            "Payload": "COPY / HTTP/1.1[crlf]Host: bounce.mail.planos.tim.com.br[crlf][crlf][split]GET- / HTTP/1.1[crlf]Host: d3kucbxwqd8qrn.cloudfront.net[crlf] [crlf]GET /top HTTP/1.1[crlf]Host: d3kucbxwqd8qrn.cloudfront.net[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]@TSTOPEPEED[crlf][split][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "bounce.mail.planos.tim.com.br",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "🔵Tim Aws MOVE",
+            "FLAG": "tim",
+            "Payload": "MOVE / HTTP/1.1[crlf]Host: bounce.mail.planos.tim.com.br[crlf][crlf][split]GET- / HTTP/1.1[crlf]Host: d3kucbxwqd8qrn.cloudfront.net[crlf] [crlf]GET /top HTTP/1.1[crlf]Host: d3kucbxwqd8qrn.cloudfront.net[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]@TSTOPEPEED[crlf][split][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "bounce.mail.planos.tim.com.br",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+    {
+            "Name": "🔵Tim Aws LOCK",
+            "FLAG": "tim",
+            "Payload": "LOCK / HTTP/1.1[crlf]Host: bounce.mail.planos.tim.com.br[crlf][crlf][split]GET- / HTTP/1.1[crlf]Host: d3kucbxwqd8qrn.cloudfront.net[crlf] [crlf]GET /top HTTP/1.1[crlf]Host: d3kucbxwqd8qrn.cloudfront.net[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]@TSTOPEPEED[crlf][split][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "bounce.mail.planos.tim.com.br",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "🔵Tim Aws UNLOCK",
+            "FLAG": "tim",
+            "Payload": "UNLOCK / HTTP/1.1[crlf]Host: bounce.mail.planos.tim.com.br[crlf][crlf][split]GET- / HTTP/1.1[crlf]Host: d3kucbxwqd8qrn.cloudfront.net[crlf] [crlf]GET /top HTTP/1.1[crlf]Host: d3kucbxwqd8qrn.cloudfront.net[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]@TSTOPEPEED[crlf][split][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "bounce.mail.planos.tim.com.br",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "🔵Tim Aws UPDATE",
+            "FLAG": "tim",
+            "Payload": "UPDATE / HTTP/1.1[crlf]Host: bounce.mail.planos.tim.com.br[crlf][crlf][split]GET- / HTTP/1.1[crlf]Host: d3kucbxwqd8qrn.cloudfront.net[crlf] [crlf]GET /top HTTP/1.1[crlf]Host: d3kucbxwqd8qrn.cloudfront.net[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]@TSTOPEPEED[crlf][split][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "bounce.mail.planos.tim.com.br",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "🔵Tim Aws SEARCH",
+            "FLAG": "tim",
+            "Payload": "SEARCH / HTTP/1.1[crlf]Host: bounce.mail.planos.tim.com.br[crlf][crlf][split]GET- / HTTP/1.1[crlf]Host: d3kucbxwqd8qrn.cloudfront.net[crlf] [crlf]GET /top HTTP/1.1[crlf]Host: d3kucbxwqd8qrn.cloudfront.net[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]@TSTOPEPEED[crlf][split][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "bounce.mail.planos.tim.com.br",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+    {
+            "Name": "🔵Tim Aws MULTI REQUEST",
+            "FLAG": "tim",
+            "Payload": "[rotate=GET;POST;PUT;HEAD;OPTIONS;PATCH;DELETE;CONNECT;PROPFIND;PROPPATCH;MKCOL;COPY;MOVE;LOCK;UNLOCK;UPDATE;SEARCH] / HTTP/1.1[crlf]Host: bounce.mail.planos.tim.com.br[crlf][crlf][split]GET- / HTTP/1.1[crlf]Host: d3kucbxwqd8qrn.cloudfront.net[crlf] [crlf]GET /top HTTP/1.1[crlf]Host: d3kucbxwqd8qrn.cloudfront.net[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]@TSTOPEPEED[crlf][split][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "bounce.mail.planos.tim.com.br",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
 		 { 
 		 
             "Name": "👇💙OPERADORA AZUL CONEXÕES PLANO COM CREDITO VALIDO✈️ 🔁💙👇",
@@ -1383,7 +1879,7 @@
             "Name": "[🔴][SSL]-2 [PLANOS]",
             "FLAG": "claro",
             "Payload": "",
-            "SNI": "cdn.whatsapp.com",
+            "SNI": "x.com",
             "TlsIP": "[app_host]",
             "ProxyIP": "",
             "ProxyPort": "444",
@@ -1393,7 +1889,7 @@
             "Name": "[🔴][SSL]-3 [PLANOS]",
             "FLAG": "claro",
             "Payload": "",
-            "SNI": "api.whatsapp.com",
+            "SNI": "www.tiktok.com",
             "TlsIP": "[app_host]",
             "ProxyIP": "",
             "ProxyPort": "444",
@@ -1403,7 +1899,7 @@
             "Name": "[🔴][SSL]-4 [PLANOS]",
             "FLAG": "claro",
             "Payload": "",
-            "SNI": "translate.whatsapp.com",
+            "SNI": "m.waze.com",
             "TlsIP": "[app_host]",
             "ProxyIP": "",
             "ProxyPort": "444",
@@ -1413,7 +1909,7 @@
             "Name": "[🔴][SSL]-5 [PLANOS]",
             "FLAG": "claro",
             "Payload": "",
-            "SNI": "dev-web.whatsapp.com",
+            "SNI": "web.whatsapp.com",
             "TlsIP": "[app_host]",
             "ProxyIP": "",
             "ProxyPort": "444",
@@ -1423,7 +1919,7 @@
             "Name": "[🔴][SSL]-6 [PLANOS]",
             "FLAG": "claro",
             "Payload": "",
-            "SNI": "faq.whatsapp.com",
+            "SNI": "m.twitter.com",
             "TlsIP": "[app_host]",
             "ProxyIP": "",
             "ProxyPort": "444",
